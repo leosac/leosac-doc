@@ -1,0 +1,23 @@
+<map id="src/modules/wiegand/ws/WiegandConfigSerializer.hpp" name="src/modules/wiegand/ws/WiegandConfigSerializer.hpp">
+<area shape="rect" id="node2" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="534,95,649,121"/>
+<area shape="rect" id="node5" href="$d8/df5/WiegandConfig_8hpp.html" title="modules/wiegand/WiegandConfig.hpp" alt="" coords="673,95,915,121"/>
+<area shape="rect" id="node6" href="$d8/dbe/Buzzer_8hpp.html" title="hardware/Buzzer.hpp" alt="" coords="347,169,492,196"/>
+<area shape="rect" id="node8" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="557,319,743,345"/>
+<area shape="rect" id="node18" href="$d9/d02/GPIO_8hpp.html" title="hardware/GPIO.hpp" alt="" coords="556,169,693,196"/>
+<area shape="rect" id="node19" href="$d1/d60/LED_8hpp.html" title="hardware/LED.hpp" alt="" coords="191,169,322,196"/>
+<area shape="rect" id="node20" href="$d4/d66/RFIDReader_8hpp.html" title="hardware/RFIDReader.hpp" alt="" coords="769,169,947,196"/>
+<area shape="rect" id="node21" href="$d5/d90/WiegandFwd_8hpp.html" title="modules/wiegand/WiegandFwd.hpp" alt="" coords="2443,319,2671,345"/>
+<area shape="rect" id="node22" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="2008,169,2159,196"/>
+<area shape="rect" id="node7" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="447,244,592,271"/>
+<area shape="rect" id="node9" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="521,401,627,427"/>
+<area shape="rect" id="node23" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="2313,319,2403,345"/>
+<area shape="rect" id="node26" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="1631,244,1791,271"/>
+<area shape="rect" id="node27" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="1385,319,1558,345"/>
+<area shape="rect" id="node32" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1489,401,1646,427"/>
+<area shape="rect" id="node38" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1881,393,2059,435"/>
+<area shape="rect" id="node39" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="2083,401,2270,427"/>
+<area shape="rect" id="node40" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="1721,401,1857,427"/>
+<area shape="rect" id="node28" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1126,401,1289,427"/>
+<area shape="rect" id="node33" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="969,401,1102,427"/>
+<area shape="rect" id="node34" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="956,483,1072,509"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="src/modules/wiegand/ws/WiegandConfigSerializer.cpp" name="src/modules/wiegand/ws/WiegandConfigSerializer.cpp">
+<area shape="rect" id="node2" href="$de/d9c/WiegandConfigSerializer_8hpp.html" title="modules/wiegand/ws\l/WiegandConfigSerializer.hpp" alt="" coords="1255,95,1450,136"/>
+<area shape="rect" id="node24" href="$d1/d56/GetServiceRegistry_8hpp.html" title="core/GetServiceRegistry.hpp" alt="" coords="579,102,769,129"/>
+<area shape="rect" id="node27" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="877,281,1020,307"/>
+<area shape="rect" id="node45" href="$dd/d50/HardwareService_8hpp.html" title="hardware/HardwareService.hpp" alt="" coords="901,191,1105,218"/>
+<area shape="rect" id="node50" href="$d7/d0c/RFIDReaderSerializer_8hpp.html" title="hardware/serializers\l/RFIDReaderSerializer.hpp" alt="" coords="1470,184,1649,225"/>
+<area shape="rect" id="node3" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="1095,281,1210,307"/>
+<area shape="rect" id="node6" href="$d8/df5/WiegandConfig_8hpp.html" title="modules/wiegand/WiegandConfig.hpp" alt="" coords="1708,191,1949,218"/>
+<area shape="rect" id="node7" href="$d8/dbe/Buzzer_8hpp.html" title="hardware/Buzzer.hpp" alt="" coords="2387,281,2532,307"/>
+<area shape="rect" id="node9" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="1789,437,1975,464"/>
+<area shape="rect" id="node16" href="$d9/d02/GPIO_8hpp.html" title="hardware/GPIO.hpp" alt="" coords="1867,281,2004,307"/>
+<area shape="rect" id="node17" href="$d1/d60/LED_8hpp.html" title="hardware/LED.hpp" alt="" coords="2231,281,2362,307"/>
+<area shape="rect" id="node18" href="$d4/d66/RFIDReader_8hpp.html" title="hardware/RFIDReader.hpp" alt="" coords="2029,281,2207,307"/>
+<area shape="rect" id="node19" href="$d5/d90/WiegandFwd_8hpp.html" title="modules/wiegand/WiegandFwd.hpp" alt="" coords="1563,281,1791,307"/>
+<area shape="rect" id="node20" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="1336,281,1487,307"/>
+<area shape="rect" id="node8" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="2144,363,2289,389"/>
+<area shape="rect" id="node10" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1718,512,1825,539"/>
+<area shape="rect" id="node21" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="1325,363,1415,389"/>
+<area shape="rect" id="node25" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="577,191,771,218"/>
+<area shape="rect" id="node26" href="$d2/de6/ServiceRegistry_8hpp.html" title="tools/service/ServiceRegistry.hpp" alt="" coords="231,191,450,218"/>
+<area shape="rect" id="node38" href="$dc/dc2/bs2_8hpp.html" title="tools/bs2.hpp" alt="" coords="335,281,435,307"/>
+<area shape="rect" id="node39" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="114,437,210,464"/>
+<area shape="rect" id="node40" href="$db/dd1/Registry_8hpp.html" title="tools/registry/Registry.hpp" alt="" coords="24,363,199,389"/>
+<area shape="rect" id="node28" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="855,363,1013,389"/>
+<area shape="rect" id="node31" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="676,437,877,464"/>
+<area shape="rect" id="node32" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1057,512,1200,539"/>
+<area shape="rect" id="node34" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="422,512,561,539"/>
+<area shape="rect" id="node35" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="585,512,713,539"/>
+<area shape="rect" id="node36" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="841,512,982,539"/>
+<area shape="rect" id="node46" href="$da/dde/ExtensibleSerializer_8hpp.html" title="tools/serializers/Extensible\lSerializer.hpp" alt="" coords="486,273,665,315"/>
+<area shape="rect" id="node47" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="528,363,673,389"/>
+</map>
