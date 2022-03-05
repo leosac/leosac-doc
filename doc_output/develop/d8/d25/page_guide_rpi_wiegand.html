@@ -95,7 +95,7 @@ $(document).ready(function(){initNavTree('d8/d25/page_guide_rpi_wiegand.html','.
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>This page describes how to set up a Raspberry with a Wiegand reader, step by step. It is not the recommended approach in production but can be useful in lab for tests purpose. We recommend to use dedicated PCB hardware connected to the Raspberry Pi (or any other pico-pc) or to go with page_guide_rpi_piface_wiegand.html</p>
-<h1><a class="anchor" id="autotoc_md28"></a>
+<h1><a class="anchor" id="autotoc_md31"></a>
 Informations</h1>
 <p>General infos</p>
 <ul>
@@ -108,14 +108,14 @@ Informations</h1>
 <img src="../../raspberry-pi-rev2-gpio-pinout.jpg" alt=""/>
 <div class="caption">
 Raspberry pin-out</div></div>
-   <h2><a class="anchor" id="autotoc_md29"></a>
+   <h2><a class="anchor" id="autotoc_md32"></a>
 Voltage Divider</h2>
 <p>A Wiegand reader will usually use +5V as its "high" voltage level. However, Raspberry Pi's pins are built to deal with 3.3V current. Therefore we need to reduce the voltage in order to not damage the pins.</p>
 <p>We want to go from +5V to about +3.3V: <code>Vin = +5</code> and we would like <code>Vout = +3.3</code>.</p>
 <p>We will use 2 resistors: <code>R1 = 330</code> and <code>R2 = 560</code>. This gives <code>Vout = 3.146</code>, which is acceptable.</p>
-<h1><a class="anchor" id="autotoc_md30"></a>
+<h1><a class="anchor" id="autotoc_md33"></a>
 Guide</h1>
-<h2><a class="anchor" id="autotoc_md31"></a>
+<h2><a class="anchor" id="autotoc_md34"></a>
 Step 1: Prepare the GPIOs</h2>
 <p>Raspberry Pi with wires connected to GPIO.</p>
 <div class="image">
@@ -128,13 +128,13 @@ Raspberry Pi GPIOs</div></div>
 <li>The green wire is connected to GPIO 14.</li>
 <li>The white wire is connected to GPIO 15.</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md32"></a>
+<h2><a class="anchor" id="autotoc_md35"></a>
 Step 2: Prepare the breadboard</h2>
 <p>This is what the breadboard look like, with 4 resistors for voltage divider. The led will be lighted if an access control is successful. </p><div class="image">
 <img src="../../wiegand_voltdivider2.jpg" alt=""/>
 <div class="caption">
 Breadboard</div></div>
-   <h2><a class="anchor" id="autotoc_md33"></a>
+   <h2><a class="anchor" id="autotoc_md36"></a>
 Step 3: The wiegand reader</h2>
 <div class="image">
 <img src="../../wiegand_voltdivider3.jpg" alt=""/>
@@ -148,13 +148,13 @@ Wiegard reader</div></div>
 <li>No color wire is a ground that needs to be connected to the raspi's ground.</li>
 </ul>
 <p>The reader could be powered by the Raspi's 5V pin, but we use an external powering source.</p>
-<h2><a class="anchor" id="autotoc_md34"></a>
+<h2><a class="anchor" id="autotoc_md37"></a>
 Step 4: Plug in the raspi's wires into the board</h2>
 <p>We then plug the raspberry pi's wire (connected to the GPIOs) into the board. This will allow us to retrieve data from the reader as well as powering the led when we need to. </p><div class="image">
 <img src="../../wiegand_voltdivider4.jpg" alt=""/>
 <div class="caption">
 Plug Raspberry with Breadboard</div></div>
-   <h2><a class="anchor" id="autotoc_md35"></a>
+   <h2><a class="anchor" id="autotoc_md38"></a>
 Step 5: Plug the reader into the board</h2>
 <div class="image">
 <img src="../../wiegand_voltdivider5.jpg" alt=""/>
@@ -168,7 +168,7 @@ Plug Reader with Breadboard</div></div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d30/page_guides.html">Guides</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 15:17:42 for Leosac by
+    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

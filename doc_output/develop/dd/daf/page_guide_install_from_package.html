@@ -99,12 +99,15 @@ $(document).ready(function(){initNavTree('dd/daf/page_guide_install_from_package
 Background</h2>
 <p>This guide is intended to be used on Debian Bullseye with amd64 architecture or Raspbian Bullseye with armv6/armv7/arm64 architecture. The process described here is a straightforward and relatively simple approach to building and installing <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> on the native hardware. It does this at the expense of speed. The build process described here will take several hours to complete on a modern Raspberry Pi, and will take around 12 hours or more to complete on the model 1 Pi's and the Zero. Consider using one of the other build methods if build time is important.</p>
 <h2><a class="anchor" id="autotoc_md22"></a>
+Download pre-built releases</h2>
+<p>DEB files can be downloaded directly from GitHub releases here: <a href="https://github.com/leosac/leosac/releases">https://github.com/leosac/leosac/releases</a></p>
+<h2><a class="anchor" id="autotoc_md23"></a>
 Dependencies</h2>
 <p>For starters, install these packages:</p><ul>
-<li><code>apt-get install cmake build-essential pkg-config git sudo devscripts</code></li>
+<li><code>apt-get install cmake build-essential pkg-config git sudo devscripts debhelper</code></li>
 </ul>
 <p>There are additional dependencies required to build <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>, but those will be installed for you by the deb.sh script.</p>
-<h2><a class="anchor" id="autotoc_md23"></a>
+<h2><a class="anchor" id="autotoc_md24"></a>
 Build</h2>
 <p>Get the <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> Debian packaging script and mark it executable:</p><ul>
 <li><code>wget <a href="https://raw.githubusercontent.com/leosac/leosac/develop/deb.sh">https://raw.githubusercontent.com/leosac/leosac/develop/deb.sh</a></code></li>
@@ -122,9 +125,15 @@ Build</h2>
 </ul>
 <p>When the build completes, it will present the name of any arbitrary folder under /tmp where the newly built package files reside. From the command line, navigate to that folder and install the <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> debian package file using dpkg -i or gdebi.</p><ul>
 <li><code>cd /tmp/some-random-name</code></li>
-<li><code>sudo gdebi leosac_0.8.0-1_amd64.deb</code></li>
+<li><code>sudo dpkg -i leosac_0.8.0-1_amd64.deb</code></li>
 </ul>
-<p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> is now installed, but before you can start it, you need to create a kernel.xml file. See the <a class="el" href="../../d5/d97/page_guide_rpi_piface_wiegand.html">installation guide</a>. </p>
+<h2><a class="anchor" id="autotoc_md25"></a>
+Use</h2>
+<p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> is now installed, but before you can start it, you need to create/edit a configuration file on /etc/leosac.d/kernel.xml. See the <a class="el" href="../../d5/d97/page_guide_rpi_piface_wiegand.html">installation guide</a>.</p>
+<p>Once the configuration file ready, enable the service and start it:</p><ul>
+<li><code>systemctl enable leosac</code></li>
+<li><code>systemctl start leosac</code> </li>
+</ul>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->
@@ -132,7 +141,7 @@ Build</h2>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d30/page_guides.html">Guides</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 15:17:42 for Leosac by
+    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

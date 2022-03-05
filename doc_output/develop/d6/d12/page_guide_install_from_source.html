@@ -95,10 +95,10 @@ $(document).ready(function(){initNavTree('d6/d12/page_guide_install_from_source.
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>Describe how to build <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> from source.</p>
-<h2><a class="anchor" id="autotoc_md24"></a>
+<h2><a class="anchor" id="autotoc_md26"></a>
 Background</h2>
 <p>This guide is intended to be used on Debian Bullseye with amd64 architecture or Raspbian Stretch with armv6/armv7/arm64 architecture. While not quite as slow as building <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> into a deb package, this method can still takes hours to complete when building natively on a Raspberry Pi.</p>
-<h2><a class="anchor" id="autotoc_md25"></a>
+<h2><a class="anchor" id="autotoc_md27"></a>
 Dependencies</h2>
 <p>You will need a working Linux environment and the following packages:</p>
 <ul>
@@ -111,7 +111,7 @@ Dependencies</h2>
 <li>GoogleTest is required if you plan to build the test suite.</li>
 </ul>
 <p>Such dependencies need to be installed: </p><div class="fragment"><div class="line">sudo apt-get install cmake build-essential pkg-config git apt-utils libssl-dev libzmq5 libzmq3-dev libcurl4-openssl-dev libtclap-dev libscrypt-dev python3 python3-pip gcc-9 g++-9 libboost-all-dev libgtest-dev libsqlite3-dev libpq-dev odb libodb-dev libodb-pgsql-dev libodb-pgsql-2.4 libodb-sqlite-2.4 libodb-sqlite-dev libodb-boost-dev</div>
-</div><!-- fragment --><h2><a class="anchor" id="autotoc_md26"></a>
+</div><!-- fragment --><h2><a class="anchor" id="autotoc_md28"></a>
 Build</h2>
 <p><em>Note:</em> Make sure <code>g++ --version</code> shows at least 4.8. You can use the <code>update-alternative</code> command on Debian to set the default version of <code>gcc/g++</code>.</p>
 <p>Clone the repo and peform a legacy make install from-source: </p><div class="fragment"><div class="line">git clone -b master https://github.com/islog/leosac.git</div>
@@ -127,7 +127,7 @@ Build</h2>
 <div class="line">make</div>
 </div><!-- fragment --><p>The <code>LEOSAC_PLATFORM</code> var is set to 'Unknown' by default, you can safely ignore it for now, or see <em>Advanced CMake</em> flags section for more info. </p><pre class="fragment">* `LEOSAC_GPROF`: CMake will add [GNU Gprof](https://en.wikipedia.org/wiki/Gprof) compilation/linking flags. This flag is for debugging purpose only and should be coupled with `-DCMAKE_BUILD_TYPE=Debug`
 * `LEOSAC_BUILD_MODULES`: Unset this flag if you don't want CMake to build Leosac modules.
-</pre><h2><a class="anchor" id="autotoc_md27"></a>
+</pre><h2><a class="anchor" id="autotoc_md29"></a>
 Follow-Up Tasks</h2>
 <p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> is now installed on your system, but there are couple of additional tasks you should perform.</p>
 <p>Edit the leosac service file, changing <code>/usr/bin/leosac</code> to <code>/usr/local/bin/leosac</code>, then copy it into place:</p><ul>
@@ -135,7 +135,11 @@ Follow-Up Tasks</h2>
 <li><code>sudo cp ../pkg/debian/leosac.service /etc/systemd/system</code></li>
 </ul>
 <dl class="section note"><dt>Note</dt><dd>The steps above assume you are still in the build subfolder created earlier.</dd></dl>
-<p>Finally, before you can start <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>, you need to create a kernel.xml file. See the <a class="el" href="../../d5/d97/page_guide_rpi_piface_wiegand.html">installation guide</a>. </p>
+<p>Finally, before you can start <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>, you need to create a kernel.xml file. See the <a class="el" href="../../d5/d97/page_guide_rpi_piface_wiegand.html">installation guide</a>.</p>
+<h2><a class="anchor" id="autotoc_md30"></a>
+Distcc</h2>
+<p><a href="https://www.distcc.org/">distcc</a> is a powerful tool that allows cross-compilation in a distributed manner. It is strongly recommended to setup distcc when developing leosac if you're building directly on raspberry like hardware because standard ARM boards are very slow in the compilation stage.</p>
+<p>A proper setup on a standard x86/x64 machine can easily speed up the process by a factor of ten. </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->
@@ -143,7 +147,7 @@ Follow-Up Tasks</h2>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d30/page_guides.html">Guides</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 15:17:42 for Leosac by
+    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
