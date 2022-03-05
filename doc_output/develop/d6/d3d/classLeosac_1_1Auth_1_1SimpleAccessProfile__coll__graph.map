@@ -1,5 +1,10 @@
 <map id="Leosac::Auth::SimpleAccessProfile" name="Leosac::Auth::SimpleAccessProfile">
-<area shape="rect" id="node2" href="$d5/d20/classLeosac_1_1Auth_1_1IAccessProfile.html" title="Holds information about access permission. " alt="" coords="415,5,607,32"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="205,48,285,75"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="5,41,132,82"/>
+<area shape="rect" id="node1" title="Concrete implementation of a simple access control class." alt="" coords="965,63,1168,105"/>
+<area shape="rect" id="node2" href="$d5/d20/classLeosac_1_1Auth_1_1IAccessProfile.html" title="Holds information about access permission." alt="" coords="637,5,840,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="657,56,820,112"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="411,48,498,75"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="124,41,263,82"/>
+<area shape="rect" id="node6" title=" " alt="" coords="385,114,524,155"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="115,121,272,148"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,121,44,148"/>
 </map>

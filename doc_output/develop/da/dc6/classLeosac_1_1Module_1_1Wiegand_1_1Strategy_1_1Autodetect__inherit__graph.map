@@ -1,3 +1,4 @@
 <map id="Leosac::Module::Wiegand::Strategy::Autodetect" name="Leosac::Module::Wiegand::Strategy::Autodetect">
-<area shape="rect" id="node2" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node1" title="Variable strategy that tries to autodetect what it reads." alt="" coords="13,95,201,136"/>
+<area shape="rect" id="node2" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern." alt="" coords="5,5,209,47"/>
 </map>

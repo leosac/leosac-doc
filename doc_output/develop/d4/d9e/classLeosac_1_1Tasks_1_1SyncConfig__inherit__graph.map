@@ -1,3 +1,4 @@
 <map id="Leosac::Tasks::SyncConfig" name="Leosac::Tasks::SyncConfig">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="25,5,170,32"/>
+<area shape="rect" id="node1" title="Sync the configuration using the configuration fetched from the master server." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="27,5,175,32"/>
 </map>

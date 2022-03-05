@@ -1,4 +1,5 @@
 <map id="Leosac::Test::Helper::FakeGPIO" name="Leosac::Test::Helper::FakeGPIO">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="37,96,117,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="14,5,141,47"/>
+<area shape="rect" id="node1" title="A test helper class that emulate a GPIO pin." alt="" coords="5,185,157,227"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="38,96,125,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="12,5,151,47"/>
 </map>

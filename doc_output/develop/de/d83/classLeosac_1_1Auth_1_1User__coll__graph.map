@@ -1,5 +1,14 @@
 <map id="Leosac::Auth::User" name="Leosac::Auth::User">
-<area shape="rect" id="node5" title="STL class. " alt="" coords="272,210,352,237"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,203,132,244"/>
-<area shape="rect" id="node8" href="$d9/d24/classLeosac_1_1Auth_1_1ValidityInfo.html" title="A simple class that stores (and can be queried for) the validity of some objects. ..." alt="" coords="226,327,398,354"/>
+<area shape="rect" id="node1" title="Represent a user." alt="" coords="880,223,1023,250"/>
+<area shape="rect" id="node2" title=" " alt="" coords="470,5,621,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="400,71,691,112"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="137,78,295,105"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,78,44,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="473,136,617,177"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="502,210,589,237"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="147,203,285,244"/>
+<area shape="rect" id="node9" title=" " alt="" coords="447,261,644,303"/>
+<area shape="rect" id="node10" href="$d9/d24/classLeosac_1_1Auth_1_1ValidityInfo.html" title="A simple class that stores (and can be queried for) the validity of some objects." alt="" coords="452,327,639,354"/>
+<area shape="rect" id="node11" title=" " alt="" coords="454,379,637,420"/>
+<area shape="rect" id="node12" href="$d5/d20/classLeosac_1_1Auth_1_1IAccessProfile.html" title="Holds information about access permission." alt="" coords="115,386,317,413"/>
 </map>

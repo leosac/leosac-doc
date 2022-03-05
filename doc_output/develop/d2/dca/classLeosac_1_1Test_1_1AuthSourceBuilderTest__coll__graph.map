@@ -1,3 +1,5 @@
 <map id="Leosac::Test::AuthSourceBuilderTest" name="Leosac::Test::AuthSourceBuilderTest">
-<area shape="rect" id="node3" href="$d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html" title="This class is some kind of factory to create IAuthenticationSource object from a zmqpp::message sent ..." alt="" coords="78,5,253,47"/>
+<area shape="rect" id="node1" title="Test the AuthSourceBuilder ability to create AuthSource object from messages." alt="" coords="9,109,191,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,53,39"/>
+<area shape="rect" id="node3" href="$d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html" title="This class is some kind of factory to create IAuthenticationSource object from a zmqpp::message sent ..." alt="" coords="77,5,264,47"/>
 </map>

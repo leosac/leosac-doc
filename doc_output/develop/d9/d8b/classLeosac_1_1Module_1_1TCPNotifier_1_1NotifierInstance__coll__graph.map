@@ -1,6 +1,9 @@
 <map id="Leosac::Module::TCPNotifier::NotifierInstance" name="Leosac::Module::TCPNotifier::NotifierInstance">
-<area shape="rect" id="node3" href="$d6/d42/classLeosac_1_1Module_1_1TCPNotifier_1_1ProtocolHandler.html" title="Implements a given (TCP) protocol for notifying clients. " alt="" coords="391,5,581,47"/>
-<area shape="rect" id="node5" href="$da/dae/structLeosac_1_1Module_1_1TCPNotifier_1_1NotifierInstance_1_1TargetInfo.html" title="Some information for each tcp server target. " alt="" coords="391,79,581,120"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="181,86,261,113"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="5,79,132,120"/>
+<area shape="rect" id="node1" title="This is an instance of the Notifier." alt="" coords="1076,43,1279,84"/>
+<area shape="rect" id="node2" title=" " alt="" coords="759,5,945,47"/>
+<area shape="rect" id="node3" href="$d6/d42/classLeosac_1_1Module_1_1TCPNotifier_1_1ProtocolHandler.html" title="Implements a given (TCP) protocol for notifying clients." alt="" coords="423,5,626,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="741,71,963,127"/>
+<area shape="rect" id="node5" href="$da/dae/structLeosac_1_1Module_1_1TCPNotifier_1_1NotifierInstance_1_1TargetInfo.html" title="Some information for each tcp server target." alt="" coords="421,79,628,120"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="193,86,280,113"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,79,144,120"/>
 </map>

@@ -1,6 +1,7 @@
 var dir_68267d1309a1af8e8297ef4c3efbcdba =
 [
     [ "core", "dir_aebb8dcc11953d78e620bbef0b9e2183.html", "dir_aebb8dcc11953d78e620bbef0b9e2183" ],
+    [ "db", "dir_18fd539062cd3a2de3dfd78991cf728d.html", null ],
     [ "dynlib", "dir_3a49252c1fe7a8dfc91ea73a9211923c.html", "dir_3a49252c1fe7a8dfc91ea73a9211923c" ],
     [ "exception", "dir_03f4a28f75b8e23e1d457d2da09125b3.html", "dir_03f4a28f75b8e23e1d457d2da09125b3" ],
     [ "hardware", "dir_59b1e980a670de987a696efba6dbbdbc.html", "dir_59b1e980a670de987a696efba6dbbdbc" ],

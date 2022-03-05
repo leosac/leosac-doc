@@ -1,2 +1,4 @@
 <map id="Leosac::Module::LedBuzzer::SM::EventPlayingPattern" name="Leosac::Module::LedBuzzer::SM::EventPlayingPattern">
+<area shape="rect" id="node1" title="Fired when we want to &quot;play&quot; a pattern." alt="" coords="5,109,204,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,5,184,47"/>
 </map>

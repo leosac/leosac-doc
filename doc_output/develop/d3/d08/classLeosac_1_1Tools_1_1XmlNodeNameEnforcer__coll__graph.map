@@ -1,4 +1,5 @@
 <map id="Leosac::Tools::XmlNodeNameEnforcer" name="Leosac::Tools::XmlNodeNameEnforcer">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="66,96,146,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="43,5,169,47"/>
+<area shape="rect" id="node1" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="5,185,220,227"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="69,96,156,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="43,5,182,47"/>
 </map>

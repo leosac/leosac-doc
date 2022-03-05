@@ -1,33 +1,52 @@
 <map id="src/modules/websock&#45;api/api/update&#45;management/AckUpdate.cpp" name="src/modules/websock&#45;api/api/update&#45;management/AckUpdate.cpp">
-<area shape="rect" id="node2" href="$d7/d27/AckUpdate_8hpp.html" title="AckUpdate.hpp" alt="" coords="1002,109,1114,136"/>
-<area shape="rect" id="node23" href="$d1/d56/GetServiceRegistry_8hpp.html" title="core/GetServiceRegistry.hpp" alt="" coords="1140,191,1331,218"/>
-<area shape="rect" id="node41" href="$d7/d0a/IUpdate_8hpp.html" title="core/update/IUpdate.hpp" alt="" coords="1306,355,1472,382"/>
-<area shape="rect" id="node43" href="$d2/d87/UpdateService_8hpp.html" title="core/update/UpdateService.hpp" alt="" coords="2253,273,2458,300"/>
-<area shape="rect" id="node47" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="746,273,906,300"/>
-<area shape="rect" id="node3" href="$d2/da8/MethodHandler_8hpp.html" title="modules/websock&#45;api\l/api/MethodHandler.hpp" alt="" coords="894,184,1054,225"/>
-<area shape="rect" id="node4" href="$de/d95/ActionActionParam_8hpp.html" title="ActionActionParam.hpp" alt="" coords="982,273,1140,300"/>
-<area shape="rect" id="node5" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1053,355,1224,382"/>
-<area shape="rect" id="node18" href="$dd/d46/RequestContext_8hpp.html" title="RequestContext.hpp" alt="" coords="156,355,299,382"/>
-<area shape="rect" id="node22" href="$df/d2f/UserSecurityContext_8hpp.html" title="core/UserSecurityContext.hpp" alt="" coords="1164,273,1363,300"/>
-<area shape="rect" id="node6" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1154,445,1317,471"/>
-<area shape="rect" id="node11" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1726,445,1884,471"/>
-<area shape="rect" id="node12" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="531,437,708,479"/>
-<area shape="rect" id="node13" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="1342,445,1527,471"/>
-<area shape="rect" id="node16" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="733,445,869,471"/>
-<area shape="rect" id="node17" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="368,445,506,471"/>
-<area shape="rect" id="node14" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1704,527,1810,553"/>
-<area shape="rect" id="node19" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="178,445,293,471"/>
-<area shape="rect" id="node20" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="24,445,154,471"/>
-<area shape="rect" id="node24" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="448,273,642,300"/>
-<area shape="rect" id="node25" href="$d2/de6/ServiceRegistry_8hpp.html" title="tools/service/ServiceRegistry.hpp" alt="" coords="2680,273,2898,300"/>
-<area shape="rect" id="node26" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="2087,355,2230,382"/>
-<area shape="rect" id="node30" href="$dc/dc2/bs2_8hpp.html" title="tools/bs2.hpp" alt="" coords="2947,355,3047,382"/>
-<area shape="rect" id="node32" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="2713,527,2809,553"/>
-<area shape="rect" id="node37" href="$db/dd1/Registry_8hpp.html" title="tools/registry/Registry.hpp" alt="" coords="2494,355,2668,382"/>
-<area shape="rect" id="node27" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="2196,445,2398,471"/>
-<area shape="rect" id="node42" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="893,445,1080,471"/>
-<area shape="rect" id="node44" href="$da/dde/ExtensibleSerializer_8hpp.html" title="tools/serializers/Extensible\lSerializer.hpp" alt="" coords="2693,348,2872,389"/>
-<area shape="rect" id="node45" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="2779,445,2924,471"/>
-<area shape="rect" id="node48" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="1505,355,1678,382"/>
-<area shape="rect" id="node49" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1988,527,2121,553"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1350,5,1562,61"/>
+<area shape="rect" id="node2" href="$d7/d27/AckUpdate_8hpp.html" title=" " alt="" coords="1024,109,1146,136"/>
+<area shape="rect" id="node23" href="$d1/d56/GetServiceRegistry_8hpp.html" title=" " alt="" coords="1353,191,1558,218"/>
+<area shape="rect" id="node41" href="$d7/d0a/IUpdate_8hpp.html" title=" " alt="" coords="1528,355,1711,382"/>
+<area shape="rect" id="node43" href="$d2/d87/UpdateService_8hpp.html" title=" " alt="" coords="2474,273,2701,300"/>
+<area shape="rect" id="node47" href="$d0/dee/DBService_8hpp.html" title=" " alt="" coords="1164,273,1337,300"/>
+<area shape="rect" id="node3" href="$d2/da8/MethodHandler_8hpp.html" title=" " alt="" coords="896,184,1074,225"/>
+<area shape="rect" id="node4" href="$de/d95/ActionActionParam_8hpp.html" title=" " alt="" coords="960,273,1133,300"/>
+<area shape="rect" id="node5" href="$d1/d3e/SecurityContext_8hpp.html" title=" " alt="" coords="952,355,1138,382"/>
+<area shape="rect" id="node18" href="$dd/d46/RequestContext_8hpp.html" title=" " alt="" coords="160,355,314,382"/>
+<area shape="rect" id="node21" title=" " alt="" coords="18,527,165,553"/>
+<area shape="rect" id="node22" href="$df/d2f/UserSecurityContext_8hpp.html" title=" " alt="" coords="1361,273,1577,300"/>
+<area shape="rect" id="node6" href="$d7/dcf/AuditFwd_8hpp.html" title=" " alt="" coords="1000,445,1180,471"/>
+<area shape="rect" id="node11" href="$d3/d6f/AuthFwd_8hpp.html" title=" " alt="" coords="1906,445,2078,471"/>
+<area shape="rect" id="node12" href="$d7/d7f/CredentialFwd_8hpp.html" title=" " alt="" coords="728,437,925,479"/>
+<area shape="rect" id="node13" href="$d9/dc8/HardwareFwd_8hpp.html" title=" " alt="" coords="1676,445,1881,471"/>
+<area shape="rect" id="node16" href="$d8/d97/ToolsFwd_8hpp.html" title=" " alt="" coords="557,445,704,471"/>
+<area shape="rect" id="node17" href="$d9/d69/db__fwd_8hpp.html" title=" " alt="" coords="381,445,533,471"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1974,527,2044,553"/>
+<area shape="rect" id="node8" title=" " alt="" coords="971,527,1066,553"/>
+<area shape="rect" id="node9" title=" " alt="" coords="860,527,937,553"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1090,527,1216,553"/>
+<area shape="rect" id="node14" href="$dc/dea/Uuid_8hpp.html" title=" " alt="" coords="1834,527,1950,553"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2016,601,2183,628"/>
+<area shape="rect" id="node19" href="$dc/d49/LeosacFwd_8hpp.html" title=" " alt="" coords="184,445,306,471"/>
+<area shape="rect" id="node20" href="$d8/d8b/WebSockFwd_8hpp.html" title=" " alt="" coords="24,445,160,471"/>
+<area shape="rect" id="node24" href="$da/df8/ServiceFwd_8hpp.html" title=" " alt="" coords="594,273,806,300"/>
+<area shape="rect" id="node25" href="$d2/de6/ServiceRegistry_8hpp.html" title=" " alt="" coords="2826,273,3064,300"/>
+<area shape="rect" id="node26" href="$de/d8c/JSONUtils_8hpp.html" title=" " alt="" coords="2234,355,2382,382"/>
+<area shape="rect" id="node30" href="$dc/dc2/bs2_8hpp.html" title=" " alt="" coords="3209,355,3318,382"/>
+<area shape="rect" id="node32" href="$d4/d3d/log_8hpp.html" title=" " alt="" coords="2901,527,3008,553"/>
+<area shape="rect" id="node37" href="$db/dd1/Registry_8hpp.html" title=" " alt="" coords="2670,355,2862,382"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3241,445,3404,471"/>
+<area shape="rect" id="node27" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors." alt="" coords="2345,445,2569,471"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2153,445,2220,471"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2594,445,2686,471"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3428,445,3572,471"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2594,601,2664,628"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2920,601,2988,628"/>
+<area shape="rect" id="node35" title=" " alt="" coords="3013,601,3093,628"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2772,601,2896,628"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2710,445,2822,471"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2897,445,2948,471"/>
+<area shape="rect" id="node42" href="$d2/d0e/UpdateFwd_8hpp.html" title=" " alt="" coords="1396,445,1601,471"/>
+<area shape="rect" id="node44" href="$da/dde/ExtensibleSerializer_8hpp.html" title=" " alt="" coords="2886,348,3084,389"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3153,445,3217,471"/>
+<area shape="rect" id="node45" href="$d3/db1/AssertCast_8hpp.html" title=" " alt="" coords="2972,445,3128,471"/>
+<area shape="rect" id="node48" href="$d3/dd8/IAuditEntry_8hpp.html" title=" " alt="" coords="1162,355,1352,382"/>
+<area shape="rect" id="node49" href="$dd/d9d/IVisitable_8hpp.html" title=" " alt="" coords="2088,527,2234,553"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1204,437,1371,479"/>
 </map>

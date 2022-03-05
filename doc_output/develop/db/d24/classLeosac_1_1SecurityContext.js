@@ -71,10 +71,10 @@ var classLeosac_1_1SecurityContext =
     ] ],
     [ "SecurityContext", "db/d24/classLeosac_1_1SecurityContext.html#a9c4d223d9ad26d270ec13ae456c5009c", null ],
     [ "~SecurityContext", "db/d24/classLeosac_1_1SecurityContext.html#a0044cde56cd563fd282edda623d52d85", null ],
-    [ "check_permission", "db/d24/classLeosac_1_1SecurityContext.html#acdc35a2c49c52e3760714e844fa6ad10", null ],
     [ "check_permission", "db/d24/classLeosac_1_1SecurityContext.html#ae3b11fe6cdd313366b53686a6808f8f6", null ],
+    [ "check_permission", "db/d24/classLeosac_1_1SecurityContext.html#acdc35a2c49c52e3760714e844fa6ad10", null ],
     [ "check_permission_impl", "db/d24/classLeosac_1_1SecurityContext.html#a71a42020ca2d2078faf867d1ca2981ef", null ],
-    [ "enforce_permission", "db/d24/classLeosac_1_1SecurityContext.html#aab1a8b9eef190f830d626ade3cc4bdbf", null ],
     [ "enforce_permission", "db/d24/classLeosac_1_1SecurityContext.html#ab11f939bdae06c8b00c40bb33fc67508", null ],
+    [ "enforce_permission", "db/d24/classLeosac_1_1SecurityContext.html#aab1a8b9eef190f830d626ade3cc4bdbf", null ],
     [ "dbsrv_", "db/d24/classLeosac_1_1SecurityContext.html#ac011df2f8dd0e48744712e144f1522d3", null ]
 ];

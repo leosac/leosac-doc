@@ -10,8 +10,8 @@ var Auth_8hpp =
       [ "WIEGAND_CARD_PIN", "dc/d74/Auth_8hpp.html#acab42172927988f0c2c41e4170c6fc7cafcdf2aed16fe68a1bbad3430cd73619b", null ],
       [ "SIMPLE_CSN", "dc/d74/Auth_8hpp.html#acab42172927988f0c2c41e4170c6fc7ca89bceb61157c0c294624988f1968fc41", null ]
     ] ],
-    [ "operator<<", "dc/d74/Auth_8hpp.html#af1c607873d60b9e3f62fe9b1b9601a85", null ],
     [ "operator<<", "dc/d74/Auth_8hpp.html#a395acf40f3f7529385914c19ecc7b3fd", null ],
-    [ "operator>>", "dc/d74/Auth_8hpp.html#aae9914bc2e4ad809a1b3d2edfb84c42a", null ],
-    [ "operator>>", "dc/d74/Auth_8hpp.html#a7d7726d1d159efcb75273b6cfe83c80d", null ]
+    [ "operator<<", "dc/d74/Auth_8hpp.html#af1c607873d60b9e3f62fe9b1b9601a85", null ],
+    [ "operator>>", "dc/d74/Auth_8hpp.html#a7d7726d1d159efcb75273b6cfe83c80d", null ],
+    [ "operator>>", "dc/d74/Auth_8hpp.html#aae9914bc2e4ad809a1b3d2edfb84c42a", null ]
 ];

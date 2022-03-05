@@ -1,7 +1,14 @@
 <map id="Leosac::Tasks::FetchRemoteConfig" name="Leosac::Tasks::FetchRemoteConfig">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="625,77,771,104"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="246,200,326,227"/>
-<area shape="rect" id="node5" href="$d2/d93/classLeosac_1_1RemoteConfigCollector.html" title="This class provides an API to collect the configuration of a remote Leosac unit. " alt="" coords="795,183,1003,209"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="5,193,132,234"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="237,325,335,352"/>
+<area shape="rect" id="node1" title="Fetch the configuration from master server." alt="" coords="1156,85,1361,126"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="493,28,641,55"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="265,5,357,32"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="268,129,355,156"/>
+<area shape="rect" id="node6" href="$d2/d93/classLeosac_1_1RemoteConfigCollector.html" title="This class provides an API to collect the configuration of a remote Leosac unit." alt="" coords="815,192,1040,219"/>
+<area shape="rect" id="node7" title=" " alt="" coords="479,207,656,249"/>
+<area shape="rect" id="node10" title=" " alt="" coords="486,273,649,329"/>
+<area shape="rect" id="node12" title=" " alt="" coords="485,156,650,183"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,122,144,163"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="257,265,365,292"/>
+<area shape="rect" id="node9" title=" " alt="" coords="55,265,94,292"/>
+<area shape="rect" id="node11" title=" " alt="" coords="283,335,339,361"/>
 </map>

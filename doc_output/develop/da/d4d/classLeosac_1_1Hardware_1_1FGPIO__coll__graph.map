@@ -1,4 +1,5 @@
 <map id="Leosac::Hardware::FGPIO" name="Leosac::Hardware::FGPIO">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="54,96,134,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="31,5,157,47"/>
+<area shape="rect" id="node1" title="A Facade to a GPIO object." alt="" coords="5,185,192,212"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="55,96,142,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="29,5,168,47"/>
 </map>

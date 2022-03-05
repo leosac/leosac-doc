@@ -1,5 +1,6 @@
 <map id="src/tools/timeout.hpp" name="src/tools/timeout.hpp">
-<area shape="rect" id="node2" href="$d7/d36/LEDBuzzerModule_8cpp.html" title="src/modules/led&#45;buzzer\l/LEDBuzzerModule.cpp" alt="" coords="5,80,165,121"/>
-<area shape="rect" id="node3" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="190,80,357,121"/>
-<area shape="rect" id="node4" href="$da/d77/SysFsGpioModule_8cpp.html" title="src/modules/sysfsgpio\l/SysFsGpioModule.cpp" alt="" coords="381,80,539,121"/>
+<area shape="rect" id="node1" title=" " alt="" coords="216,5,376,32"/>
+<area shape="rect" id="node2" href="$d7/d36/LEDBuzzerModule_8cpp.html" title=" " alt="" coords="5,80,179,121"/>
+<area shape="rect" id="node3" href="$d6/d95/PFDigitalModule_8cpp.html" title=" " alt="" coords="203,80,389,121"/>
+<area shape="rect" id="node4" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="414,80,583,121"/>
 </map>

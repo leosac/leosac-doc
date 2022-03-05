@@ -1,4 +1,9 @@
 <map id="Leosac::RemoteControlSecurity" name="Leosac::RemoteControlSecurity">
-<area shape="rect" id="node3" title="STL class. " alt="" coords="181,41,261,68"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="5,34,132,75"/>
+<area shape="rect" id="node1" title="Provide some kind of security framework to the Remote Control service." alt="" coords="1093,92,1320,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="781,11,955,67"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="193,41,280,68"/>
+<area shape="rect" id="node5" title=" " alt="" coords="393,41,580,68"/>
+<area shape="rect" id="node6" title=" " alt="" coords="604,85,757,126"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="5,34,144,75"/>
+<area shape="rect" id="node7" title=" " alt="" coords="840,153,896,180"/>
 </map>

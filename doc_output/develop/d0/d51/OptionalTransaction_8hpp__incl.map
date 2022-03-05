@@ -1,13 +1,25 @@
 <map id="src/tools/db/OptionalTransaction.hpp" name="src/tools/db/OptionalTransaction.hpp">
-<area shape="rect" id="node2" href="$df/da2/database_8hpp.html" title="database.hpp" alt="" coords="1093,80,1193,107"/>
-<area shape="rect" id="node3" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="1280,229,1369,256"/>
-<area shape="rect" id="node7" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="891,155,1051,181"/>
-<area shape="rect" id="node8" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="422,229,595,256"/>
-<area shape="rect" id="node13" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="582,311,739,338"/>
-<area shape="rect" id="node19" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1185,304,1363,345"/>
-<area shape="rect" id="node20" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="763,311,950,338"/>
-<area shape="rect" id="node21" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="974,311,1110,338"/>
-<area shape="rect" id="node9" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="219,311,382,338"/>
-<area shape="rect" id="node14" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="62,311,195,338"/>
-<area shape="rect" id="node15" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="95,393,211,420"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1309,5,1568,32"/>
+<area shape="rect" id="node2" href="$df/da2/database_8hpp.html" title=" " alt="" coords="1158,80,1269,107"/>
+<area shape="rect" id="node3" href="$d9/d69/db__fwd_8hpp.html" title=" " alt="" coords="1357,229,1453,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1363,155,1514,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="779,155,917,181"/>
+<area shape="rect" id="node7" href="$d0/dee/DBService_8hpp.html" title=" " alt="" coords="941,155,1115,181"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1139,155,1288,181"/>
+<area shape="rect" id="node23" title=" " alt="" coords="571,155,754,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1089,393,1167,420"/>
+<area shape="rect" id="node8" href="$d3/dd8/IAuditEntry_8hpp.html" title=" " alt="" coords="539,229,728,256"/>
+<area shape="rect" id="node13" href="$d3/d6f/AuthFwd_8hpp.html" title=" " alt="" coords="629,311,801,338"/>
+<area shape="rect" id="node19" href="$d7/d7f/CredentialFwd_8hpp.html" title=" " alt="" coords="1276,304,1473,345"/>
+<area shape="rect" id="node20" href="$d2/d0e/UpdateFwd_8hpp.html" title=" " alt="" coords="825,311,1031,338"/>
+<area shape="rect" id="node21" href="$d8/d97/ToolsFwd_8hpp.html" title=" " alt="" coords="1055,311,1201,338"/>
+<area shape="rect" id="node9" href="$d7/dcf/AuditFwd_8hpp.html" title=" " alt="" coords="234,311,414,338"/>
+<area shape="rect" id="node14" href="$dd/d9d/IVisitable_8hpp.html" title=" " alt="" coords="63,311,209,338"/>
+<area shape="rect" id="node18" title=" " alt="" coords="438,304,605,345"/>
+<area shape="rect" id="node10" title=" " alt="" coords="538,393,609,420"/>
+<area shape="rect" id="node11" title=" " alt="" coords="277,393,371,420"/>
+<area shape="rect" id="node12" title=" " alt="" coords="865,393,991,420"/>
+<area shape="rect" id="node15" href="$d2/d91/Visitor_8hpp.html" title=" " alt="" coords="99,393,226,420"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5,393,75,420"/>
+<area shape="rect" id="node16" title=" " alt="" coords="117,468,209,495"/>
 </map>

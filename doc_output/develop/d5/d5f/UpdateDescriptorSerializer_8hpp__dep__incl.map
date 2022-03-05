@@ -1,5 +1,6 @@
 <map id="src/core/update/serializers/UpdateDescriptorSerializer.hpp" name="src/core/update/serializers/UpdateDescriptorSerializer.hpp">
-<area shape="rect" id="node2" href="$d8/d0b/UpdateDescriptorSerializer_8cpp.html" title="src/core/update/serializers\l/UpdateDescriptorSerializer.cpp" alt="" coords="5,102,212,143"/>
-<area shape="rect" id="node3" href="$d4/d2d/CheckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CheckUpdate.cpp" alt="" coords="237,95,423,151"/>
-<area shape="rect" id="node4" href="$d9/d03/PendingUpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/PendingUpdateGet.cpp" alt="" coords="447,95,634,151"/>
+<area shape="rect" id="node1" title=" " alt="" coords="249,5,477,47"/>
+<area shape="rect" id="node2" href="$d8/d0b/UpdateDescriptorSerializer_8cpp.html" title=" " alt="" coords="5,102,232,143"/>
+<area shape="rect" id="node3" href="$d4/d2d/CheckUpdate_8cpp.html" title=" " alt="" coords="257,95,469,151"/>
+<area shape="rect" id="node4" href="$d9/d03/PendingUpdateGet_8cpp.html" title=" " alt="" coords="493,95,705,151"/>
 </map>

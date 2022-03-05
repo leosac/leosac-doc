@@ -1,5 +1,11 @@
 <map id="src/core/auth/Interfaces/IAuthenticationSource.hpp" name="src/core/auth/Interfaces/IAuthenticationSource.hpp">
-<area shape="rect" id="node2" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="74,95,231,121"/>
-<area shape="rect" id="node6" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="319,95,453,121"/>
-<area shape="rect" id="node7" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="328,169,444,196"/>
+<area shape="rect" id="node1" title=" " alt="" coords="191,5,389,47"/>
+<area shape="rect" id="node2" href="$d3/d6f/AuthFwd_8hpp.html" title=" " alt="" coords="79,95,251,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="251,169,329,196"/>
+<area shape="rect" id="node6" href="$dd/d9d/IVisitable_8hpp.html" title=" " alt="" coords="343,95,490,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,76,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="100,169,227,196"/>
+<area shape="rect" id="node7" href="$d2/d91/Visitor_8hpp.html" title=" " alt="" coords="353,169,480,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="505,169,574,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="371,244,463,271"/>
 </map>

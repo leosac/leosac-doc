@@ -1,3 +1,4 @@
 <map id="Leosac::Hardware::Buzzer" name="Leosac::Hardware::Buzzer">
-<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices. " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node1" title="Abstraction of Buzzer device attributes." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,5,196,32"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="Leosac::Test::DummyVisitor2" name="Leosac::Test::DummyVisitor2">
-<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; DummyVisitable \&gt;" alt="" coords="29,80,178,121"/>
-<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="14,5,193,32"/>
+<area shape="rect" id="node1" title="Visitor2 that is ready to visit object of type DummyVisitable, but not of type DummyChildVisitable." alt="" coords="5,169,216,196"/>
+<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="30,80,191,121"/>
+<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly." alt="" coords="15,5,206,32"/>
 </map>

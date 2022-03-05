@@ -1,4 +1,10 @@
 <map id="Leosac::Module::WebSockAPI::ModuleRequestContext" name="Leosac::Module::WebSockAPI::ModuleRequestContext">
-<area shape="rect" id="node2" href="$da/d85/classLeosac_1_1UserSecurityContext.html" title="A SecurityContext object for users. " alt="" coords="9,81,203,108"/>
-<area shape="rect" id="node3" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="23,5,189,32"/>
+<area shape="rect" id="node1" title="A request context dedicated for websocket request that are handled by other modules." alt="" coords="1539,49,1749,90"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1185,5,1407,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="605,81,821,108"/>
+<area shape="rect" id="node8" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation." alt="" coords="917,107,1096,133"/>
+<area shape="rect" id="node4" href="$d7/def/classLeosac_1_1DBService.html" title="Provides various database&#45;related services to consumer." alt="" coords="392,81,535,108"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="115,81,272,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,81,44,108"/>
+<area shape="rect" id="node7" href="$da/d85/classLeosac_1_1UserSecurityContext.html" title="A SecurityContext object for users." alt="" coords="1191,107,1401,133"/>
 </map>

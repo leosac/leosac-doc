@@ -1,7 +1,8 @@
 <map id="src/tools/db/DatabaseTracer.hpp" name="src/tools/db/DatabaseTracer.hpp">
-<area shape="rect" id="node2" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="5,80,155,121"/>
-<area shape="rect" id="node3" href="$dc/db9/DBService_8cpp.html" title="src/tools/db/DBService.cpp" alt="" coords="179,87,362,114"/>
-<area shape="rect" id="node4" href="$da/dea/PGSQLTracer_8hpp.html" title="src/tools/db/PGSQLTracer.hpp" alt="" coords="386,87,587,114"/>
-<area shape="rect" id="node5" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="324,169,457,196"/>
-<area shape="rect" id="node6" href="$dc/d44/PGSQLTracer_8cpp.html" title="src/tools/db/PGSQLTracer.cpp" alt="" coords="482,169,683,196"/>
+<area shape="rect" id="node1" title=" " alt="" coords="175,5,404,32"/>
+<area shape="rect" id="node2" href="$d4/d2c/WSServer_8cpp.html" title=" " alt="" coords="5,80,168,121"/>
+<area shape="rect" id="node3" href="$dc/db9/DBService_8cpp.html" title=" " alt="" coords="192,87,387,114"/>
+<area shape="rect" id="node4" href="$da/dea/PGSQLTracer_8hpp.html" title=" " alt="" coords="411,87,621,114"/>
+<area shape="rect" id="node5" href="$dd/d24/kernel_8cpp.html" title=" " alt="" coords="344,169,488,196"/>
+<area shape="rect" id="node6" href="$dc/d44/PGSQLTracer_8cpp.html" title=" " alt="" coords="512,169,720,196"/>
 </map>

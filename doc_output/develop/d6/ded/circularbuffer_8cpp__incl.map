@@ -1,4 +1,9 @@
 <map id="src/modules/rpleth/network/circularbuffer.cpp" name="src/modules/rpleth/network/circularbuffer.cpp">
-<area shape="rect" id="node2" href="$d4/d66/circularbuffer_8hpp.html" title="simple circular buffer class " alt="" coords="53,95,175,121"/>
-<area shape="rect" id="node5" href="$d4/d90/bufferutils_8hpp.html" title="buffer&#45;related helper functions " alt="" coords="167,169,303,196"/>
+<area shape="rect" id="node1" title="simple circular buffer class" alt="" coords="89,5,284,47"/>
+<area shape="rect" id="node2" href="$d4/d66/circularbuffer_8hpp.html" title="simple circular buffer class" alt="" coords="53,95,187,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="212,95,297,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,64,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="89,169,151,196"/>
+<area shape="rect" id="node5" href="$d4/d90/bufferutils_8hpp.html" title="buffer&#45;related helper functions" alt="" coords="176,169,328,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="219,244,285,271"/>
 </map>

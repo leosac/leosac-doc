@@ -1,5 +1,7 @@
 <map id="Leosac::Tools::Stacktrace" name="Leosac::Tools::Stacktrace">
-<area shape="rect" id="node3" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title="Leosac::Tools::Stacktrace\l::Frame" alt="" coords="5,200,180,241"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="53,96,133,123"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="29,5,156,47"/>
+<area shape="rect" id="node1" title="Store information about a stacktrace at a given point in the program execution." alt="" coords="5,423,191,449"/>
+<area shape="rect" id="node2" title=" " alt="" coords="23,304,173,360"/>
+<area shape="rect" id="node3" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title=" " alt="" coords="5,200,191,241"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="55,96,141,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="29,5,167,47"/>
 </map>

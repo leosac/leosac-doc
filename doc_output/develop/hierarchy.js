@@ -226,16 +226,16 @@ var hierarchy =
       [ "Leosac::SystemExecutionContext", "d4/d4b/structLeosac_1_1SystemExecutionContext.html", null ]
     ] ],
     [ "Leosac::ExtensibleSerializer< SerializedT, ObjectT, AdditionalArgs >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", null ],
-    [ "Leosac::ExtensibleSerializer< json, Audit::IAuditEntry, const SecurityContext &>", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
+    [ "Leosac::ExtensibleSerializer< json, Audit::IAuditEntry, const SecurityContext & >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
       [ "Leosac::Audit::Serializer::JSONService", "db/d5e/classLeosac_1_1Audit_1_1Serializer_1_1JSONService.html", null ]
     ] ],
-    [ "Leosac::ExtensibleSerializer< json, Auth::IAccessPoint, const SecurityContext &>", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
+    [ "Leosac::ExtensibleSerializer< json, Auth::IAccessPoint, const SecurityContext & >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
       [ "Leosac::Auth::AccessPointService", "d9/d42/classLeosac_1_1Auth_1_1AccessPointService.html", null ]
     ] ],
-    [ "Leosac::ExtensibleSerializer< json, Hardware::Device, const SecurityContext &>", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
+    [ "Leosac::ExtensibleSerializer< json, Hardware::Device, const SecurityContext & >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
       [ "Leosac::Hardware::HardwareService", "df/d36/classLeosac_1_1Hardware_1_1HardwareService.html", null ]
     ] ],
-    [ "Leosac::ExtensibleSerializer< json, IUpdate, const SecurityContext &>", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
+    [ "Leosac::ExtensibleSerializer< json, IUpdate, const SecurityContext & >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
       [ "Leosac::update::UpdateService", "d4/d12/classLeosac_1_1update_1_1UpdateService.html", null ]
     ] ],
     [ "Leosac::Audit::Factory", "db/d0f/classLeosac_1_1Audit_1_1Factory.html", null ],

@@ -1,7 +1,14 @@
 <map id="Leosac::Test::AuthFileMapperTest" name="Leosac::Test::AuthFileMapperTest">
-<area shape="rect" id="node3" href="$d2/de1/classLeosac_1_1Auth_1_1IAuthSourceMapper.html" title="Base class to perform abstracted mapping operation over various AuthSource object. " alt="" coords="432,121,611,162"/>
-<area shape="rect" id="node4" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCard \&gt;" alt="" coords="233,55,383,97"/>
-<area shape="rect" id="node5" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="5,128,184,155"/>
-<area shape="rect" id="node6" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; PINCode \&gt;" alt="" coords="233,121,383,162"/>
-<area shape="rect" id="node7" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCardPin \&gt;" alt="" coords="233,186,383,227"/>
+<area shape="rect" id="node1" title="Test the mapping of wiegand&#45;card to user from a file." alt="" coords="839,225,1076,252"/>
+<area shape="rect" id="node2" title=" " alt="" coords="556,5,604,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="475,69,685,96"/>
+<area shape="rect" id="node4" href="$d2/de1/classLeosac_1_1Auth_1_1IAuthSourceMapper.html" title="Base class to perform abstracted mapping operation over various AuthSource object." alt="" coords="485,182,675,223"/>
+<area shape="rect" id="node5" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="245,117,404,158"/>
+<area shape="rect" id="node6" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly." alt="" coords="5,189,196,216"/>
+<area shape="rect" id="node7" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="245,182,404,223"/>
+<area shape="rect" id="node8" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="245,247,404,289"/>
+<area shape="rect" id="node9" title=" " alt="" coords="479,248,681,275"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="501,317,659,344"/>
+<area shape="rect" id="node11" title=" " alt="" coords="305,317,344,344"/>
+<area shape="rect" id="node12" title=" " alt="" coords="483,369,677,410"/>
 </map>

@@ -1,8 +1,10 @@
 <map id="DeviceException" name="DeviceException">
-<area shape="rect" id="node2" href="$d7/d0e/classLEOSACException.html" title="A base class for Leosac specific exception. " alt="" coords="79,512,214,539"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="5,423,109,449"/>
-<area shape="rect" id="node4" href="$d2/de3/classLeosac_1_1Tools_1_1Stacktrace.html" title="Store information about a stacktrace at a given point in the program execution. " alt="" coords="193,423,367,449"/>
-<area shape="rect" id="node6" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title="Leosac::Tools::Stacktrace\l::Frame" alt="" coords="201,200,375,241"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="128,96,208,123"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="105,5,231,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="92,588,223,615"/>
+<area shape="rect" id="node2" href="$d7/d0e/classLEOSACException.html" title="A base class for Leosac specific exception." alt="" coords="88,512,227,539"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,423,120,449"/>
+<area shape="rect" id="node4" href="$d2/de3/classLeosac_1_1Tools_1_1Stacktrace.html" title="Store information about a stacktrace at a given point in the program execution." alt="" coords="215,423,401,449"/>
+<area shape="rect" id="node5" title=" " alt="" coords="253,304,403,360"/>
+<area shape="rect" id="node6" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title=" " alt="" coords="215,200,401,241"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="135,96,222,123"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="109,5,248,47"/>
 </map>

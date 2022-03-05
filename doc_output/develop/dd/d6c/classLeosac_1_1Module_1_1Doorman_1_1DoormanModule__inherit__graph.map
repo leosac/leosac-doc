@@ -1,3 +1,4 @@
 <map id="Leosac::Module::Doorman::DoormanModule" name="Leosac::Module::Doorman::DoormanModule">
-<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node1" title="Main class for the module, it create handlers and run them to, well, handle events and send command." alt="" coords="15,80,206,121"/>
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation." alt="" coords="5,5,216,32"/>
 </map>

@@ -13,6 +13,7 @@ var structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig =
     [ "gpio_low_", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#a5bc2ad1a7ef0aed19a3efff228b1b54d", null ],
     [ "green_led_", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#a80cd4874735aff96bf45b9401e16571e", null ],
     [ "mode", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#a22036189b16a937aada6f2d5df14c464", null ],
+    [ "nowait", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#a1f824e46f3a2b91ed9c30fb3e479d95f", null ],
     [ "pin_key_end", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#a218b3a12f91234b77f049fbb902edd54", null ],
     [ "pin_timeout", "dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html#ac48d5009c6006bfcd8ef0f8bff44d1aa", null ]
 ];

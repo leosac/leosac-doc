@@ -1,4 +1,13 @@
 <map id="Leosac::Auth::Group" name="Leosac::Auth::Group">
-<area shape="rect" id="node5" title="STL class. " alt="" coords="272,189,352,215"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,181,132,223"/>
+<area shape="rect" id="node1" title="A authentication group regroup users that share permissions." alt="" coords="911,161,1063,187"/>
+<area shape="rect" id="node2" title=" " alt="" coords="496,5,656,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="491,71,661,98"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="137,105,295,131"/>
+<area shape="rect" id="node6" title=" " alt="" coords="431,123,721,164"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,105,44,131"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="533,189,619,215"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="147,181,285,223"/>
+<area shape="rect" id="node9" title=" " alt="" coords="477,240,675,281"/>
+<area shape="rect" id="node10" title=" " alt="" coords="485,305,667,347"/>
+<area shape="rect" id="node11" href="$d5/d20/classLeosac_1_1Auth_1_1IAccessProfile.html" title="Holds information about access permission." alt="" coords="115,313,317,339"/>
 </map>

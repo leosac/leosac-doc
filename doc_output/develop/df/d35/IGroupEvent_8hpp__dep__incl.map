@@ -1,7 +1,8 @@
 <map id="src/core/audit/IGroupEvent.hpp" name="src/core/audit/IGroupEvent.hpp">
-<area shape="rect" id="node2" href="$d3/d2e/GroupEvent_8hpp.html" title="src/core/audit/GroupEvent.hpp" alt="" coords="120,87,319,114"/>
-<area shape="rect" id="node5" href="$d9/d44/GroupEventSerializer_8cpp.html" title="src/core/audit/serializers\l/GroupEventSerializer.cpp" alt="" coords="343,80,517,121"/>
-<area shape="rect" id="node6" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="542,80,710,121"/>
-<area shape="rect" id="node3" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="5,169,209,196"/>
-<area shape="rect" id="node4" href="$d5/d94/GroupEvent_8cpp.html" title="src/core/audit/GroupEvent.cpp" alt="" coords="233,169,432,196"/>
+<area shape="rect" id="node1" title=" " alt="" coords="353,5,576,32"/>
+<area shape="rect" id="node2" href="$d3/d2e/GroupEvent_8hpp.html" title=" " alt="" coords="127,87,346,114"/>
+<area shape="rect" id="node5" href="$d9/d44/GroupEventSerializer_8cpp.html" title=" " alt="" coords="370,80,559,121"/>
+<area shape="rect" id="node6" href="$d1/de1/GroupCRUD_8cpp.html" title=" " alt="" coords="583,80,762,121"/>
+<area shape="rect" id="node3" href="$d4/dbe/AuditFactory_8cpp.html" title=" " alt="" coords="5,169,225,196"/>
+<area shape="rect" id="node4" href="$d5/d94/GroupEvent_8cpp.html" title=" " alt="" coords="249,169,467,196"/>
 </map>

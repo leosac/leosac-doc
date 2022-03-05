@@ -12,6 +12,6 @@ var classLeosac_1_1Cred_1_1ICredential =
     [ "owner", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a88fd739be9f27aaad4857669ff45f622", null ],
     [ "owner", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#accd19ad3a09632039b0693ed52af73ed", null ],
     [ "owner_id", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a25249270cf843e5f80a843121939f3d1", null ],
-    [ "validity", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a92d2fec40ace069d2b79abaa866bad60", null ],
-    [ "validity", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a8afe59e7ec42ccc49298dc281d6e04b2", null ]
+    [ "validity", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a8afe59e7ec42ccc49298dc281d6e04b2", null ],
+    [ "validity", "d7/db0/classLeosac_1_1Cred_1_1ICredential.html#a92d2fec40ace069d2b79abaa866bad60", null ]
 ];

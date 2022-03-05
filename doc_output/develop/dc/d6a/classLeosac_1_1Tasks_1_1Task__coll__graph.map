@@ -1,4 +1,6 @@
 <map id="Leosac::Tasks::Task" name="Leosac::Tasks::Task">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="38,96,118,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="15,5,141,47"/>
+<area shape="rect" id="node1" title="A base class for a tasks." alt="" coords="27,185,175,212"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="5,96,97,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="121,96,208,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="95,5,234,47"/>
 </map>

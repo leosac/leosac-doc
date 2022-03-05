@@ -1,3 +1,5 @@
 <map id="Leosac::Auth::Zone" name="Leosac::Auth::Zone">
-<area shape="rect" id="node2" href="$df/d8d/classLeosac_1_1Auth_1_1IZone.html" title="The interface for zones. " alt="" coords="5,95,145,121"/>
+<area shape="rect" id="node1" title="A Zone is a container for doors and other zone." alt="" coords="11,169,158,196"/>
+<area shape="rect" id="node2" href="$df/d8d/classLeosac_1_1Auth_1_1IZone.html" title="The interface for zones." alt="" coords="9,95,160,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,164,47"/>
 </map>

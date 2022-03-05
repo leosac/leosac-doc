@@ -1,8 +1,12 @@
 <map id="Leosac::Module::Wiegand::Strategy::WiegandPinNBitsOnly&lt; NbBits &gt;" name="Leosac::Module::Wiegand::Strategy::WiegandPinNBitsOnly&lt; NbBits &gt;">
-<area shape="rect" id="node2" href="$d1/db0/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1PinReading.html" title="Interface for a strategy that read a PIN code. " alt="" coords="267,280,441,321"/>
-<area shape="rect" id="node3" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="5,211,192,252"/>
-<area shape="rect" id="node4" href="$d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html" title="An implementation class that represents a Wiegand Reader. " alt="" coords="585,144,758,185"/>
-<area shape="rect" id="node7" href="$db/df5/classLeosac_1_1Hardware_1_1FLED.html" title="A Facade to a LED object. " alt="" coords="13,13,184,39"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="314,361,394,387"/>
-<area shape="rect" id="node9" title="STL class. " alt="" coords="35,353,162,395"/>
+<area shape="rect" id="node1" title="Strategy for ready PIN only." alt="" coords="609,306,844,362"/>
+<area shape="rect" id="node2" href="$d1/db0/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1PinReading.html" title="Interface for a strategy that read a PIN code." alt="" coords="289,280,477,321"/>
+<area shape="rect" id="node3" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern." alt="" coords="5,211,209,252"/>
+<area shape="rect" id="node5" title=" " alt="" coords="280,137,487,193"/>
+<area shape="rect" id="node4" href="$d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html" title="An implementation class that represents a Wiegand Reader." alt="" coords="633,144,821,185"/>
+<area shape="rect" id="node6" title=" " alt="" coords="294,5,473,47"/>
+<area shape="rect" id="node7" href="$db/df5/classLeosac_1_1Hardware_1_1FLED.html" title="A Facade to a LED object." alt="" coords="18,13,197,39"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="340,361,427,387"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="38,353,177,395"/>
+<area shape="rect" id="node10" title=" " alt="" coords="309,71,457,112"/>
 </map>

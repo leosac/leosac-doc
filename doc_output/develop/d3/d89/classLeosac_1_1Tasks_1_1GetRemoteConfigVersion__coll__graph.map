@@ -1,5 +1,7 @@
 <map id="Leosac::Tasks::GetRemoteConfigVersion" name="Leosac::Tasks::GetRemoteConfigVersion">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="132,187,277,213"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="31,96,111,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="8,5,135,47"/>
+<area shape="rect" id="node1" title="Fetch the configuration version of the master server." alt="" coords="44,264,237,305"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="5,187,153,213"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="12,96,104,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="143,96,229,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="117,5,255,47"/>
 </map>

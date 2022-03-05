@@ -1,4 +1,8 @@
 <map id="Leosac::Tools::XmlScheduleLoader" name="Leosac::Tools::XmlScheduleLoader">
-<area shape="rect" id="node3" title="STL class. " alt="" coords="60,96,140,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="37,5,163,47"/>
+<area shape="rect" id="node1" title="Load a list of schedules from a boost::property_tree." alt="" coords="57,303,258,344"/>
+<area shape="rect" id="node2" title=" " alt="" coords="76,199,239,240"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,109,163,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,13,103,39"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="187,109,274,136"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="161,5,300,47"/>
 </map>

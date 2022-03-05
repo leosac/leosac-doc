@@ -1,3 +1,8 @@
 <map id="Leosac::SystemSecurityContext" name="Leosac::SystemSecurityContext">
-<area shape="rect" id="node2" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="27,5,194,32"/>
+<area shape="rect" id="node1" title="A security context for system operation." alt="" coords="5,439,233,465"/>
+<area shape="rect" id="node2" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation." alt="" coords="30,363,209,389"/>
+<area shape="rect" id="node3" title=" " alt="" coords="11,273,227,300"/>
+<area shape="rect" id="node4" href="$d7/def/classLeosac_1_1DBService.html" title="Provides various database&#45;related services to consumer." alt="" coords="48,184,191,211"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="41,95,198,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="100,5,139,32"/>
 </map>

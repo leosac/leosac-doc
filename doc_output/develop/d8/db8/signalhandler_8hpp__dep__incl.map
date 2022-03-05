@@ -1,4 +1,5 @@
 <map id="src/tools/signalhandler.hpp" name="src/tools/signalhandler.hpp">
-<area shape="rect" id="node2" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="5,80,139,107"/>
-<area shape="rect" id="node3" href="$de/d2d/signalhandler_8cpp.html" title="signal handler to provide a C++ interface for UNIX sigaction() " alt="" coords="163,80,341,107"/>
+<area shape="rect" id="node1" title="signal handler to provide a C++ interface for UNIX sigaction()" alt="" coords="75,5,271,32"/>
+<area shape="rect" id="node2" href="$dd/d24/kernel_8cpp.html" title=" " alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node3" href="$de/d2d/signalhandler_8cpp.html" title="signal handler to provide a C++ interface for UNIX sigaction()" alt="" coords="173,80,368,107"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="Leosac::Module::WebSockAPI::ServerMessage" name="Leosac::Module::WebSockAPI::ServerMessage">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="66,96,146,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="43,5,169,47"/>
+<area shape="rect" id="node1" title="A message sent by the server to a client." alt="" coords="5,215,216,256"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="67,96,154,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="41,5,180,47"/>
 </map>

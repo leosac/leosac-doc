@@ -1,4 +1,6 @@
 <map id="Leosac::Module::SysFsGpio::SysFsGpioConfig" name="Leosac::Module::SysFsGpio::SysFsGpioConfig">
-<area shape="rect" id="node2" title="STL class. " alt="" coords="29,96,109,123"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="5,5,132,47"/>
+<area shape="rect" id="node1" title="Internal configuration helper for sysfsgpio module." alt="" coords="5,424,204,465"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="61,96,148,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="233,253,371,294"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="35,5,174,47"/>
 </map>

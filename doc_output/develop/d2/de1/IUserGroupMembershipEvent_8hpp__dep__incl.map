@@ -1,8 +1,9 @@
 <map id="src/core/audit/IUserGroupMembershipEvent.hpp" name="src/core/audit/IUserGroupMembershipEvent.hpp">
-<area shape="rect" id="node2" href="$dc/d72/UserGroupMembershipEventSerializer_8cpp.html" title="src/core/audit/serializers\l/UserGroupMembershipEventSerializer.cpp" alt="" coords="5,95,279,136"/>
-<area shape="rect" id="node3" href="$d1/d96/UserGroupMembershipEvent_8hpp.html" title="src/core/audit/UserGroup\lMembershipEvent.hpp" alt="" coords="303,95,471,136"/>
-<area shape="rect" id="node6" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="495,95,663,136"/>
-<area shape="rect" id="node7" href="$df/dc4/MembershipCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/MembershipCRUD.cpp" alt="" coords="688,95,892,136"/>
-<area shape="rect" id="node4" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="180,191,384,218"/>
-<area shape="rect" id="node5" href="$d3/dac/UserGroupMembershipEvent_8cpp.html" title="src/core/audit/UserGroup\lMembershipEvent.cpp" alt="" coords="409,184,577,225"/>
+<area shape="rect" id="node1" title=" " alt="" coords="430,5,617,47"/>
+<area shape="rect" id="node2" href="$dc/d72/UserGroupMembershipEventSerializer_8cpp.html" title=" " alt="" coords="5,95,305,136"/>
+<area shape="rect" id="node3" href="$d1/d96/UserGroupMembershipEvent_8hpp.html" title=" " alt="" coords="329,95,512,136"/>
+<area shape="rect" id="node6" href="$d1/de1/GroupCRUD_8cpp.html" title=" " alt="" coords="537,95,715,136"/>
+<area shape="rect" id="node7" href="$df/dc4/MembershipCRUD_8cpp.html" title=" " alt="" coords="739,95,961,136"/>
+<area shape="rect" id="node4" href="$d4/dbe/AuditFactory_8cpp.html" title=" " alt="" coords="197,191,417,218"/>
+<area shape="rect" id="node5" href="$d3/dac/UserGroupMembershipEvent_8cpp.html" title=" " alt="" coords="441,184,624,225"/>
 </map>

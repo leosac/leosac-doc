@@ -1,3 +1,4 @@
 <map id="Leosac::Tasks::FetchRemoteConfig" name="Leosac::Tasks::FetchRemoteConfig">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="30,5,175,32"/>
+<area shape="rect" id="node1" title="Fetch the configuration from master server." alt="" coords="5,80,211,121"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="34,5,182,32"/>
 </map>

@@ -1,9 +1,17 @@
 <map id="src/core/audit/IWSAPICall.hpp" name="src/core/audit/IWSAPICall.hpp">
-<area shape="rect" id="node2" href="$d3/dd8/IAuditEntry_8hpp.html" title="IAuditEntry.hpp" alt="" coords="215,80,327,107"/>
-<area shape="rect" id="node14" href="$d4/dc3/APIStatusCode_8hpp.html" title="core/APIStatusCode.hpp" alt="" coords="351,80,517,107"/>
-<area shape="rect" id="node15" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="14,80,153,107"/>
-<area shape="rect" id="node3" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="433,162,595,189"/>
-<area shape="rect" id="node8" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="251,162,409,189"/>
-<area shape="rect" id="node9" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="619,162,753,189"/>
-<area shape="rect" id="node10" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="735,244,851,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="184,5,399,32"/>
+<area shape="rect" id="node2" href="$d3/dd8/IAuditEntry_8hpp.html" title=" " alt="" coords="231,80,351,107"/>
+<area shape="rect" id="node14" href="$d4/dc3/APIStatusCode_8hpp.html" title=" " alt="" coords="376,80,553,107"/>
+<area shape="rect" id="node15" href="$d9/d69/db__fwd_8hpp.html" title=" " alt="" coords="14,80,166,107"/>
+<area shape="rect" id="node3" href="$d7/dcf/AuditFwd_8hpp.html" title=" " alt="" coords="464,162,644,189"/>
+<area shape="rect" id="node6" title=" " alt="" coords="205,244,282,271"/>
+<area shape="rect" id="node8" href="$d3/d6f/AuthFwd_8hpp.html" title=" " alt="" coords="268,162,440,189"/>
+<area shape="rect" id="node9" href="$dd/d9d/IVisitable_8hpp.html" title=" " alt="" coords="669,162,815,189"/>
+<area shape="rect" id="node13" title=" " alt="" coords="25,155,192,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="319,244,389,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="564,244,659,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="413,244,540,271"/>
+<area shape="rect" id="node10" href="$d2/d91/Visitor_8hpp.html" title=" " alt="" coords="789,244,916,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="695,244,765,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="807,319,899,345"/>
 </map>

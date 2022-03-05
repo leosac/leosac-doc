@@ -1,7 +1,10 @@
 <map id="Leosac::Test::WiegandReaderTest" name="Leosac::Test::WiegandReaderTest">
-<area shape="rect" id="node2" href="$d7/d76/classLeosac_1_1Test_1_1Helper_1_1TestHelper.html" title="Base class for test fixtures, it defines a ZMQ context, a BUS and a sub socket connect to the bus..." alt="" coords="84,200,228,241"/>
-<area shape="rect" id="node4" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="77,103,176,130"/>
-<area shape="rect" id="node6" href="$dc/dfa/classLeosac_1_1Test_1_1Helper_1_1FakeGPIO.html" title="A test helper class that emulate a GPIO pin. " alt="" coords="311,200,455,241"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="384,103,464,130"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="361,5,487,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="163,319,402,345"/>
+<area shape="rect" id="node2" href="$d7/d76/classLeosac_1_1Test_1_1Helper_1_1TestHelper.html" title="Base class for test fixtures, it defines a ZMQ context, a BUS and a sub socket connect to the bus." alt="" coords="120,200,272,241"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,103,53,130"/>
+<area shape="rect" id="node4" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets." alt="" coords="77,103,181,130"/>
+<area shape="rect" id="node5" title=" " alt="" coords="205,96,384,137"/>
+<area shape="rect" id="node6" href="$dc/dfa/classLeosac_1_1Test_1_1Helper_1_1FakeGPIO.html" title="A test helper class that emulate a GPIO pin." alt="" coords="329,200,481,241"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="409,103,495,130"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="383,5,521,47"/>
 </map>

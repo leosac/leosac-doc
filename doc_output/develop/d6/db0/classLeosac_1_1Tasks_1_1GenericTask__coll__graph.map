@@ -1,5 +1,7 @@
 <map id="Leosac::Tasks::GenericTask" name="Leosac::Tasks::GenericTask">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="28,185,173,212"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="61,96,141,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="37,5,164,47"/>
+<area shape="rect" id="node1" title="This task type is used whenever a lambda is passed to the scheduler." alt="" coords="5,261,204,288"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="31,185,179,212"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="9,96,101,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="125,96,212,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="99,5,238,47"/>
 </map>

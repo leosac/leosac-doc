@@ -7,7 +7,7 @@ var classLeosac_1_1RemoteConfigCollector =
     [ "~RemoteConfigCollector", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#a95a8f43d9436fa4585a4f67ab1cd0d37", null ],
     [ "RemoteConfigCollector", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#a90941407273d19735dd492a4e1d189de", null ],
     [ "RemoteConfigCollector", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#ae1a920e85d8341d71fef3abca12abc0a", null ],
-    [ "additional_files", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#a7d67ff7a42ccf68081d4576e8bbff2e5", null ],
+    [ "additional_files", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#ac8ea23926ed4a09b54a851737d6e4145", null ],
     [ "fetch_config", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#a551db4c44c13dd218a35001ff9e0fda6", null ],
     [ "fetch_general_config", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#a689cc2ed073a620474ef6048832ddc63", null ],
     [ "fetch_module_config", "d2/d93/classLeosac_1_1RemoteConfigCollector.html#aa79b6ac4c9263d32a08fdc142cf102ba", null ],

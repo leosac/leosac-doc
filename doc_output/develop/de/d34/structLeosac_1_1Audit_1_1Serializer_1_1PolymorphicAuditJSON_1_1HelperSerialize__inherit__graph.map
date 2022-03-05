@@ -1,12 +1,13 @@
 <map id="Leosac::Audit::Serializer::PolymorphicAuditJSON::HelperSerialize" name="Leosac::Audit::Serializer::PolymorphicAuditJSON::HelperSerialize">
-<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUserEvent \&gt;" alt="" coords="262,5,413,47"/>
-<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="5,274,184,301"/>
-<area shape="rect" id="node4" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IWSAPICall \&gt;" alt="" coords="260,71,415,112"/>
-<area shape="rect" id="node5" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IScheduleEvent \&gt;" alt="" coords="249,136,425,177"/>
-<area shape="rect" id="node6" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IGroupEvent \&gt;" alt="" coords="259,201,416,243"/>
-<area shape="rect" id="node7" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::ICredentialEvent \&gt;" alt="" coords="247,267,428,308"/>
-<area shape="rect" id="node8" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IDoorEvent \&gt;" alt="" coords="262,332,413,373"/>
-<area shape="rect" id="node9" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUserGroupMembership\lEvent \&gt;" alt="" coords="232,398,443,454"/>
-<area shape="rect" id="node10" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUpdateEvent \&gt;" alt="" coords="255,479,419,520"/>
-<area shape="rect" id="node11" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IZoneEvent \&gt;" alt="" coords="262,544,413,585"/>
+<area shape="rect" id="node1" title="Non static helper that can visit a core audit object." alt="" coords="525,259,704,315"/>
+<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="278,5,443,47"/>
+<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly." alt="" coords="5,274,196,301"/>
+<area shape="rect" id="node4" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="277,71,444,112"/>
+<area shape="rect" id="node5" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="263,136,458,177"/>
+<area shape="rect" id="node6" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="273,201,448,243"/>
+<area shape="rect" id="node7" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="259,267,462,308"/>
+<area shape="rect" id="node8" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="277,332,444,373"/>
+<area shape="rect" id="node9" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="244,398,477,454"/>
+<area shape="rect" id="node10" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="269,479,452,520"/>
+<area shape="rect" id="node11" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="277,544,445,585"/>
 </map>

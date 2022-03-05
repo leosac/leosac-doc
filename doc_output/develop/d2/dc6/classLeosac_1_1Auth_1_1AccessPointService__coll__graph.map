@@ -1,6 +1,11 @@
 <map id="Leosac::Auth::AccessPointService" name="Leosac::Auth::AccessPointService">
-<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title="Leosac::ExtensibleSerializer\l\&lt; json, Auth::IAccessPoint,\l const SecurityContext &amp;\&gt;" alt="" coords="564,5,751,61"/>
-<area shape="rect" id="node5" href="$d5/dcf/structLeosac_1_1Auth_1_1AccessPointBackend.html" title="An AccessPointBackend object is used for module to provide implementation for access point CRUD opera..." alt="" coords="206,82,387,123"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="257,148,337,175"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="5,141,132,182"/>
+<area shape="rect" id="node1" title="This service lets various AccessPoint backend register and provide implementation to use by the Acces..." alt="" coords="976,127,1167,169"/>
+<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title=" " alt="" coords="615,47,819,103"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="243,5,402,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,57,452,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="579,127,855,169"/>
+<area shape="rect" id="node6" href="$d5/dcf/structLeosac_1_1Auth_1_1AccessPointBackend.html" title="An AccessPointBackend object is used for module to provide implementation for access point CRUD opera..." alt="" coords="227,126,418,167"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="279,192,366,219"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,185,144,226"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="671,193,763,220"/>
 </map>

@@ -10,6 +10,6 @@ var classLeosac_1_1Auth_1_1AuthSourceBuilder =
     [ "create_simple_wiegand", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#a95319873c2e1d97f74978f7554124f23", null ],
     [ "create_wiegand_card_pin", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#a92cc969c4470968ca9e6cb589a1b9345", null ],
     [ "extract_source_name", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#a40f91950121835c32328cf3a038c7c1a", null ],
-    [ "operator=", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#aa7ec1de4e8270ad46cacb59fa3d9df3e", null ],
-    [ "operator=", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#a215216c9c32274e49ec5b3867e20e250", null ]
+    [ "operator=", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#a215216c9c32274e49ec5b3867e20e250", null ],
+    [ "operator=", "d2/d77/classLeosac_1_1Auth_1_1AuthSourceBuilder.html#aa7ec1de4e8270ad46cacb59fa3d9df3e", null ]
 ];

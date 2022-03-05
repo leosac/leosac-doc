@@ -1,4 +1,5 @@
 <map id="Leosac::Hardware::GPIO" name="Leosac::Hardware::GPIO">
-<area shape="rect" id="node3" href="$dc/d7f/classLeosac_1_1Module_1_1Piface_1_1PFGPIO.html" title="Piface Module GPIO descriptor. " alt="" coords="15,155,173,196"/>
-<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices. " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node1" title="Abstraction of a GPIO device attributes." alt="" coords="11,80,190,107"/>
+<area shape="rect" id="node3" href="$dc/d7f/classLeosac_1_1Module_1_1Piface_1_1PFGPIO.html" title="Piface Module GPIO descriptor." alt="" coords="15,155,186,196"/>
+<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,5,196,32"/>
 </map>

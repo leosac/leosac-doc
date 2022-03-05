@@ -7,6 +7,6 @@ var structLeosac_1_1Hardware_1_1FLED_1_1State =
     [ "State", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#a44299a7deae06d7b155e5f90ece16523", null ],
     [ "duration", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#ac25b32f9db4b697b595bb71617357b6f", null ],
     [ "speed", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#a8937f366b4817649ec7982aa41ac5d53", null ],
-    [ "st", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#a60a0abc2e572ec62dac178d916043af3", null ],
+    [ "st", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#a6031b7dc23eab5367a95f43d2ee803c1", null ],
     [ "value", "d8/d84/structLeosac_1_1Hardware_1_1FLED_1_1State.html#a2b6284299a903f5e0929547ea47559ea", null ]
 ];

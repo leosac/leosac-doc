@@ -1,3 +1,10 @@
 <map id="Leosac::Hardware::HardwareService" name="Leosac::Hardware::HardwareService">
-<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title="Leosac::ExtensibleSerializer\l\&lt; json, Hardware::Device,\l const SecurityContext &amp;\&gt;" alt="" coords="27,109,214,165"/>
+<area shape="rect" id="node1" title="Database aware Hardware Service." alt="" coords="1116,86,1325,127"/>
+<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title=" " alt="" coords="783,45,987,101"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="442,5,601,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="392,57,651,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="777,125,993,152"/>
+<area shape="rect" id="node6" href="$d7/def/classLeosac_1_1DBService.html" title="Provides various database&#45;related services to consumer." alt="" coords="450,125,593,152"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="115,125,272,152"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,125,44,152"/>
 </map>

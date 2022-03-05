@@ -1,3 +1,6 @@
 <map id="Leosac::Test::Helper::TestHelper" name="Leosac::Test::Helper::TestHelper">
-<area shape="rect" id="node3" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="77,13,176,39"/>
+<area shape="rect" id="node1" title="Base class for test fixtures, it defines a ZMQ context, a BUS and a sub socket connect to the bus." alt="" coords="53,109,205,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,53,39"/>
+<area shape="rect" id="node3" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets." alt="" coords="77,13,181,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="205,5,384,47"/>
 </map>

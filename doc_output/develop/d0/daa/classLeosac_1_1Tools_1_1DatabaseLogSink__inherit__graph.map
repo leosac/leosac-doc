@@ -1,2 +1,4 @@
 <map id="Leosac::Tools::DatabaseLogSink" name="Leosac::Tools::DatabaseLogSink">
+<area shape="rect" id="node1" title="A custom sink that write LogEntry object to a SQLite database." alt="" coords="5,80,235,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,5,191,32"/>
 </map>

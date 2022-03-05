@@ -1,5 +1,6 @@
 <map id="Leosac::Module::LedBuzzer::LedBuzzerImpl" name="Leosac::Module::LedBuzzer::LedBuzzerImpl">
-<area shape="rect" id="node2" href="$d0/dea/classLeosac_1_1Hardware_1_1FGPIO.html" title="A Facade to a GPIO object. " alt="" coords="9,185,186,212"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="57,96,137,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="34,5,161,47"/>
+<area shape="rect" id="node1" title="Implementation class, for use by the LED module only." alt="" coords="5,275,204,316"/>
+<area shape="rect" id="node2" href="$d0/dea/classLeosac_1_1Hardware_1_1FGPIO.html" title="A Facade to a GPIO object." alt="" coords="11,185,198,212"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="61,96,148,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="35,5,174,47"/>
 </map>

@@ -5,7 +5,7 @@ var classModuleManager =
     [ "~ModuleManager", "d0/dc3/classModuleManager.html#a4f7e83d51dcbc461d2514f44d21aacb4", null ],
     [ "addToPath", "d0/dc3/classModuleManager.html#ac0450dc0ee240ed9b60d8422c42ee2c9", null ],
     [ "find_module_by_name", "d0/dc3/classModuleManager.html#afd04ea7b8128e39911c3cce5adce568a", null ],
-    [ "get_module_path", "d0/dc3/classModuleManager.html#a187fb0ceec3c1a5f393c628653c5cf33", null ],
+    [ "get_module_path", "d0/dc3/classModuleManager.html#ad26b3cdfe1f9e0a338fa87a6c15fc2e6", null ],
     [ "has_module", "d0/dc3/classModuleManager.html#a33fa3f54c2314f2ef62c26fa065fc852", null ],
     [ "initModule", "d0/dc3/classModuleManager.html#a99446cd51c3c6dc644a85c84db40e0eb", null ],
     [ "initModule", "d0/dc3/classModuleManager.html#ad95ef0dd5bd442a3c37e7c0f79067021", null ],

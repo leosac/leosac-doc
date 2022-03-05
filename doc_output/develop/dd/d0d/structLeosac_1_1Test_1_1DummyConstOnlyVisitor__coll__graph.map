@@ -1,4 +1,5 @@
 <map id="Leosac::Test::DummyConstOnlyVisitor" name="Leosac::Test::DummyConstOnlyVisitor">
-<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; DummyVisitable \&gt;" alt="" coords="24,80,173,121"/>
-<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="9,5,188,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title=" " alt="" coords="24,80,185,121"/>
+<area shape="rect" id="node3" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly." alt="" coords="9,5,200,32"/>
 </map>

@@ -8,7 +8,7 @@ var classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl =
     [ "counter", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#ab93be17d96e5a0afcd02c0545f5589df", null ],
     [ "handle_bus_msg", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#a3e67d44dddce988a8b26015ae2ddf4e8", null ],
     [ "handle_request", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#a91656a5b60bc42e445a02246aa03d563", null ],
-    [ "name", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#a07ef7e135081967e5f8a2255ae2b1a96", null ],
+    [ "name", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#ace5fa998aa16ecbfc87dd54f3c029ab4", null ],
     [ "operator=", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#aacc49d2b52aa2160cb3a8295d0aaffec", null ],
     [ "read_reset", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#a07ab10f3c28978e6917c86d8b6e9fe96", null ],
     [ "timeout", "d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html#a1fe167b231e17b7157e2671f9671c9a8", null ],

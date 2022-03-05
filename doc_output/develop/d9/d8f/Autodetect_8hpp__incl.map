@@ -1,13 +1,22 @@
 <map id="src/modules/wiegand/strategies/Autodetect.hpp" name="src/modules/wiegand/strategies/Autodetect.hpp">
-<area shape="rect" id="node2" href="$dc/d0d/Strategies_8hpp.html" title="Strategies.hpp" alt="" coords="554,95,661,121"/>
-<area shape="rect" id="node3" href="$dc/d8e/SimpleWiegandStrategy_8hpp.html" title="SimpleWiegandStrategy.hpp" alt="" coords="61,169,247,196"/>
-<area shape="rect" id="node4" href="$db/db3/CardReading_8hpp.html" title="CardReading.hpp" alt="" coords="223,244,346,271"/>
-<area shape="rect" id="node16" href="$db/da6/WiegandCardAndPin_8hpp.html" title="WiegandCardAndPin.hpp" alt="" coords="766,169,934,196"/>
-<area shape="rect" id="node18" href="$d6/da6/WiegandPinBuffered_8hpp.html" title="WiegandPinBuffered.hpp" alt="" coords="524,169,691,196"/>
-<area shape="rect" id="node19" href="$d0/dc4/PinReading_8hpp.html" title="PinReading.hpp" alt="" coords="550,244,665,271"/>
-<area shape="rect" id="node20" href="$d4/d9d/WiegandPinNBitsOnly_8hpp.html" title="WiegandPinNBitsOnly.hpp" alt="" coords="323,169,500,196"/>
-<area shape="rect" id="node5" href="$dd/d5c/WiegandStrategy_8hpp.html" title="WiegandStrategy.hpp" alt="" coords="245,319,391,345"/>
-<area shape="rect" id="node6" href="$dc/d74/Auth_8hpp.html" title="core/auth/Auth.hpp" alt="" coords="452,393,584,420"/>
-<area shape="rect" id="node7" href="$d3/d6f/AuthFwd_8hpp.html" title="AuthFwd.hpp" alt="" coords="513,468,611,495"/>
-<area shape="rect" id="node17" href="$db/dd7/StrategiesFwd_8hpp.html" title="StrategiesFwd.hpp" alt="" coords="589,319,719,345"/>
+<area shape="rect" id="node1" title=" " alt="" coords="495,5,689,47"/>
+<area shape="rect" id="node2" href="$dc/d0d/Strategies_8hpp.html" title=" " alt="" coords="534,95,650,121"/>
+<area shape="rect" id="node3" href="$dc/d8e/SimpleWiegandStrategy_8hpp.html" title=" " alt="" coords="5,169,211,196"/>
+<area shape="rect" id="node4" href="$db/db3/CardReading_8hpp.html" title=" " alt="" coords="181,244,315,271"/>
+<area shape="rect" id="node16" href="$db/da6/WiegandCardAndPin_8hpp.html" title=" " alt="" coords="759,169,942,196"/>
+<area shape="rect" id="node18" href="$d6/da6/WiegandPinBuffered_8hpp.html" title=" " alt="" coords="501,169,683,196"/>
+<area shape="rect" id="node19" href="$d0/dc4/PinReading_8hpp.html" title=" " alt="" coords="531,244,653,271"/>
+<area shape="rect" id="node20" href="$d4/d9d/WiegandPinNBitsOnly_8hpp.html" title=" " alt="" coords="286,169,477,196"/>
+<area shape="rect" id="node5" href="$dd/d5c/WiegandStrategy_8hpp.html" title=" " alt="" coords="279,319,439,345"/>
+<area shape="rect" id="node6" href="$dc/d74/Auth_8hpp.html" title=" " alt="" coords="499,393,645,420"/>
+<area shape="rect" id="node12" title=" " alt="" coords="22,393,165,420"/>
+<area shape="rect" id="node13" title=" " alt="" coords="189,393,301,420"/>
+<area shape="rect" id="node14" title=" " alt="" coords="325,393,392,420"/>
+<area shape="rect" id="node15" title=" " alt="" coords="416,393,475,420"/>
+<area shape="rect" id="node7" href="$d3/d6f/AuthFwd_8hpp.html" title=" " alt="" coords="589,468,696,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="408,468,565,495"/>
+<area shape="rect" id="node8" title=" " alt="" coords="607,543,678,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="703,543,780,569"/>
+<area shape="rect" id="node10" title=" " alt="" coords="457,543,583,569"/>
+<area shape="rect" id="node17" href="$db/dd7/StrategiesFwd_8hpp.html" title=" " alt="" coords="670,319,813,345"/>
 </map>

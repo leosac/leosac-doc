@@ -1,5 +1,7 @@
 <map id="Leosac::Tasks::RemoteControlAsyncResponse" name="Leosac::Tasks::RemoteControlAsyncResponse">
-<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="35,185,180,212"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="67,96,147,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="44,5,171,47"/>
+<area shape="rect" id="node1" title="This task represent an asynchronous response that shall be sent over the Remote Control router socket..." alt="" coords="5,261,223,303"/>
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks." alt="" coords="40,185,188,212"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="19,96,111,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="135,96,221,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="109,5,247,47"/>
 </map>

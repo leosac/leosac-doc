@@ -1,5 +1,7 @@
 <map id="Leosac::Module::SMTP::SMTPConfig" name="Leosac::Module::SMTP::SMTPConfig">
-<area shape="rect" id="node3" href="$d7/d33/structLeosac_1_1Module_1_1SMTP_1_1SMTPServerInfo.html" title="Leosac::Module::SMTP\l::SMTPServerInfo" alt="" coords="26,244,185,285"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="65,96,145,123"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="42,5,169,47"/>
+<area shape="rect" id="node1" title="Wrapper around the SMTP module configuration." alt="" coords="26,467,193,508"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,348,213,404"/>
+<area shape="rect" id="node3" href="$d7/d33/structLeosac_1_1Module_1_1SMTP_1_1SMTPServerInfo.html" title=" " alt="" coords="26,244,193,285"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="66,96,153,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="40,5,179,47"/>
 </map>

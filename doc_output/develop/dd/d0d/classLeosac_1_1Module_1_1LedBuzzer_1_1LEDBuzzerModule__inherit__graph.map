@@ -1,3 +1,4 @@
 <map id="Leosac::Module::LedBuzzer::LEDBuzzerModule" name="Leosac::Module::LedBuzzer::LEDBuzzerModule">
-<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node1" title="Main class for LED support." alt="" coords="11,80,210,121"/>
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation." alt="" coords="5,5,216,32"/>
 </map>

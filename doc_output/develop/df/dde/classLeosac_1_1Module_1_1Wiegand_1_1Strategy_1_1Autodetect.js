@@ -1,7 +1,7 @@
 var classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect =
 [
     [ "TimePoint", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a01fee755a41946ee981c16341f31d423", null ],
-    [ "Autodetect", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a388643364f9796be0d5b717a8da01842", null ],
+    [ "Autodetect", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#ae4adf3ee34d81feeeda72c317ec7d607", null ],
     [ "build_strategy", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a221ea8600f00b4830ba347d4b2b44f66", null ],
     [ "check_timeout", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#adace0b1d62c71febfee6d60418e23e2b", null ],
     [ "completed", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a4ea756ddfb6241d58e8b9762b92ebde3", null ],
@@ -11,6 +11,7 @@ var classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect =
     [ "timeout", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#af84078539a88b1e6bf36431d9ae5aec9", null ],
     [ "delay_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#ae6bd9e8081174d7a5cb0b5203171ae83", null ],
     [ "last_pin_read_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a40139e3dfd2953e6bf2b7dc99227fa88", null ],
+    [ "nowait_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#ad6b82e38d4247e38b2a56737f24db38c", null ],
     [ "pin_key_end_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a274292655716e52ffbe2433da42292c0", null ],
     [ "read_card_strategy_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a0540b07fac4f7f70429557a257eeab79", null ],
     [ "read_pin_strategy_", "df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html#a1486ca605629d0525a4f63b7aca8b4bf", null ],

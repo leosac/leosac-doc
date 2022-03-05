@@ -1,46 +1,47 @@
 <map id="src/hardware/Device.hpp" name="src/hardware/Device.hpp">
-<area shape="rect" id="node2" href="$d8/dbe/Buzzer_8hpp.html" title="src/hardware/Buzzer.hpp" alt="" coords="2607,80,2773,107"/>
-<area shape="rect" id="node12" href="$d2/dc0/Device_8cpp.html" title="src/hardware/Device.cpp" alt="" coords="1432,251,1599,278"/>
-<area shape="rect" id="node13" href="$d9/d02/GPIO_8hpp.html" title="src/hardware/GPIO.hpp" alt="" coords="1824,80,1983,107"/>
-<area shape="rect" id="node39" href="$d1/d60/LED_8hpp.html" title="src/hardware/LED.hpp" alt="" coords="2798,80,2950,107"/>
-<area shape="rect" id="node40" href="$d4/d66/RFIDReader_8hpp.html" title="src/hardware/RFIDReader.hpp" alt="" coords="3226,80,3426,107"/>
-<area shape="rect" id="node44" href="$da/d25/DeviceSerializer_8hpp.html" title="src/hardware/serializers\l/DeviceSerializer.hpp" alt="" coords="3133,155,3293,196"/>
-<area shape="rect" id="node3" href="$d3/dcb/Buzzer_8cpp.html" title="src/hardware/Buzzer.cpp" alt="" coords="2259,162,2425,189"/>
-<area shape="rect" id="node4" href="$d9/dab/HardwareService_8cpp.html" title="src/hardware/HardwareService.cpp" alt="" coords="2426,251,2653,278"/>
-<area shape="rect" id="node5" href="$d6/d24/BuzzerSerializer_8cpp.html" title="src/hardware/serializers\l/BuzzerSerializer.cpp" alt="" coords="2677,244,2837,285"/>
-<area shape="rect" id="node6" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="2559,333,2704,375"/>
-<area shape="rect" id="node7" href="$d8/df5/WiegandConfig_8hpp.html" title="src/modules/wiegand\l/WiegandConfig.hpp" alt="" coords="2912,155,3057,196"/>
-<area shape="rect" id="node8" href="$de/d9c/WiegandConfigSerializer_8hpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.hpp" alt="" coords="3103,244,3317,285"/>
-<area shape="rect" id="node11" href="$d4/d9b/WiegandReader_8cpp.html" title="test/WiegandReader.cpp" alt="" coords="2912,251,3079,278"/>
-<area shape="rect" id="node9" href="$d9/d74/wiegand_2ws_2CRUDHandler_8cpp.html" title="src/modules/wiegand\l/ws/CRUDHandler.cpp" alt="" coords="3026,333,3183,375"/>
-<area shape="rect" id="node10" href="$d6/d48/WiegandConfigSerializer_8cpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.cpp" alt="" coords="3208,333,3423,375"/>
-<area shape="rect" id="node14" href="$dd/d50/HardwareService_8hpp.html" title="src/hardware/HardwareService.hpp" alt="" coords="2007,162,2234,189"/>
-<area shape="rect" id="node19" href="$d8/dc2/GPIO_8cpp.html" title="src/hardware/GPIO.cpp" alt="" coords="1456,162,1615,189"/>
-<area shape="rect" id="node20" href="$d5/d00/LED_8cpp.html" title="src/hardware/LED.cpp" alt="" coords="2501,162,2653,189"/>
-<area shape="rect" id="node21" href="$dc/d8a/GPIOSerializer_8hpp.html" title="src/hardware/serializers\l/GPIOSerializer.hpp" alt="" coords="1823,155,1983,196"/>
-<area shape="rect" id="node24" href="$d7/d36/LEDBuzzerModule_8cpp.html" title="src/modules/led&#45;buzzer\l/LEDBuzzerModule.cpp" alt="" coords="1639,155,1799,196"/>
-<area shape="rect" id="node25" href="$d7/d0a/PFGPIO_8hpp.html" title="src/modules/pifacedigital\l/PFGPIO.hpp" alt="" coords="1132,155,1299,196"/>
-<area shape="rect" id="node27" href="$de/d19/PFDigitalPin_8hpp.html" title="src/modules/pifacedigital\l/PFDigitalPin.hpp" alt="" coords="808,155,975,196"/>
-<area shape="rect" id="node31" href="$d7/def/SysFSGPIOPin_8hpp.html" title="src/modules/sysfsgpio\l/SysFSGPIOPin.hpp" alt="" coords="195,155,348,196"/>
-<area shape="rect" id="node15" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="2117,251,2250,278"/>
-<area shape="rect" id="node16" href="$d4/d68/LEDSerializer_8cpp.html" title="src/hardware/serializers\l/LEDSerializer.cpp" alt="" coords="3342,244,3502,285"/>
-<area shape="rect" id="node17" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="929,333,1096,375"/>
-<area shape="rect" id="node18" href="$de/dc2/HardwareSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/HardwareSearch.cpp" alt="" coords="1808,244,2041,285"/>
-<area shape="rect" id="node22" href="$d3/dbb/GPIOSerializer_8cpp.html" title="src/hardware/serializers\l/GPIOSerializer.cpp" alt="" coords="1623,244,1783,285"/>
-<area shape="rect" id="node23" href="$d7/d35/PFGPIO_8cpp.html" title="src/modules/pifacedigital\l/PFGPIO.cpp" alt="" coords="1241,244,1408,285"/>
-<area shape="rect" id="node26" href="$d7/d0d/pifacedigital_2CRUDHandler_8cpp.html" title="src/modules/pifacedigital\l/CRUDHandler.cpp" alt="" coords="1051,244,1217,285"/>
-<area shape="rect" id="node28" href="$d7/d36/PFDigitalModule_8hpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.hpp" alt="" coords="617,244,784,285"/>
-<area shape="rect" id="node30" href="$d6/dd1/PFDigitalPin_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalPin.cpp" alt="" coords="808,244,975,285"/>
-<area shape="rect" id="node29" href="$d6/d6d/pifacedigital_2init_8cpp.html" title="src/modules/pifacedigital\l/init.cpp" alt="" coords="679,333,845,375"/>
-<area shape="rect" id="node32" href="$db/dcb/SysFsGpioModule_8hpp.html" title="src/modules/sysfsgpio\l/SysFsGpioModule.hpp" alt="" coords="65,333,224,375"/>
-<area shape="rect" id="node35" href="$d8/d56/SysFsGpioConfig_8hpp.html" title="src/modules/sysfsgpio\l/SysFsGpioConfig.hpp" alt="" coords="194,244,349,285"/>
-<area shape="rect" id="node38" href="$db/dcf/SysFSGPIOPin_8cpp.html" title="src/modules/sysfsgpio\l/SysFSGPIOPin.cpp" alt="" coords="373,244,527,285"/>
-<area shape="rect" id="node33" href="$d2/d18/sysfsgpio_2init_8cpp.html" title="src/modules/sysfsgpio\l/init.cpp" alt="" coords="5,423,159,464"/>
-<area shape="rect" id="node34" href="$da/d77/SysFsGpioModule_8cpp.html" title="src/modules/sysfsgpio\l/SysFsGpioModule.cpp" alt="" coords="183,423,341,464"/>
-<area shape="rect" id="node36" href="$da/d18/src_2modules_2sysfsgpio_2SysFsGpioConfig_8cpp.html" title="src/modules/sysfsgpio\l/SysFsGpioConfig.cpp" alt="" coords="299,333,454,375"/>
-<area shape="rect" id="node37" href="$d5/d6a/test_2SysFsGpioConfig_8cpp.html" title="test/SysFsGpioConfig.cpp" alt="" coords="478,341,654,367"/>
-<area shape="rect" id="node41" href="$d9/d0d/RFIDReader_8cpp.html" title="src/hardware/RFIDReader.cpp" alt="" coords="3317,162,3517,189"/>
-<area shape="rect" id="node42" href="$d7/d0c/RFIDReaderSerializer_8hpp.html" title="src/hardware/serializers\l/RFIDReaderSerializer.hpp" alt="" coords="3710,155,3889,196"/>
-<area shape="rect" id="node43" href="$d3/d50/RFIDReaderSerializer_8cpp.html" title="src/hardware/serializers\l/RFIDReaderSerializer.cpp" alt="" coords="3710,244,3889,285"/>
-<area shape="rect" id="node45" href="$db/da2/DeviceSerializer_8cpp.html" title="src/hardware/serializers\l/DeviceSerializer.cpp" alt="" coords="3526,244,3686,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2907,5,3089,32"/>
+<area shape="rect" id="node2" href="$d8/dbe/Buzzer_8hpp.html" title=" " alt="" coords="2810,80,2991,107"/>
+<area shape="rect" id="node12" href="$d2/dc0/Device_8cpp.html" title=" " alt="" coords="1549,251,1732,278"/>
+<area shape="rect" id="node13" href="$d9/d02/GPIO_8hpp.html" title=" " alt="" coords="1974,80,2145,107"/>
+<area shape="rect" id="node39" href="$d1/d60/LED_8hpp.html" title=" " alt="" coords="3015,80,3178,107"/>
+<area shape="rect" id="node40" href="$d4/d66/RFIDReader_8hpp.html" title=" " alt="" coords="3472,80,3687,107"/>
+<area shape="rect" id="node44" href="$da/d25/DeviceSerializer_8hpp.html" title=" " alt="" coords="3369,155,3547,196"/>
+<area shape="rect" id="node3" href="$d3/dcb/Buzzer_8cpp.html" title=" " alt="" coords="2445,162,2625,189"/>
+<area shape="rect" id="node4" href="$d9/dab/HardwareService_8cpp.html" title=" " alt="" coords="2609,251,2857,278"/>
+<area shape="rect" id="node5" href="$d6/d24/BuzzerSerializer_8cpp.html" title=" " alt="" coords="2881,244,3059,285"/>
+<area shape="rect" id="node6" href="$d3/de8/wiegand_8cpp.html" title=" " alt="" coords="2754,333,2914,375"/>
+<area shape="rect" id="node7" href="$d8/df5/WiegandConfig_8hpp.html" title=" " alt="" coords="3134,155,3294,196"/>
+<area shape="rect" id="node8" href="$de/d9c/WiegandConfigSerializer_8hpp.html" title=" " alt="" coords="3339,244,3574,285"/>
+<area shape="rect" id="node11" href="$d4/d9b/WiegandReader_8cpp.html" title=" " alt="" coords="3135,251,3315,278"/>
+<area shape="rect" id="node9" href="$d9/d74/wiegand_2ws_2CRUDHandler_8cpp.html" title=" " alt="" coords="3263,333,3426,375"/>
+<area shape="rect" id="node10" href="$d6/d48/WiegandConfigSerializer_8cpp.html" title=" " alt="" coords="3451,333,3684,375"/>
+<area shape="rect" id="node14" href="$dd/d50/HardwareService_8hpp.html" title=" " alt="" coords="2172,162,2421,189"/>
+<area shape="rect" id="node19" href="$d8/dc2/GPIO_8cpp.html" title=" " alt="" coords="1579,162,1748,189"/>
+<area shape="rect" id="node20" href="$d5/d00/LED_8cpp.html" title=" " alt="" coords="2701,162,2863,189"/>
+<area shape="rect" id="node21" href="$dc/d8a/GPIOSerializer_8hpp.html" title=" " alt="" coords="1971,155,2148,196"/>
+<area shape="rect" id="node24" href="$d7/d36/LEDBuzzerModule_8cpp.html" title=" " alt="" coords="1773,155,1946,196"/>
+<area shape="rect" id="node25" href="$d7/d0a/PFGPIO_8hpp.html" title=" " alt="" coords="1222,155,1409,196"/>
+<area shape="rect" id="node27" href="$de/d19/PFDigitalPin_8hpp.html" title=" " alt="" coords="866,155,1053,196"/>
+<area shape="rect" id="node31" href="$d7/def/SysFSGPIOPin_8hpp.html" title=" " alt="" coords="208,155,375,196"/>
+<area shape="rect" id="node15" href="$dd/d24/kernel_8cpp.html" title=" " alt="" coords="2289,251,2433,278"/>
+<area shape="rect" id="node16" href="$d4/d68/LEDSerializer_8cpp.html" title=" " alt="" coords="3599,244,3776,285"/>
+<area shape="rect" id="node17" href="$d6/d95/PFDigitalModule_8cpp.html" title=" " alt="" coords="997,333,1183,375"/>
+<area shape="rect" id="node18" href="$de/dc2/HardwareSearch_8cpp.html" title=" " alt="" coords="1958,244,2214,285"/>
+<area shape="rect" id="node22" href="$d3/dbb/GPIOSerializer_8cpp.html" title=" " alt="" coords="1756,244,1933,285"/>
+<area shape="rect" id="node23" href="$d7/d35/PFGPIO_8cpp.html" title=" " alt="" coords="1338,244,1525,285"/>
+<area shape="rect" id="node26" href="$d7/d0d/pifacedigital_2CRUDHandler_8cpp.html" title=" " alt="" coords="1127,244,1314,285"/>
+<area shape="rect" id="node28" href="$d7/d36/PFDigitalModule_8hpp.html" title=" " alt="" coords="655,244,842,285"/>
+<area shape="rect" id="node30" href="$d6/dd1/PFDigitalPin_8cpp.html" title=" " alt="" coords="866,244,1053,285"/>
+<area shape="rect" id="node29" href="$d6/d6d/pifacedigital_2init_8cpp.html" title=" " alt="" coords="721,333,907,375"/>
+<area shape="rect" id="node32" href="$db/dcb/SysFsGpioModule_8hpp.html" title=" " alt="" coords="73,333,243,375"/>
+<area shape="rect" id="node35" href="$d8/d56/SysFsGpioConfig_8hpp.html" title=" " alt="" coords="208,244,375,285"/>
+<area shape="rect" id="node38" href="$db/dcf/SysFSGPIOPin_8cpp.html" title=" " alt="" coords="399,244,565,285"/>
+<area shape="rect" id="node33" href="$d2/d18/sysfsgpio_2init_8cpp.html" title=" " alt="" coords="5,423,172,464"/>
+<area shape="rect" id="node34" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="196,423,365,464"/>
+<area shape="rect" id="node36" href="$da/d18/src_2modules_2sysfsgpio_2SysFsGpioConfig_8cpp.html" title=" " alt="" coords="319,333,485,375"/>
+<area shape="rect" id="node37" href="$d5/d6a/test_2SysFsGpioConfig_8cpp.html" title=" " alt="" coords="510,341,697,367"/>
+<area shape="rect" id="node41" href="$d9/d0d/RFIDReader_8cpp.html" title=" " alt="" coords="3571,162,3785,189"/>
+<area shape="rect" id="node42" href="$d7/d0c/RFIDReaderSerializer_8hpp.html" title=" " alt="" coords="4001,155,4192,196"/>
+<area shape="rect" id="node43" href="$d3/d50/RFIDReaderSerializer_8cpp.html" title=" " alt="" coords="4001,244,4192,285"/>
+<area shape="rect" id="node45" href="$db/da2/DeviceSerializer_8cpp.html" title=" " alt="" coords="3800,244,3977,285"/>
 </map>

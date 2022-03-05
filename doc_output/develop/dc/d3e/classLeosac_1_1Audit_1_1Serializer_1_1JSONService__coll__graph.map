@@ -1,3 +1,6 @@
 <map id="Leosac::Audit::Serializer::JSONService" name="Leosac::Audit::Serializer::JSONService">
-<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title="Leosac::ExtensibleSerializer\l\&lt; json, Audit::IAuditEntry,\l const SecurityContext &amp;\&gt;" alt="" coords="27,109,214,165"/>
+<area shape="rect" id="node1" title="This service manages runtime registered serializer that target AuditEntry object." alt="" coords="644,27,823,69"/>
+<area shape="rect" id="node2" href="$d4/d6b/classLeosac_1_1ExtensibleSerializer.html" title=" " alt="" coords="391,20,595,76"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="55,5,214,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,57,264,98"/>
 </map>

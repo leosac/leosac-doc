@@ -1,5 +1,10 @@
 <map id="src/modules/rpleth/rplethprotocol.hpp" name="src/modules/rpleth/rplethprotocol.hpp">
-<area shape="rect" id="node2" href="$d4/d66/circularbuffer_8hpp.html" title="simple circular buffer class " alt="" coords="19,95,191,121"/>
-<area shape="rect" id="node7" href="$dd/d17/rplethpacket_8hpp.html" title="Rpleth packet class. " alt="" coords="215,95,333,121"/>
-<area shape="rect" id="node5" href="$d4/d90/bufferutils_8hpp.html" title="buffer&#45;related helper functions " alt="" coords="85,169,221,196"/>
+<area shape="rect" id="node1" title="Rpleth protocol implementation." alt="" coords="223,5,369,47"/>
+<area shape="rect" id="node2" href="$d4/d66/circularbuffer_8hpp.html" title="simple circular buffer class" alt="" coords="15,95,207,121"/>
+<area shape="rect" id="node7" href="$dd/d17/rplethpacket_8hpp.html" title="Rpleth packet class." alt="" coords="231,95,361,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="386,95,449,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,64,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="265,169,327,196"/>
+<area shape="rect" id="node5" href="$d4/d90/bufferutils_8hpp.html" title="buffer&#45;related helper functions" alt="" coords="88,169,240,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="131,244,197,271"/>
 </map>
