@@ -149,6 +149,9 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 , <a class="el" href="da/df1/classLeosac_1_1Module_1_1WebSockAPI_1_1ZoneCRUD.html#a651f70cb0308ca6709ef0cc641f74234">Leosac::Module::WebSockAPI::ZoneCRUD</a>
 , <a class="el" href="d6/ded/classLeosac_1_1Module_1_1Wiegand_1_1CRUDHandler.html#aa56707ed2e157b1a00357e707a9e0b51">Leosac::Module::Wiegand::CRUDHandler</a>
 </li>
+<li>delivery_complete()
+: <a class="el" href="d1/d47/classmqtt__callback.html#aff6343c5600ba5922108be44ef4c0329">mqtt_callback</a>
+</li>
 <li>description()
 : <a class="el" href="d0/dc6/classLeosac_1_1Auth_1_1AccessPoint.html#a3e2990b792b1505bd34ec34e02e2308e">Leosac::Auth::AccessPoint</a>
 , <a class="el" href="db/d95/classLeosac_1_1Auth_1_1Door.html#a068828d23eb071cddad3e1db9dfef197">Leosac::Auth::Door</a>
@@ -162,7 +165,7 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 , <a class="el" href="db/dd9/classLeosac_1_1Tools_1_1ISchedule.html#abc152368a565812ebf2854abd5db2aab">Leosac::Tools::ISchedule</a>
 , <a class="el" href="df/ddf/classLeosac_1_1Tools_1_1Schedule.html#a4c9803cb8450e6e951121a9c1bc36e55">Leosac::Tools::Schedule</a>
 , <a class="el" href="d4/da6/classLeosac_1_1update_1_1IUpdate.html#a8d88dfce35bf833febd5033e492da9f4">Leosac::update::IUpdate</a>
-, <a class="el" href="db/d6b/classLeosac_1_1update_1_1Update.html#ad504959d838a2a2dde776254c1b3693c">Leosac::update::Update</a>
+, <a class="el" href="db/d6b/classLeosac_1_1update_1_1Update.html#a59f04945807e985a04d68a7ec5c15c19">Leosac::update::Update</a>
 </li>
 <li>Device()
 : <a class="el" href="d3/d7f/classLeosac_1_1Hardware_1_1Device.html#a5c0f13481dfeb35c734daca48c854540">Leosac::Hardware::Device</a>
@@ -177,10 +180,15 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 : <a class="el" href="da/db5/classDeviceException.html#a025af164a34a73330736d642a56243c3">DeviceException</a>
 </li>
 <li>direction()
-: <a class="el" href="de/d98/classLeosac_1_1Hardware_1_1GPIO.html#a6c5bd0c21cc16801a3b2a254543a5311">Leosac::Hardware::GPIO</a>
+: <a class="el" href="d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html#a900a6215d6242fe7303743839268ee54">Leosac::Hardware::ExternalMessage</a>
+, <a class="el" href="de/d98/classLeosac_1_1Hardware_1_1GPIO.html#a024e5b8e33fa9afd438fc44d40a08246">Leosac::Hardware::GPIO</a>
 </li>
 <li>direction_path()
 : <a class="el" href="d1/d1a/classLeosac_1_1Module_1_1SysFsGpio_1_1SysFsGpioConfig.html#a101f3e480df30c2d4778a11d8ca1a4de">Leosac::Module::SysFsGpio::SysFsGpioConfig</a>
+</li>
+<li>disconnect()
+: <a class="el" href="d2/d78/classLeosac_1_1Hardware_1_1FExternalServer.html#a1191033e551f0125cc97fe92d4d53724">Leosac::Hardware::FExternalServer</a>
+, <a class="el" href="dc/d6d/classLeosac_1_1Module_1_1Mqtt_1_1MqttExternalServer.html#aef4327b361d8f31f987d2ad69d3d4da8">Leosac::Module::Mqtt::MqttExternalServer</a>
 </li>
 <li>dispatch_request()
 : <a class="el" href="d5/dad/classLeosac_1_1Module_1_1WebSockAPI_1_1WSServer.html#ac33eaf72f080f07c79e39cbbf0dbaae1">Leosac::Module::WebSockAPI::WSServer</a>
@@ -202,6 +210,7 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 </li>
 <li>door()
 : <a class="el" href="de/dd9/classLeosac_1_1Auth_1_1IAccessPoint.html#a02cb940286bb04ad22e40f574d97f372">Leosac::Auth::IAccessPoint</a>
+, <a class="el" href="d2/d3e/classLeosac_1_1Module_1_1Doorman_1_1DoormanDoor.html#ad15bf6980b9bdcbf70899614aadf62b2">Leosac::Module::Doorman::DoormanDoor</a>
 </li>
 <li>door_id()
 : <a class="el" href="d0/dc6/classLeosac_1_1Auth_1_1AccessPoint.html#a67528bbd7218a595dec2961b2246bd44">Leosac::Auth::AccessPoint</a>
@@ -214,15 +223,19 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 : <a class="el" href="d3/dea/classLeosac_1_1Audit_1_1DoorEvent.html#af3184a8e7e0e453629058b7f8368f7e4">Leosac::Audit::DoorEvent</a>
 , <a class="el" href="db/d0f/classLeosac_1_1Audit_1_1Factory.html#ad2aa6d76c7cc0a2651f5f205654d37ac">Leosac::Audit::Factory</a>
 </li>
+<li>DoormanDoor()
+: <a class="el" href="d2/d3e/classLeosac_1_1Module_1_1Doorman_1_1DoormanDoor.html#a6e25da4e18ca634f8fcfa8e7a6f018da">Leosac::Module::Doorman::DoormanDoor</a>
+</li>
 <li>DoormanInstance()
-: <a class="el" href="dc/d54/classLeosac_1_1Module_1_1Doorman_1_1DoormanInstance.html#a250712f5f12d9640992eba03f26112b7">Leosac::Module::Doorman::DoormanInstance</a>
+: <a class="el" href="dc/d54/classLeosac_1_1Module_1_1Doorman_1_1DoormanInstance.html#a090962a4afdfba041edf528d6cee8155">Leosac::Module::Doorman::DoormanInstance</a>
 </li>
 <li>DoormanModule()
-: <a class="el" href="da/dd6/classLeosac_1_1Module_1_1Doorman_1_1DoormanModule.html#a55e106713720bba44847f57644233734">Leosac::Module::Doorman::DoormanModule</a>
+: <a class="el" href="da/dd6/classLeosac_1_1Module_1_1Doorman_1_1DoormanModule.html#a533b8ba5e1916686e4c9759569dbf835">Leosac::Module::Doorman::DoormanModule</a>
 </li>
 <li>doors()
 : <a class="el" href="df/d8d/classLeosac_1_1Auth_1_1IZone.html#a098693db8a56100e44c090f15ad71fd8">Leosac::Auth::IZone</a>
 , <a class="el" href="d9/de4/classLeosac_1_1Auth_1_1Zone.html#a06262e02afa503ac9443b01966d308ce">Leosac::Auth::Zone</a>
+, <a class="el" href="dc/d54/classLeosac_1_1Module_1_1Doorman_1_1DoormanInstance.html#a7b5e97a03c1a5c6aa63fbf53ea0a46ca">Leosac::Module::Doorman::DoormanInstance</a>
 , <a class="el" href="da/dd6/classLeosac_1_1Module_1_1Doorman_1_1DoormanModule.html#af10a5fcb5c9df5ec29dee3f342a64611">Leosac::Module::Doorman::DoormanModule</a>
 , <a class="el" href="d4/d30/structLeosac_1_1Tools_1_1ScheduleMapping.html#a7b98738c835ebd69c37ac697560f55da">Leosac::Tools::ScheduleMapping</a>
 </li>
@@ -252,7 +265,7 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 : <a class="el" href="df/d9f/classLeosac_1_1Module_1_1BaseModule.html#acc7e7643a9b6ea65c43022788835b194">Leosac::Module::BaseModule</a>
 </li>
 <li>DynamicLibrary()
-: <a class="el" href="d9/d4c/classDynamicLibrary.html#a3631402fe7ab1ca92a435da2d629a4cf">DynamicLibrary</a>
+: <a class="el" href="d9/d4c/classDynamicLibrary.html#aaabfa9a45735d28fc3a0d5b249313ad3">DynamicLibrary</a>
 </li>
 <li>DynLibException()
 : <a class="el" href="d9/d66/classDynLibException.html#a6c09172cc74706a0e40838b8700cca8a">DynLibException</a>
@@ -263,7 +276,7 @@ $(document).ready(function(){initNavTree('functions_func_d.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:38 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:53:57 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

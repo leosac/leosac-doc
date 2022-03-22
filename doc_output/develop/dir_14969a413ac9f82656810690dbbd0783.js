@@ -8,7 +8,6 @@ var dir_14969a413ac9f82656810690dbbd0783 =
     ] ],
     [ "WiegandConfig.cpp", "d6/d81/WiegandConfig_8cpp.html", null ],
     [ "WiegandConfig.hpp", "d8/df5/WiegandConfig_8hpp.html", "d8/df5/WiegandConfig_8hpp" ],
-    [ "WiegandConfigManager.cpp", "d4/d27/WiegandConfigManager_8cpp.html", null ],
     [ "WiegandFwd.hpp", "d5/d90/WiegandFwd_8hpp.html", "d5/d90/WiegandFwd_8hpp" ],
     [ "WiegandReaderImpl.cpp", "d8/df0/WiegandReaderImpl_8cpp.html", null ],
     [ "WiegandReaderImpl.hpp", "de/d9a/WiegandReaderImpl_8hpp.html", [

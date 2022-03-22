@@ -3,7 +3,7 @@ var classLeosac_1_1Module_1_1BaseModule =
     [ "BaseModule", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#a8c0427133a2cf83e430fad3d2cf94fc5", null ],
     [ "~BaseModule", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#a48e9d07509adbb1c9ef784ad5d928536", null ],
     [ "config_check", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#ad31b1c55eb3422208223d3c124f55da1", null ],
-    [ "config_check", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#abc772629aac0320d28e55834415913a6", null ],
+    [ "config_check", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#a3c99dc0f05cd2af591763001bb6c1627", null ],
     [ "dump_additional_config", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#a8171618d14676c2d3c5aaef871b91bcb", null ],
     [ "dump_config", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#acc7e7643a9b6ea65c43022788835b194", null ],
     [ "handle_control", "df/d9f/classLeosac_1_1Module_1_1BaseModule.html#ae257928af4fcc04d76caf8a674beb32d", null ],

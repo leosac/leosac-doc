@@ -1,9 +1,9 @@
 <map id="src/tools/XmlNodeNameEnforcer.hpp" name="src/tools/XmlNodeNameEnforcer.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="4175,5,4437,32"/>
-<area shape="rect" id="node2" href="$df/db8/kernel_8hpp.html" title=" " alt="" coords="2075,87,2220,114"/>
-<area shape="rect" id="node22" href="$df/d5d/FileAuthSourceMapper_8hpp.html" title=" " alt="" coords="4082,80,4306,121"/>
-<area shape="rect" id="node30" href="$d0/dd9/TcpNotifier_8hpp.html" title=" " alt="" coords="4517,80,4693,121"/>
-<area shape="rect" id="node33" href="$d2/d6c/XmlNodeNameEnforcer_8cpp.html" title=" " alt="" coords="4717,87,4977,114"/>
+<area shape="rect" id="node1" title=" " alt="" coords="4626,5,4887,32"/>
+<area shape="rect" id="node2" href="$df/db8/kernel_8hpp.html" title=" " alt="" coords="2280,87,2425,114"/>
+<area shape="rect" id="node24" href="$df/d5d/FileAuthSourceMapper_8hpp.html" title=" " alt="" coords="4533,80,4757,121"/>
+<area shape="rect" id="node32" href="$d0/dd9/TcpNotifier_8hpp.html" title=" " alt="" coords="4967,80,5143,121"/>
+<area shape="rect" id="node35" href="$d2/d6c/XmlNodeNameEnforcer_8cpp.html" title=" " alt="" coords="5168,87,5428,114"/>
 <area shape="rect" id="node3" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title=" " alt="" coords="5,177,249,203"/>
 <area shape="rect" id="node4" href="$d3/d1e/CoreAPI_8cpp.html" title=" " alt="" coords="274,177,429,203"/>
 <area shape="rect" id="node5" href="$d4/dd4/CoreUtils_8cpp.html" title=" " alt="" coords="453,177,617,203"/>
@@ -17,19 +17,21 @@
 <area shape="rect" id="node13" href="$d5/d8e/SyncConfig_8cpp.html" title=" " alt="" coords="2153,177,2368,203"/>
 <area shape="rect" id="node14" href="$df/d0a/main_8cpp.html" title="standard main" alt="" coords="2392,177,2497,203"/>
 <area shape="rect" id="node15" href="$df/dac/AuthDBModule_8cpp.html" title=" " alt="" coords="2522,169,2693,211"/>
-<area shape="rect" id="node16" href="$d8/d37/AuthFileModule_8cpp.html" title=" " alt="" coords="3151,348,3330,389"/>
+<area shape="rect" id="node16" href="$d8/d37/AuthFileModule_8cpp.html" title=" " alt="" coords="3377,348,3555,389"/>
 <area shape="rect" id="node17" href="$d0/d58/DoormanModule_8cpp.html" title=" " alt="" coords="2767,169,2930,211"/>
 <area shape="rect" id="node18" href="$d7/d36/LEDBuzzerModule_8cpp.html" title=" " alt="" coords="2954,169,3127,211"/>
-<area shape="rect" id="node19" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="3152,169,3321,211"/>
-<area shape="rect" id="node20" href="$d9/d8d/APISession_8cpp.html" title=" " alt="" coords="3346,169,3519,211"/>
-<area shape="rect" id="node21" href="$d3/de8/wiegand_8cpp.html" title=" " alt="" coords="3543,169,3703,211"/>
-<area shape="rect" id="node23" href="$de/df9/AuthFileInstance_8hpp.html" title=" " alt="" coords="3778,169,3965,211"/>
-<area shape="rect" id="node24" href="$da/d9b/AuthFileInstance_8cpp.html" title=" " alt="" coords="3609,259,3795,300"/>
-<area shape="rect" id="node27" href="$d3/dc5/FileAuthSourceMapper_8cpp.html" title=" " alt="" coords="3989,169,4212,211"/>
-<area shape="rect" id="node28" href="$d5/d58/AuthFile_8cpp.html" title=" " alt="" coords="4235,177,4366,203"/>
-<area shape="rect" id="node29" href="$d9/d75/test_2AuthSourceBuilder_8cpp.html" title=" " alt="" coords="4390,177,4587,203"/>
-<area shape="rect" id="node25" href="$df/d57/AuthFileModule_8hpp.html" title=" " alt="" coords="3820,259,4000,300"/>
-<area shape="rect" id="node26" href="$dc/d32/auth_2auth-file_2init_8cpp.html" title=" " alt="" coords="3827,348,3993,389"/>
-<area shape="rect" id="node31" href="$dc/d63/tcp-notifier_2init_8cpp.html" title=" " alt="" coords="4611,169,4787,211"/>
-<area shape="rect" id="node32" href="$d0/df4/TcpNotifier_8cpp.html" title=" " alt="" coords="4811,169,4987,211"/>
+<area shape="rect" id="node19" href="$db/de7/LibgpiodModule_8cpp.html" title=" " alt="" coords="3151,169,3309,211"/>
+<area shape="rect" id="node20" href="$d6/d18/MqttModule_8cpp.html" title=" " alt="" coords="3333,177,3578,203"/>
+<area shape="rect" id="node21" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="3603,169,3772,211"/>
+<area shape="rect" id="node22" href="$d9/d8d/APISession_8cpp.html" title=" " alt="" coords="3797,169,3970,211"/>
+<area shape="rect" id="node23" href="$d3/de8/wiegand_8cpp.html" title=" " alt="" coords="3994,169,4154,211"/>
+<area shape="rect" id="node25" href="$de/df9/AuthFileInstance_8hpp.html" title=" " alt="" coords="4229,169,4415,211"/>
+<area shape="rect" id="node26" href="$da/d9b/AuthFileInstance_8cpp.html" title=" " alt="" coords="4059,259,4246,300"/>
+<area shape="rect" id="node29" href="$d3/dc5/FileAuthSourceMapper_8cpp.html" title=" " alt="" coords="4440,169,4663,211"/>
+<area shape="rect" id="node30" href="$d5/d58/AuthFile_8cpp.html" title=" " alt="" coords="4686,177,4817,203"/>
+<area shape="rect" id="node31" href="$d9/d75/test_2AuthSourceBuilder_8cpp.html" title=" " alt="" coords="4841,177,5038,203"/>
+<area shape="rect" id="node27" href="$df/d57/AuthFileModule_8hpp.html" title=" " alt="" coords="4271,259,4451,300"/>
+<area shape="rect" id="node28" href="$dc/d32/auth_2auth-file_2init_8cpp.html" title=" " alt="" coords="4277,348,4444,389"/>
+<area shape="rect" id="node33" href="$dc/d63/tcp-notifier_2init_8cpp.html" title=" " alt="" coords="5062,169,5238,211"/>
+<area shape="rect" id="node34" href="$d0/df4/TcpNotifier_8cpp.html" title=" " alt="" coords="5262,169,5438,211"/>
 </map>

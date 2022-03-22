@@ -1,5 +1,5 @@
 <map id="src/modules/BaseModule.hpp" name="src/modules/BaseModule.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="3927,5,4140,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="4201,5,4415,32"/>
 <area shape="rect" id="node2" href="$db/d85/AsioModule_8hpp.html" title=" " alt="" coords="401,87,610,114"/>
 <area shape="rect" id="node7" href="$df/d57/AuthFileModule_8hpp.html" title=" " alt="" coords="1077,80,1257,121"/>
 <area shape="rect" id="node10" href="$de/d21/BaseModule_8cpp.html" title=" " alt="" coords="1417,87,1629,114"/>
@@ -7,17 +7,19 @@
 <area shape="rect" id="node15" href="$d3/d6c/EventPublish_8h.html" title=" " alt="" coords="2059,80,2253,121"/>
 <area shape="rect" id="node18" href="$d3/d03/InstrumentationModule_8hpp.html" title=" " alt="" coords="2511,80,2721,121"/>
 <area shape="rect" id="node21" href="$dd/d33/LEDBuzzerModule_8hpp.html" title=" " alt="" coords="3024,80,3197,121"/>
-<area shape="rect" id="node25" href="$d2/dc2/MonitorModule_8hpp.html" title=" " alt="" coords="3446,80,3602,121"/>
-<area shape="rect" id="node28" href="$d7/d36/PFDigitalModule_8hpp.html" title=" " alt="" coords="3837,80,4024,121"/>
-<area shape="rect" id="node31" href="$db/df9/ReplicationModule_8hpp.html" title=" " alt="" coords="4049,80,4223,121"/>
-<area shape="rect" id="node34" href="$d3/d0f/RplethModule_8hpp.html" title=" " alt="" coords="4523,80,4667,121"/>
-<area shape="rect" id="node38" href="$df/d94/StdinControllerModule_8hpp.html" title=" " alt="" coords="4846,80,5050,121"/>
-<area shape="rect" id="node41" href="$db/dcb/SysFsGpioModule_8hpp.html" title=" " alt="" coords="5075,80,5245,121"/>
-<area shape="rect" id="node45" href="$d0/dd9/TcpNotifier_8hpp.html" title=" " alt="" coords="5269,80,5445,121"/>
-<area shape="rect" id="node47" href="$dc/d15/TestAndResetModule_8hpp.html" title=" " alt="" coords="5470,80,5698,121"/>
-<area shape="rect" id="node48" href="$d9/d90/WebSockAPI_8hpp.html" title=" " alt="" coords="5723,80,5885,121"/>
-<area shape="rect" id="node49" href="$d0/d6f/wiegand_8hpp.html" title=" " alt="" coords="5909,80,6069,121"/>
-<area shape="rect" id="node50" href="$dc/dbe/WebServiceNotifier_8hpp.html" title=" " alt="" coords="6094,80,6271,121"/>
+<area shape="rect" id="node25" href="$d8/dca/LibgpiodModule_8hpp.html" title=" " alt="" coords="3447,80,3604,121"/>
+<area shape="rect" id="node29" href="$d2/dc2/MonitorModule_8hpp.html" title=" " alt="" coords="3885,80,4041,121"/>
+<area shape="rect" id="node32" href="$da/d2c/MqttModule_8hpp.html" title=" " alt="" coords="4065,87,4311,114"/>
+<area shape="rect" id="node35" href="$d7/d36/PFDigitalModule_8hpp.html" title=" " alt="" coords="4336,80,4523,121"/>
+<area shape="rect" id="node38" href="$db/df9/ReplicationModule_8hpp.html" title=" " alt="" coords="4547,80,4722,121"/>
+<area shape="rect" id="node41" href="$d3/d0f/RplethModule_8hpp.html" title=" " alt="" coords="4747,80,4891,121"/>
+<area shape="rect" id="node44" href="$df/d94/StdinControllerModule_8hpp.html" title=" " alt="" coords="4915,80,5119,121"/>
+<area shape="rect" id="node45" href="$db/dcb/SysFsGpioModule_8hpp.html" title=" " alt="" coords="5144,80,5315,121"/>
+<area shape="rect" id="node46" href="$d0/dd9/TcpNotifier_8hpp.html" title=" " alt="" coords="5339,80,5515,121"/>
+<area shape="rect" id="node47" href="$dc/d15/TestAndResetModule_8hpp.html" title=" " alt="" coords="5539,80,5767,121"/>
+<area shape="rect" id="node48" href="$d9/d90/WebSockAPI_8hpp.html" title=" " alt="" coords="5792,80,5955,121"/>
+<area shape="rect" id="node49" href="$d0/d6f/wiegand_8hpp.html" title=" " alt="" coords="5979,80,6139,121"/>
+<area shape="rect" id="node50" href="$dc/dbe/WebServiceNotifier_8hpp.html" title=" " alt="" coords="6163,80,6341,121"/>
 <area shape="rect" id="node3" href="$d7/d41/AsioModule_8cpp.html" title=" " alt="" coords="5,177,213,203"/>
 <area shape="rect" id="node4" href="$d7/d6b/AuthDBModule_8hpp.html" title=" " alt="" coords="238,169,410,211"/>
 <area shape="rect" id="node5" href="$d0/db8/NotifdModule_8hpp.html" title=" " alt="" coords="434,169,577,211"/>
@@ -34,19 +36,17 @@
 <area shape="rect" id="node22" href="$d4/db4/led-buzzer_2init_8cpp.html" title=" " alt="" coords="2745,169,2919,211"/>
 <area shape="rect" id="node23" href="$d7/d36/LEDBuzzerModule_8cpp.html" title=" " alt="" coords="2943,169,3116,211"/>
 <area shape="rect" id="node24" href="$d9/d21/Led_8cpp.html" title=" " alt="" coords="3140,177,3241,203"/>
-<area shape="rect" id="node26" href="$d9/da6/monitor_2init_8cpp.html" title=" " alt="" coords="3266,169,3422,211"/>
-<area shape="rect" id="node27" href="$df/d30/MonitorModule_8cpp.html" title=" " alt="" coords="3446,169,3602,211"/>
-<area shape="rect" id="node29" href="$d6/d6d/pifacedigital_2init_8cpp.html" title=" " alt="" coords="3627,169,3813,211"/>
-<area shape="rect" id="node30" href="$d6/d95/PFDigitalModule_8cpp.html" title=" " alt="" coords="3837,169,4024,211"/>
-<area shape="rect" id="node32" href="$d5/d63/replication_2init_8cpp.html" title=" " alt="" coords="4049,169,4223,211"/>
-<area shape="rect" id="node33" href="$d2/dac/ReplicationModule_8cpp.html" title=" " alt="" coords="4247,169,4422,211"/>
-<area shape="rect" id="node35" href="$d1/d31/rpleth_2init_8cpp.html" title="init function for returning a module class to the core" alt="" coords="4446,169,4589,211"/>
-<area shape="rect" id="node36" href="$d8/dba/RplethModule_8cpp.html" title=" " alt="" coords="4613,169,4755,211"/>
-<area shape="rect" id="node37" href="$db/d44/Rpleth_8cpp.html" title=" " alt="" coords="4780,177,4900,203"/>
-<area shape="rect" id="node39" href="$d9/d22/stdin-controller_2init_8cpp.html" title=" " alt="" coords="4925,169,5129,211"/>
-<area shape="rect" id="node40" href="$d8/db9/StdinControllerModule_8cpp.html" title=" " alt="" coords="5153,169,5357,211"/>
-<area shape="rect" id="node42" href="$d2/d18/sysfsgpio_2init_8cpp.html" title=" " alt="" coords="5381,169,5547,211"/>
-<area shape="rect" id="node43" href="$d7/def/SysFSGPIOPin_8hpp.html" title=" " alt="" coords="5571,169,5738,211"/>
-<area shape="rect" id="node44" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="5762,169,5931,211"/>
-<area shape="rect" id="node46" href="$dc/d63/tcp-notifier_2init_8cpp.html" title=" " alt="" coords="5956,169,6132,211"/>
+<area shape="rect" id="node26" href="$df/d5b/libgpiod_2init_8cpp.html" title=" " alt="" coords="3265,169,3423,211"/>
+<area shape="rect" id="node27" href="$dc/d38/LibgpiodPin_8hpp.html" title=" " alt="" coords="3447,169,3604,211"/>
+<area shape="rect" id="node28" href="$db/de7/LibgpiodModule_8cpp.html" title=" " alt="" coords="3628,169,3785,211"/>
+<area shape="rect" id="node30" href="$d9/da6/monitor_2init_8cpp.html" title=" " alt="" coords="3810,169,3966,211"/>
+<area shape="rect" id="node31" href="$df/d30/MonitorModule_8cpp.html" title=" " alt="" coords="3990,169,4146,211"/>
+<area shape="rect" id="node33" href="$dc/d68/mqtt_2init_8cpp.html" title=" " alt="" coords="4170,177,4358,203"/>
+<area shape="rect" id="node34" href="$d6/d18/MqttModule_8cpp.html" title=" " alt="" coords="4383,177,4628,203"/>
+<area shape="rect" id="node36" href="$d6/d6d/pifacedigital_2init_8cpp.html" title=" " alt="" coords="4652,169,4839,211"/>
+<area shape="rect" id="node37" href="$d6/d95/PFDigitalModule_8cpp.html" title=" " alt="" coords="4863,169,5049,211"/>
+<area shape="rect" id="node39" href="$d5/d63/replication_2init_8cpp.html" title=" " alt="" coords="5074,169,5249,211"/>
+<area shape="rect" id="node40" href="$d2/dac/ReplicationModule_8cpp.html" title=" " alt="" coords="5273,169,5447,211"/>
+<area shape="rect" id="node42" href="$d1/d31/rpleth_2init_8cpp.html" title="init function for returning a module class to the core" alt="" coords="5471,169,5614,211"/>
+<area shape="rect" id="node43" href="$d8/dba/RplethModule_8cpp.html" title=" " alt="" coords="5638,169,5781,211"/>
 </map>

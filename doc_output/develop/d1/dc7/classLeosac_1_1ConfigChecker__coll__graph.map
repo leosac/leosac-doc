@@ -1,7 +1,7 @@
 <map id="Leosac::ConfigChecker" name="Leosac::ConfigChecker">
-<area shape="rect" id="node1" title="This class is here to help check the validity of the configuration." alt="" coords="79,289,247,316"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,185,168,227"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="43,96,130,123"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="17,5,156,47"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="193,193,285,219"/>
+<area shape="rect" id="node1" title="This class is here to help check the validity of the configuration." alt="" coords="140,289,308,316"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,185,251,227"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="85,96,171,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="59,5,197,47"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="275,193,367,219"/>
 </map>

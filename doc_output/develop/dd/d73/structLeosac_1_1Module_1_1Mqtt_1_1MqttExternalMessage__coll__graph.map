@@ -1,0 +1,8 @@
+<map id="Leosac::Module::Mqtt::MqttExternalMessage" name="Leosac::Module::Mqtt::MqttExternalMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="87,355,259,396"/>
+<area shape="rect" id="node2" href="$d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html" title="Abstraction of an External Messaging device." alt="" coords="73,264,273,305"/>
+<area shape="rect" id="node3" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,187,196,213"/>
+<area shape="rect" id="node4" href="$d7/d46/classLeosac_1_1UUID.html" title="Thin wrapper around boost::uuids::uuid." alt="" coords="46,96,155,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="191,96,277,123"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="165,5,303,47"/>
+</map>

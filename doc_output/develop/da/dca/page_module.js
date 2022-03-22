@@ -79,6 +79,16 @@ var page_module =
         [ "Notes", "d8/d72/page_module_led_buzzer.html#mod_ledbuzzer_notes", null ]
       ] ]
     ] ],
+    [ "Module: Libgpiod", "d2/db9/page_module_libgpiod.html", [
+      [ "Libgpiod Module Documentation", "d2/db9/page_module_libgpiod.html#mod_libgpiod_main", null ],
+      [ "Introduction", "d2/db9/page_module_libgpiod.html#mod_libgpiod_intro", null ],
+      [ "Configuration Options", "d2/db9/page_module_libgpiod.html#mod_libgpiod_user_config", [
+        [ "Interrupt Mode", "d2/db9/page_module_libgpiod.html#autotoc_md9", null ],
+        [ "Default Value", "d2/db9/page_module_libgpiod.html#autotoc_md10", null ],
+        [ "Example", "d2/db9/page_module_libgpiod.html#mod_libgpiod_example", null ]
+      ] ],
+      [ "Notes", "d2/db9/page_module_libgpiod.html#mod_sysfsgpio_notes", null ]
+    ] ],
     [ "Module: Monitor", "db/da2/page_module_monitor.html", [
       [ "Monitor Module Documentation", "db/da2/page_module_monitor.html#mod_monitor_main", null ],
       [ "Introduction", "db/da2/page_module_monitor.html#mod_monitor_intro", null ],
@@ -86,11 +96,18 @@ var page_module =
         [ "Example", "db/da2/page_module_monitor.html#mod_monitor_example", null ]
       ] ]
     ] ],
+    [ "Module: MQTT", "dc/d5c/page_module_mqtt.html", [
+      [ "Mqtt Module Documentation", "dc/d5c/page_module_mqtt.html#mod_mqtt_main", null ],
+      [ "Introduction", "dc/d5c/page_module_mqtt.html#mod_sysfsgpio_intro", null ],
+      [ "Configuration Options", "dc/d5c/page_module_mqtt.html#mod_mqtt_user_config", [
+        [ "Example", "dc/d5c/page_module_mqtt.html#mod_mqtt_example", null ]
+      ] ]
+    ] ],
     [ "Module: Piface Digital GPIO", "d4/ddb/page_module_piface.html", [
       [ "PifaceDigital Module Documentation", "d4/ddb/page_module_piface.html#mod_piface_main", null ],
       [ "Introduction", "d4/ddb/page_module_piface.html#mod_piface_intro", null ],
       [ "Configuration Options", "d4/ddb/page_module_piface.html#mod_piface_user_config", [
-        [ "Database Configuration Notes", "d4/ddb/page_module_piface.html#autotoc_md9", null ],
+        [ "Database Configuration Notes", "d4/ddb/page_module_piface.html#autotoc_md11", null ],
         [ "XML Config Example", "d4/ddb/page_module_piface.html#mod_piface_example", null ]
       ] ]
     ] ],
@@ -121,14 +138,12 @@ var page_module =
     ] ],
     [ "Module: SysFS GPIO", "da/d7f/page_module_sysfs_gpio.html", [
       [ "SysFsGpio Module Documentation", "da/d7f/page_module_sysfs_gpio.html#mod_sysfsgpio_main", null ],
-      [ "Introduction", "da/d7f/page_module_sysfs_gpio.html#mod_sysfsgpio_intro", null ],
       [ "Configuration Options", "da/d7f/page_module_sysfs_gpio.html#mod_sysfsgpio_user_config", [
-        [ "Path information", "da/d7f/page_module_sysfs_gpio.html#autotoc_md10", null ],
-        [ "Interrupt Mode", "da/d7f/page_module_sysfs_gpio.html#autotoc_md11", null ],
-        [ "Default Value", "da/d7f/page_module_sysfs_gpio.html#autotoc_md12", null ],
+        [ "Path information", "da/d7f/page_module_sysfs_gpio.html#autotoc_md12", null ],
+        [ "Interrupt Mode", "da/d7f/page_module_sysfs_gpio.html#autotoc_md13", null ],
+        [ "Default Value", "da/d7f/page_module_sysfs_gpio.html#autotoc_md14", null ],
         [ "Example", "da/d7f/page_module_sysfs_gpio.html#mod_sysfsgpio_example", null ]
-      ] ],
-      [ "Notes", "da/d7f/page_module_sysfs_gpio.html#mod_sysfsgpio_notes", null ]
+      ] ]
     ] ],
     [ "Module: TCP Notifier", "d8/da9/page_module_tcp_notifier.html", [
       [ "TCP Notifier", "d8/da9/page_module_tcp_notifier.html#mod_tcp-notifier_main", null ],

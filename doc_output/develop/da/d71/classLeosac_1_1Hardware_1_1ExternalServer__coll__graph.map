@@ -1,0 +1,7 @@
+<map id="Leosac::Hardware::ExternalServer" name="Leosac::Hardware::ExternalServer">
+<area shape="rect" id="node1" title="Abstraction of an External Server device." alt="" coords="73,261,273,303"/>
+<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,185,196,212"/>
+<area shape="rect" id="node3" href="$d7/d46/classLeosac_1_1UUID.html" title="Thin wrapper around boost::uuids::uuid." alt="" coords="46,96,155,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="191,96,277,123"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="165,5,303,47"/>
+</map>

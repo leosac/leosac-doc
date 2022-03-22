@@ -96,14 +96,12 @@ $(document).ready(function(){initNavTree('da/d7f/page_module_sysfs_gpio.html','.
 <div class="contents">
 <div class="toc"><h3>Table of Contents</h3>
 <ul><li class="level1"><a href="#mod_sysfsgpio_main">SysFsGpio Module Documentation</a></li>
-<li class="level1"><a href="#mod_sysfsgpio_intro">Introduction</a></li>
-<li class="level1"><a href="#mod_sysfsgpio_user_config">Configuration Options</a><ul><li class="level2"><a href="#autotoc_md10">Path information</a></li>
-<li class="level2"><a href="#autotoc_md11">Interrupt Mode</a></li>
-<li class="level2"><a href="#autotoc_md12">Default Value</a></li>
+<li class="level1"><a href="#mod_sysfsgpio_user_config">Configuration Options</a><ul><li class="level2"><a href="#autotoc_md12">Path information</a></li>
+<li class="level2"><a href="#autotoc_md13">Interrupt Mode</a></li>
+<li class="level2"><a href="#autotoc_md14">Default Value</a></li>
 <li class="level2"><a href="#mod_sysfsgpio_example">Example</a></li>
 </ul>
 </li>
-<li class="level1"><a href="#mod_sysfsgpio_notes">Notes</a></li>
 </ul>
 </div>
 <div class="textblock"><p>Driving GPIO pin through Linux's sysfs.</p>
@@ -114,6 +112,7 @@ Introduction</h1>
 <p>Welcome to the main documentation page for the SysFsGpio module. This page is about SysFsGpio from an end-user point of view. <br  />
 It describes how to configure the SysFsGpio module for <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>.</p>
 <p>This module provide support for FGPIO device by supporting the Linux Kernel SysFs interface. It allows the application to deals with GPIO pin that are in fact controlled through sysfs.</p>
+<dl class="section note"><dt>Note</dt><dd>SysFs GPIO has been deprecated on Linux systems by <a class="el" href="../../d2/db9/page_module_libgpiod.html">Character Device GPIO and libgpiod</a>.</dd></dl>
 <h1><a class="anchor" id="mod_sysfsgpio_user_config"></a>
 Configuration Options</h1>
 <p>Below are the configuration options available.</p>
@@ -151,7 +150,7 @@ Configuration Options</h1>
 <tr class="markdownTableRowOdd">
 <td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">value </td><td class="markdownTableBodyNone">Default value of the PIN. Either <code>1</code> or <code>0</code> </td><td class="markdownTableBodyNone">NO  </td></tr>
 </table>
-<h2><a class="anchor" id="autotoc_md10"></a>
+<h2><a class="anchor" id="autotoc_md12"></a>
 Path information</h2>
 <p>Path configuration allows the user the use the same <code>sysfsgpio</code> module on multiple platform even when the path-to-gpio / naming-convention of GPIO pins varies. The <code>__PLACEHOLDER__</code> placeholder will be replaced by the <em>identifier</em> of the pin. The <em>identifier</em> is computed through aliases resolution.</p>
 <p>A simple example:</p><ul>
@@ -162,7 +161,7 @@ Path information</h2>
 <li><code>__PLACEHOLDER__</code> is replaced by the pin identifier: The module will resolve the value path of the PIN to <code>/sys/class/gpio/gpio14/value</code></li>
 </ul>
 <dl class="section see"><dt>See also</dt><dd>SysFsGpioConfigTest for more example.</dd></dl>
-<h2><a class="anchor" id="autotoc_md11"></a>
+<h2><a class="anchor" id="autotoc_md13"></a>
 Interrupt Mode</h2>
 <p>The configuration option <code>interrupt_mode</code> can take 4 values:</p><ul>
 <li><code>Falling</code></li>
@@ -170,7 +169,7 @@ Interrupt Mode</h2>
 <li><code>Both</code></li>
 <li><code>None</code>. This is the default. This parameter is ignored for output pin.</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md12"></a>
+<h2><a class="anchor" id="autotoc_md14"></a>
 Default Value</h2>
 <p>The default value (ignored for input pin) is set for the pin when the module starts. It is also restored when the module stops.</p>
 <h2><a class="anchor" id="mod_sysfsgpio_example"></a>
@@ -220,8 +219,8 @@ Notes</h1>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../index.html">Leosac Manual</a></li><li class="navelem"><a class="el" href="../../d9/d1d/page_doc_content.html">Documentation</a></li><li class="navelem"><a class="el" href="../../da/dca/page_module.html">Modules</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
+    <li class="navelem"><a class="el" href="../../d0/d30/page_guides.html">Guides</a></li><li class="navelem"><a class="el" href="../../d8/d25/page_guide_rpi_wiegand.html">Raspberry Pi 1 and Wiegand</a></li>
+    <li class="footer">Generated on Tue Mar 22 2022 10:51:48 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

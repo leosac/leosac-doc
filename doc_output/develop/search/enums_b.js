@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['protocol_5643',['Protocol',['../d8/d47/namespaceLeosac_1_1Module_1_1TCPNotifier.html#ae963c1c97bac1f85b19381542b076170',1,'Leosac::Module::TCPNotifier']]]
+  ['relocationmode_5898',['RelocationMode',['../d9/d4c/classDynamicLibrary.html#ab100c05fdbd8f601a99294b97980ee75',1,'DynamicLibrary']]],
+  ['rplethcommands_5899',['RplethCommands',['../d3/d31/classLeosac_1_1Module_1_1Rpleth_1_1RplethProtocol.html#a049ce64cb0b029d47941ad4c04e7d3dd',1,'Leosac::Module::Rpleth::RplethProtocol']]]
 ];

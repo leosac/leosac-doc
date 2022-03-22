@@ -1,0 +1,5 @@
+<map id="Leosac::Hardware::ExternalServer" name="Leosac::Hardware::ExternalServer">
+<area shape="rect" id="node1" title="Abstraction of an External Server device." alt="" coords="5,80,205,121"/>
+<area shape="rect" id="node3" href="$d8/d04/structLeosac_1_1Module_1_1Mqtt_1_1MqttServerConfig.html" title="An instance of this class represents the configuration of one Mqtt server." alt="" coords="25,169,186,211"/>
+<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="10,5,201,32"/>
+</map>

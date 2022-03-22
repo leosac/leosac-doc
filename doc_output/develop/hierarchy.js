@@ -31,7 +31,9 @@ var hierarchy =
       [ "Leosac::Module::EventPublish::EventPublish", "dd/dea/classLeosac_1_1Module_1_1EventPublish_1_1EventPublish.html", null ],
       [ "Leosac::Module::Instrumentation::InstrumentationModule", "dd/dee/classLeosac_1_1Module_1_1Instrumentation_1_1InstrumentationModule.html", null ],
       [ "Leosac::Module::LedBuzzer::LEDBuzzerModule", "db/d04/classLeosac_1_1Module_1_1LedBuzzer_1_1LEDBuzzerModule.html", null ],
+      [ "Leosac::Module::Libgpiod::LibgpiodModule", "d1/dd3/classLeosac_1_1Module_1_1Libgpiod_1_1LibgpiodModule.html", null ],
       [ "Leosac::Module::Monitor::MonitorModule", "da/da7/classLeosac_1_1Module_1_1Monitor_1_1MonitorModule.html", null ],
+      [ "Leosac::Module::Mqtt::MqttModule", "d4/d49/classLeosac_1_1Module_1_1Mqtt_1_1MqttModule.html", null ],
       [ "Leosac::Module::Piface::PFDigitalModule", "d4/d25/classLeosac_1_1Module_1_1Piface_1_1PFDigitalModule.html", null ],
       [ "Leosac::Module::Replication::ReplicationModule", "d5/d56/classLeosac_1_1Module_1_1Replication_1_1ReplicationModule.html", null ],
       [ "Leosac::Module::Rpleth::RplethModule", "d1/db0/classLeosac_1_1Module_1_1Rpleth_1_1RplethModule.html", null ],
@@ -115,6 +117,9 @@ var hierarchy =
       ] ]
     ] ],
     [ "Leosac::Hardware::BuzzerSerializer", "db/db7/structLeosac_1_1Hardware_1_1BuzzerSerializer.html", null ],
+    [ "callback", null, [
+      [ "mqtt_callback", "d1/d47/classmqtt__callback.html", null ]
+    ] ],
     [ "Leosac::Module::Rpleth::CircularBuffer", "d1/d1b/classLeosac_1_1Module_1_1Rpleth_1_1CircularBuffer.html", null ],
     [ "Leosac::Module::WebSockAPI::ClientMessage", "d2/d15/structLeosac_1_1Module_1_1WebSockAPI_1_1ClientMessage.html", null ],
     [ "Leosac::ConfigChecker", "d4/d3f/classLeosac_1_1ConfigChecker.html", null ],
@@ -133,6 +138,12 @@ var hierarchy =
     [ "Leosac::DBService", "d7/def/classLeosac_1_1DBService.html", null ],
     [ "Leosac::Hardware::Device", "d3/d7f/classLeosac_1_1Hardware_1_1Device.html", [
       [ "Leosac::Hardware::Buzzer", "dc/d7a/classLeosac_1_1Hardware_1_1Buzzer.html", null ],
+      [ "Leosac::Hardware::ExternalMessage", "d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html", [
+        [ "Leosac::Module::Mqtt::MqttExternalMessage", "d8/dc7/structLeosac_1_1Module_1_1Mqtt_1_1MqttExternalMessage.html", null ]
+      ] ],
+      [ "Leosac::Hardware::ExternalServer", "d2/dc7/classLeosac_1_1Hardware_1_1ExternalServer.html", [
+        [ "Leosac::Module::Mqtt::MqttServerConfig", "d8/d04/structLeosac_1_1Module_1_1Mqtt_1_1MqttServerConfig.html", null ]
+      ] ],
       [ "Leosac::Hardware::GPIO", "de/d98/classLeosac_1_1Hardware_1_1GPIO.html", [
         [ "Leosac::Module::Piface::PFGPIO", "dc/d7f/classLeosac_1_1Module_1_1Piface_1_1PFGPIO.html", null ]
       ] ],
@@ -148,6 +159,7 @@ var hierarchy =
     [ "Leosac::DoorJSONSerializer", "d9/d14/structLeosac_1_1DoorJSONSerializer.html", null ],
     [ "Leosac::DoorJSONStringSerializer", "db/d29/structLeosac_1_1DoorJSONStringSerializer.html", null ],
     [ "Leosac::Module::Doorman::DoormanAction", "da/d0c/structLeosac_1_1Module_1_1Doorman_1_1DoormanAction.html", null ],
+    [ "Leosac::Module::Doorman::DoormanDoor", "d2/d3e/classLeosac_1_1Module_1_1Doorman_1_1DoormanDoor.html", null ],
     [ "Leosac::Module::Doorman::DoormanInstance", "dc/d54/classLeosac_1_1Module_1_1Doorman_1_1DoormanInstance.html", null ],
     [ "Leosac::Test::DummyServiceInterface", "d6/d18/structLeosac_1_1Test_1_1DummyServiceInterface.html", [
       [ "Leosac::Test::DummyServiceImpl", "d3/dbf/structLeosac_1_1Test_1_1DummyServiceImpl.html", null ]
@@ -238,12 +250,15 @@ var hierarchy =
     [ "Leosac::ExtensibleSerializer< json, IUpdate, const SecurityContext & >", "d4/d6b/classLeosac_1_1ExtensibleSerializer.html", [
       [ "Leosac::update::UpdateService", "d4/d12/classLeosac_1_1update_1_1UpdateService.html", null ]
     ] ],
+    [ "Leosac::Hardware::ExternalMessageSerializer", "db/d0d/structLeosac_1_1Hardware_1_1ExternalMessageSerializer.html", null ],
+    [ "Leosac::Hardware::ExternalServerSerializer", "d7/d7d/structLeosac_1_1Hardware_1_1ExternalServerSerializer.html", null ],
     [ "Leosac::Audit::Factory", "db/d0f/classLeosac_1_1Audit_1_1Factory.html", null ],
     [ "Leosac::Test::Helper::FakeGPIO", "dc/dfa/classLeosac_1_1Test_1_1Helper_1_1FakeGPIO.html", null ],
     [ "Leosac::Test::Helper::FakeWiegandReader", "df/d1a/classLeosac_1_1Test_1_1Helper_1_1FakeWiegandReader.html", null ],
     [ "false_type", null, [
       [ "Leosac::is_shared_ptr< T >", "df/d84/structLeosac_1_1is__shared__ptr.html", null ]
     ] ],
+    [ "Leosac::Hardware::FExternalServer", "d2/d78/classLeosac_1_1Hardware_1_1FExternalServer.html", null ],
     [ "Leosac::Hardware::FGPIO", "d0/dea/classLeosac_1_1Hardware_1_1FGPIO.html", null ],
     [ "Leosac::Hardware::FLED", "db/df5/classLeosac_1_1Hardware_1_1FLED.html", null ],
     [ "Leosac::Tools::Stacktrace::Frame", "d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html", null ],
@@ -263,6 +278,9 @@ var hierarchy =
     ] ],
     [ "Leosac::Auth::IAccessProfile", "d5/d20/classLeosac_1_1Auth_1_1IAccessProfile.html", [
       [ "Leosac::Auth::SimpleAccessProfile", "de/db4/classLeosac_1_1Auth_1_1SimpleAccessProfile.html", null ]
+    ] ],
+    [ "iaction_listener", null, [
+      [ "mqtt_callback", "d1/d47/classmqtt__callback.html", null ]
     ] ],
     [ "Leosac::Audit::IAuditTracker", "d0/dc2/classLeosac_1_1Audit_1_1IAuditTracker.html", null ],
     [ "Leosac::Module::WebSockAPI::ICRUDResourceHandler", "d3/dd9/classLeosac_1_1Module_1_1WebSockAPI_1_1ICRUDResourceHandler.html", [
@@ -344,6 +362,8 @@ var hierarchy =
     [ "Leosac::Kernel", "d1/d50/classLeosac_1_1Kernel.html", null ],
     [ "Leosac::Module::LedBuzzer::LedBuzzerImpl", "d7/df7/classLeosac_1_1Module_1_1LedBuzzer_1_1LedBuzzerImpl.html", null ],
     [ "Leosac::Hardware::LEDSerializer", "d6/dca/structLeosac_1_1Hardware_1_1LEDSerializer.html", null ],
+    [ "Leosac::Module::Libgpiod::LibgpiodConfig", "d0/dbd/classLeosac_1_1Module_1_1Libgpiod_1_1LibgpiodConfig.html", null ],
+    [ "Leosac::Module::Libgpiod::LibgpiodPin", "df/dbe/classLeosac_1_1Module_1_1Libgpiod_1_1LibgpiodPin.html", null ],
     [ "Leosac::Tools::LogEntry", "d8/d23/classLeosac_1_1Tools_1_1LogEntry.html", null ],
     [ "logger_guard", "d7/db3/structlogger__guard.html", null ],
     [ "Leosac::Tools::LogView", "d1/d52/structLeosac_1_1Tools_1_1LogView.html", null ],
@@ -378,6 +398,8 @@ var hierarchy =
     [ "ModuleManager", "d0/dc3/classModuleManager.html", null ],
     [ "Leosac::Module::Piface::ModuleParameters", "d8/d05/structLeosac_1_1Module_1_1Piface_1_1ModuleParameters.html", null ],
     [ "Leosac::Module::WebSockAPI::ModuleRequestContext", "dd/db7/structLeosac_1_1Module_1_1WebSockAPI_1_1ModuleRequestContext.html", null ],
+    [ "Leosac::Module::Mqtt::MqttConfig", "df/df9/classLeosac_1_1Module_1_1Mqtt_1_1MqttConfig.html", null ],
+    [ "Leosac::Module::Mqtt::MqttExternalServer", "dc/d6d/classLeosac_1_1Module_1_1Mqtt_1_1MqttExternalServer.html", null ],
     [ "Leosac::db::MultiplexedSession", "dd/d1d/classLeosac_1_1db_1_1MultiplexedSession.html", null ],
     [ "Leosac::db::MultiplexedTransaction", "d7/d1e/classLeosac_1_1db_1_1MultiplexedTransaction.html", null ],
     [ "Leosac::NetworkConfig", "d2/d91/classLeosac_1_1NetworkConfig.html", null ],

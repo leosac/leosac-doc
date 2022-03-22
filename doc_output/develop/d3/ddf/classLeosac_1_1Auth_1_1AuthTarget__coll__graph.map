@@ -1,10 +1,10 @@
 <map id="Leosac::Auth::AuthTarget" name="Leosac::Auth::AuthTarget">
-<area shape="rect" id="node1" title="Represent an object that we are authorizing against (a door)." alt="" coords="1037,53,1220,79"/>
-<area shape="rect" id="node2" title="STL class." alt="" coords="193,13,280,39"/>
-<area shape="rect" id="node5" href="$d0/dea/classLeosac_1_1Hardware_1_1FGPIO.html" title="A Facade to a GPIO object." alt="" coords="412,49,599,75"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,5,144,47"/>
-<area shape="rect" id="node4" title=" " alt="" coords="712,45,891,87"/>
-<area shape="rect" id="node6" title=" " alt="" coords="732,111,871,152"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="427,118,584,145"/>
-<area shape="rect" id="node8" title=" " alt="" coords="217,118,256,145"/>
+<area shape="rect" id="node1" title="Represent an object that we are authorizing against (a door)." alt="" coords="1037,80,1220,107"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="193,35,280,61"/>
+<area shape="rect" id="node5" href="$d0/dea/classLeosac_1_1Hardware_1_1FGPIO.html" title="A Facade to a GPIO object." alt="" coords="412,71,599,97"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,27,144,69"/>
+<area shape="rect" id="node4" title=" " alt="" coords="712,67,891,109"/>
+<area shape="rect" id="node6" title=" " alt="" coords="732,133,871,174"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="427,140,584,167"/>
+<area shape="rect" id="node8" title=" " alt="" coords="217,140,256,167"/>
 </map>

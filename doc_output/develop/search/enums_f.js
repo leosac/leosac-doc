@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['userrank_5655',['UserRank',['../d0/d31/namespaceLeosac_1_1Auth.html#a4238f97d21ca325e6323eaee77e1ab42',1,'Leosac::Auth']]]
+  ['verb_5910',['Verb',['../d3/dd9/classLeosac_1_1Module_1_1WebSockAPI_1_1ICRUDResourceHandler.html#a79e2501860584df443bf3d6b459e6adb',1,'Leosac::Module::WebSockAPI::ICRUDResourceHandler']]]
 ];

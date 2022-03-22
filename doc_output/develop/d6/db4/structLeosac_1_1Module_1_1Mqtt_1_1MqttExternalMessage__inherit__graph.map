@@ -1,0 +1,5 @@
+<map id="Leosac::Module::Mqtt::MqttExternalMessage" name="Leosac::Module::Mqtt::MqttExternalMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="19,169,191,211"/>
+<area shape="rect" id="node2" href="$d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html" title="Abstraction of an External Messaging device." alt="" coords="5,80,205,121"/>
+<area shape="rect" id="node3" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="10,5,201,32"/>
+</map>

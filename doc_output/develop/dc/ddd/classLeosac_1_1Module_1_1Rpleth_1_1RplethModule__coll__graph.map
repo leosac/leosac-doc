@@ -1,51 +1,51 @@
 <map id="Leosac::Module::Rpleth::RplethModule" name="Leosac::Module::Rpleth::RplethModule">
-<area shape="rect" id="node1" title="Main class for the Rpleth module." alt="" coords="4248,386,4421,427"/>
-<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation." alt="" coords="3853,1141,4064,1168"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="508,655,595,681"/>
-<area shape="rect" id="node8" href="$dc/db8/classLeosac_1_1Tools_1_1XmlNodeNameEnforcer.html" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="1140,837,1355,878"/>
-<area shape="rect" id="node9" title=" " alt="" coords="1163,782,1331,823"/>
-<area shape="rect" id="node10" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module." alt="" coords="1388,963,1561,989"/>
-<area shape="rect" id="node11" title=" " alt="" coords="929,949,1092,1005"/>
-<area shape="rect" id="node16" title=" " alt="" coords="917,192,1104,219"/>
-<area shape="rect" id="node18" href="$d4/d18/structModuleManager_1_1ModuleInfo.html" title="Internal helper struct that store informations related to module that are useful to the module manage..." alt="" coords="1863,357,2071,384"/>
-<area shape="rect" id="node20" href="$d9/d4c/classDynamicLibrary.html" title="Wraps a dynamic library handler and provide methods to interact with it." alt="" coords="948,332,1073,359"/>
-<area shape="rect" id="node29" href="$d7/d42/classLeosac_1_1RemoteControl.html" title="This class handle the remote control of leosac." alt="" coords="2371,655,2544,681"/>
-<area shape="rect" id="node30" title=" " alt="" coords="1595,425,1829,495"/>
-<area shape="rect" id="node32" title=" " alt="" coords="1388,416,1561,472"/>
-<area shape="rect" id="node33" title=" " alt="" coords="1171,557,1324,598"/>
-<area shape="rect" id="node35" href="$d2/d91/classLeosac_1_1NetworkConfig.html" title="Class that helps configuring the network." alt="" coords="2372,1056,2543,1083"/>
-<area shape="rect" id="node42" title=" " alt="" coords="929,1081,1092,1122"/>
-<area shape="rect" id="node44" href="$d7/dc6/classLeosac_1_1Hardware_1_1FWiegandReader.html" title="Facade object for a Wiegand Reader device." alt="" coords="905,11,1116,53"/>
-<area shape="rect" id="node45" title=" " alt="" coords="922,1361,1099,1417"/>
-<area shape="rect" id="node49" title=" " alt="" coords="2143,80,2308,107"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="167,647,305,689"/>
-<area shape="rect" id="node5" title=" " alt="" coords="3521,1200,3731,1227"/>
-<area shape="rect" id="node7" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac." alt="" coords="1909,1124,2025,1151"/>
-<area shape="rect" id="node15" href="$d0/dc3/classModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application through..." alt="" coords="3895,712,4022,739"/>
-<area shape="rect" id="node6" href="$d9/d46/classLeosac_1_1CoreUtils.html" title="This class is part of Leosac::Kernel, but it only exposes thread&#45;safe functionalities that may be use..." alt="" coords="3271,1303,3405,1329"/>
-<area shape="rect" id="node37" href="$d4/dde/classLeosac_1_1Scheduler.html" title="This is a scheduler that is used internally to schedule asynchronous / long running tasks." alt="" coords="2388,1372,2527,1399"/>
-<area shape="rect" id="node12" title=" " alt="" coords="523,1227,579,1253"/>
-<area shape="rect" id="node31" href="$d5/df3/classLeosac_1_1RemoteControlSecurity.html" title="Provide some kind of security framework to the Remote Control service." alt="" coords="1853,585,2080,612"/>
-<area shape="rect" id="node13" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets." alt="" coords="1423,1115,1527,1141"/>
-<area shape="rect" id="node14" title=" " alt="" coords="1395,1166,1554,1207"/>
-<area shape="rect" id="node17" title=" " alt="" coords="3056,503,3247,545"/>
-<area shape="rect" id="node19" title=" " alt="" coords="1379,285,1571,326"/>
-<area shape="rect" id="node21" title=" " alt="" coords="1385,350,1564,391"/>
-<area shape="rect" id="node22" title=" " alt="" coords="1383,1231,1566,1273"/>
-<area shape="rect" id="node23" href="$df/d75/classLeosac_1_1ServiceRegistry.html" title="A class that manages services." alt="" coords="922,1441,1099,1468"/>
-<area shape="rect" id="node24" title="STL class." alt="" coords="505,1493,597,1520"/>
-<area shape="rect" id="node41" href="$d4/d3f/classLeosac_1_1ConfigChecker.html" title="This class is here to help check the validity of the configuration." alt="" coords="1391,1360,1559,1387"/>
-<area shape="rect" id="node25" title=" " alt="" coords="428,1422,675,1463"/>
-<area shape="rect" id="node26" title="STL class." alt="" coords="157,1472,315,1499"/>
-<area shape="rect" id="node27" title=" " alt="" coords="5,1515,44,1541"/>
-<area shape="rect" id="node39" title="STL class." alt="" coords="172,1540,300,1567"/>
-<area shape="rect" id="node28" title=" " alt="" coords="2836,710,3015,751"/>
-<area shape="rect" id="node34" title=" " alt="" coords="2836,1061,3015,1102"/>
-<area shape="rect" id="node36" title=" " alt="" coords="2819,1372,3032,1399"/>
-<area shape="rect" id="node38" title=" " alt="" coords="699,1593,881,1634"/>
-<area shape="rect" id="node40" title=" " alt="" coords="2104,1304,2347,1331"/>
-<area shape="rect" id="node43" title=" " alt="" coords="2568,7,2795,49"/>
-<area shape="rect" id="node46" href="$d1/d1b/classLeosac_1_1Module_1_1Rpleth_1_1CircularBuffer.html" title="Implementation of a ring buffer." alt="" coords="465,1351,638,1393"/>
-<area shape="rect" id="node47" title=" " alt="" coords="161,1359,311,1385"/>
-<area shape="rect" id="node48" title=" " alt="" coords="3880,763,4037,805"/>
+<area shape="rect" id="node1" title="Main class for the Rpleth module." alt="" coords="4283,389,4456,430"/>
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation." alt="" coords="3888,1144,4099,1171"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="508,657,595,684"/>
+<area shape="rect" id="node8" href="$dc/db8/classLeosac_1_1Tools_1_1XmlNodeNameEnforcer.html" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="1175,839,1389,881"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1198,785,1366,826"/>
+<area shape="rect" id="node10" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module." alt="" coords="1423,965,1596,992"/>
+<area shape="rect" id="node11" title=" " alt="" coords="947,952,1109,1008"/>
+<area shape="rect" id="node16" title=" " alt="" coords="935,195,1121,221"/>
+<area shape="rect" id="node18" href="$d4/d18/structModuleManager_1_1ModuleInfo.html" title="Internal helper struct that store informations related to module that are useful to the module manage..." alt="" coords="1897,360,2105,387"/>
+<area shape="rect" id="node20" href="$d9/d4c/classDynamicLibrary.html" title="Wraps a dynamic library handler and provide methods to interact with it." alt="" coords="965,335,1091,361"/>
+<area shape="rect" id="node29" href="$d7/d42/classLeosac_1_1RemoteControl.html" title="This class handle the remote control of leosac." alt="" coords="2405,657,2579,684"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1629,427,1864,498"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1423,419,1596,475"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1205,559,1359,601"/>
+<area shape="rect" id="node35" href="$d2/d91/classLeosac_1_1NetworkConfig.html" title="Class that helps configuring the network." alt="" coords="2407,1059,2577,1085"/>
+<area shape="rect" id="node42" title=" " alt="" coords="905,1083,1151,1125"/>
+<area shape="rect" id="node44" href="$d7/dc6/classLeosac_1_1Hardware_1_1FWiegandReader.html" title="Facade object for a Wiegand Reader device." alt="" coords="923,14,1133,55"/>
+<area shape="rect" id="node45" title=" " alt="" coords="939,1364,1117,1420"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2177,83,2343,109"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="167,650,305,691"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3556,1203,3765,1229"/>
+<area shape="rect" id="node7" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac." alt="" coords="1943,1127,2059,1153"/>
+<area shape="rect" id="node15" href="$d0/dc3/classModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application through..." alt="" coords="3930,715,4057,741"/>
+<area shape="rect" id="node6" href="$d9/d46/classLeosac_1_1CoreUtils.html" title="This class is part of Leosac::Kernel, but it only exposes thread&#45;safe functionalities that may be use..." alt="" coords="3305,1305,3440,1332"/>
+<area shape="rect" id="node37" href="$d4/dde/classLeosac_1_1Scheduler.html" title="This is a scheduler that is used internally to schedule asynchronous / long running tasks." alt="" coords="2423,1375,2561,1401"/>
+<area shape="rect" id="node12" title=" " alt="" coords="523,1229,579,1256"/>
+<area shape="rect" id="node31" href="$d5/df3/classLeosac_1_1RemoteControlSecurity.html" title="Provide some kind of security framework to the Remote Control service." alt="" coords="1888,588,2115,615"/>
+<area shape="rect" id="node13" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets." alt="" coords="1457,1117,1561,1144"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1430,1169,1589,1210"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3091,506,3281,547"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1413,287,1605,329"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1420,353,1599,394"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1418,1234,1601,1275"/>
+<area shape="rect" id="node23" href="$df/d75/classLeosac_1_1ServiceRegistry.html" title="A class that manages services." alt="" coords="939,1444,1117,1471"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="505,1496,597,1523"/>
+<area shape="rect" id="node41" href="$d4/d3f/classLeosac_1_1ConfigChecker.html" title="This class is here to help check the validity of the configuration." alt="" coords="1425,1363,1593,1389"/>
+<area shape="rect" id="node25" title=" " alt="" coords="428,1425,675,1466"/>
+<area shape="rect" id="node26" title="STL class." alt="" coords="157,1475,315,1501"/>
+<area shape="rect" id="node27" title=" " alt="" coords="5,1517,44,1544"/>
+<area shape="rect" id="node39" title="STL class." alt="" coords="172,1543,300,1569"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2871,713,3049,754"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2871,1063,3049,1105"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2853,1375,3067,1401"/>
+<area shape="rect" id="node38" title=" " alt="" coords="699,1595,881,1637"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2139,1307,2381,1333"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2603,10,2829,51"/>
+<area shape="rect" id="node46" href="$d1/d1b/classLeosac_1_1Module_1_1Rpleth_1_1CircularBuffer.html" title="Implementation of a ring buffer." alt="" coords="465,1354,638,1395"/>
+<area shape="rect" id="node47" title=" " alt="" coords="161,1361,311,1388"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3915,766,4072,807"/>
 </map>

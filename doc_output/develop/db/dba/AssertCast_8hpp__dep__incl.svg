@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 4468;
+var viewWidth = 4476;
 var viewHeight = 240;
 var sectionId = 'dynsection-1';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-1';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>src/tools/AssertCast.hpp</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-236 4463.5,-236 4463.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-236 4471.5,-236 4471.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -223,16 +223,16 @@ var sectionId = 'dynsection-1';
 <g id="node15" class="node">
 <title>Node15</title>
 <g id="a_node15"><a xlink:href="../../d6/d95/PFDigitalModule_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3563.5,-6 3563.5,-36 3703.5,-36 3703.5,-6 3563.5,-6"/>
-<text text-anchor="start" x="3571.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
-<text text-anchor="middle" x="3633.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/PFDigitalModule.cpp</text>
+<polygon fill="white" stroke="black" points="3571.5,-6 3571.5,-36 3711.5,-36 3711.5,-6 3571.5,-6"/>
+<text text-anchor="start" x="3579.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
+<text text-anchor="middle" x="3641.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/PFDigitalModule.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge16" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M1600.76,-219.46C1757.88,-215.82 2125.86,-204.74 2433.5,-176 2534.01,-166.61 2558.35,-157.66 2658.5,-145 3055.74,-94.78 3159.55,-113.6 3553.5,-42 3562.66,-40.34 3572.32,-38.23 3581.64,-36.01"/>
+<path fill="none" stroke="midnightblue" d="M1600.76,-219.46C1757.88,-215.82 2125.86,-204.74 2433.5,-176 2534.01,-166.61 2558.35,-157.6 2658.5,-145 3059.71,-94.51 3164.71,-114.67 3562.5,-42 3571.55,-40.35 3581.09,-38.24 3590.3,-36.03"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1600.63,-215.96 1590.71,-219.69 1600.79,-222.96 1600.63,-215.96"/>
 </g>
 <!-- Node16 -->
@@ -318,17 +318,17 @@ var sectionId = 'dynsection-1';
 <g id="node21" class="node">
 <title>Node21</title>
 <g id="a_node21"><a xlink:href="../../da/df4/websock-api_2WSHelperThread_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3795,-145.5 3795,-175.5 3936,-175.5 3936,-145.5 3795,-145.5"/>
-<text text-anchor="start" x="3803" y="-163.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/websock</text>
-<text text-anchor="middle" x="3865.5" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;api/WSHelperThread.hpp</text>
+<polygon fill="white" stroke="black" points="3803,-145.5 3803,-175.5 3944,-175.5 3944,-145.5 3803,-145.5"/>
+<text text-anchor="start" x="3811" y="-163.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/websock</text>
+<text text-anchor="middle" x="3873.5" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;api/WSHelperThread.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node21 -->
 <g id="edge23" class="edge">
 <title>Node1&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1600.75,-219.04C1958.49,-209.95 3451.23,-172.02 3794.78,-163.3"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1600.66,-215.54 1590.75,-219.29 1600.84,-222.54 1600.66,-215.54"/>
+<path fill="none" stroke="midnightblue" d="M1600.69,-219.05C1959.14,-209.97 3458.44,-172.01 3802.79,-163.29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1600.58,-215.55 1590.67,-219.3 1600.76,-222.54 1600.58,-215.55"/>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node">
@@ -459,135 +459,135 @@ var sectionId = 'dynsection-1';
 <g id="node22" class="node">
 <title>Node22</title>
 <g id="a_node22"><a xlink:href="../../dc/d31/led-buzzer_2ws_2WSHelperThread_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4169,-78.5 4169,-108.5 4308,-108.5 4308,-78.5 4169,-78.5"/>
-<text text-anchor="start" x="4177" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
-<text text-anchor="middle" x="4238.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.hpp</text>
+<polygon fill="white" stroke="black" points="4177,-78.5 4177,-108.5 4316,-108.5 4316,-78.5 4177,-78.5"/>
+<text text-anchor="start" x="4185" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
+<text text-anchor="middle" x="4246.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node21&#45;&gt;Node22 -->
 <g id="edge24" class="edge">
 <title>Node21&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M3946.1,-145.45C4012.48,-133.89 4105.63,-117.65 4168.82,-106.64"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3945.35,-142.03 3936.1,-147.2 3946.55,-148.93 3945.35,-142.03"/>
+<path fill="none" stroke="midnightblue" d="M3954.1,-145.45C4020.48,-133.89 4113.63,-117.65 4176.82,-106.64"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3953.35,-142.03 3944.1,-147.2 3954.55,-148.93 3953.35,-142.03"/>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node">
 <title>Node25</title>
 <g id="a_node25"><a xlink:href="../../d7/d36/PFDigitalModule_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3716.5,-78.5 3716.5,-108.5 3856.5,-108.5 3856.5,-78.5 3716.5,-78.5"/>
-<text text-anchor="start" x="3724.5" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
-<text text-anchor="middle" x="3786.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/PFDigitalModule.hpp</text>
+<polygon fill="white" stroke="black" points="3724.5,-78.5 3724.5,-108.5 3864.5,-108.5 3864.5,-78.5 3724.5,-78.5"/>
+<text text-anchor="start" x="3732.5" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
+<text text-anchor="middle" x="3794.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/PFDigitalModule.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node21&#45;&gt;Node25 -->
 <g id="edge27" class="edge">
 <title>Node21&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M3840.44,-138.88C3828.44,-129.01 3814.37,-117.43 3803.61,-108.58"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3838.41,-141.75 3848.36,-145.4 3842.86,-136.34 3838.41,-141.75"/>
+<path fill="none" stroke="midnightblue" d="M3848.44,-138.88C3836.44,-129.01 3822.37,-117.43 3811.61,-108.58"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3846.41,-141.75 3856.36,-145.4 3850.86,-136.34 3846.41,-141.75"/>
 </g>
 <!-- Node27 -->
 <g id="node27" class="node">
 <title>Node27</title>
 <g id="a_node27"><a xlink:href="../../d4/df3/wiegand_2ws_2WSHelperThread_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3875,-78.5 3875,-108.5 4014,-108.5 4014,-78.5 3875,-78.5"/>
-<text text-anchor="start" x="3883" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
-<text text-anchor="middle" x="3944.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.hpp</text>
+<polygon fill="white" stroke="black" points="3883,-78.5 3883,-108.5 4022,-108.5 4022,-78.5 3883,-78.5"/>
+<text text-anchor="start" x="3891" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
+<text text-anchor="middle" x="3952.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node21&#45;&gt;Node27 -->
 <g id="edge30" class="edge">
 <title>Node21&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M3890.56,-138.88C3902.56,-129.01 3916.63,-117.43 3927.39,-108.58"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3888.14,-136.34 3882.64,-145.4 3892.59,-141.75 3888.14,-136.34"/>
+<path fill="none" stroke="midnightblue" d="M3898.56,-138.88C3910.56,-129.01 3924.63,-117.43 3935.39,-108.58"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3896.14,-136.34 3890.64,-145.4 3900.59,-141.75 3896.14,-136.34"/>
 </g>
 <!-- Node23 -->
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:href="../../d7/d36/LEDBuzzerModule_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4173.5,-6 4173.5,-36 4303.5,-36 4303.5,-6 4173.5,-6"/>
-<text text-anchor="start" x="4181.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
-<text text-anchor="middle" x="4238.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/LEDBuzzerModule.cpp</text>
+<polygon fill="white" stroke="black" points="4181.5,-6 4181.5,-36 4311.5,-36 4311.5,-6 4181.5,-6"/>
+<text text-anchor="start" x="4189.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
+<text text-anchor="middle" x="4246.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/LEDBuzzerModule.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node23 -->
 <g id="edge25" class="edge">
 <title>Node22&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M4238.5,-68.23C4238.5,-57.57 4238.5,-45.41 4238.5,-36.25"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="4235,-68.23 4238.5,-78.23 4242,-68.23 4235,-68.23"/>
+<path fill="none" stroke="midnightblue" d="M4246.5,-68.23C4246.5,-57.57 4246.5,-45.41 4246.5,-36.25"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="4243,-68.23 4246.5,-78.23 4250,-68.23 4243,-68.23"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
 <g id="a_node24"><a xlink:href="../../dd/d4b/led-buzzer_2ws_2WSHelperThread_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4321.5,-6 4321.5,-36 4459.5,-36 4459.5,-6 4321.5,-6"/>
-<text text-anchor="start" x="4329.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
-<text text-anchor="middle" x="4390.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.cpp</text>
+<polygon fill="white" stroke="black" points="4329.5,-6 4329.5,-36 4467.5,-36 4467.5,-6 4329.5,-6"/>
+<text text-anchor="start" x="4337.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/led&#45;buzzer</text>
+<text text-anchor="middle" x="4398.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node24 -->
 <g id="edge26" class="edge">
 <title>Node22&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M4277.98,-74.19C4303.63,-62.29 4336.56,-47.02 4360.16,-36.07"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="4276.49,-71.02 4268.89,-78.4 4279.44,-77.37 4276.49,-71.02"/>
+<path fill="none" stroke="midnightblue" d="M4285.98,-74.19C4311.63,-62.29 4344.56,-47.02 4368.16,-36.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="4284.49,-71.02 4276.89,-78.4 4287.44,-77.37 4284.49,-71.02"/>
 </g>
 <!-- Node25&#45;&gt;Node15 -->
 <g id="edge29" class="edge">
 <title>Node25&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M3746.76,-74.19C3720.94,-62.29 3687.79,-47.02 3664.04,-36.07"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3745.36,-77.4 3755.91,-78.4 3748.29,-71.04 3745.36,-77.4"/>
+<path fill="none" stroke="midnightblue" d="M3754.76,-74.19C3728.94,-62.29 3695.79,-47.02 3672.04,-36.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3753.36,-77.4 3763.91,-78.4 3756.29,-71.04 3753.36,-77.4"/>
 </g>
 <!-- Node26 -->
 <g id="node26" class="node">
 <title>Node26</title>
 <g id="a_node26"><a xlink:href="../../d6/d6d/pifacedigital_2init_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3721.5,-6 3721.5,-36 3861.5,-36 3861.5,-6 3721.5,-6"/>
-<text text-anchor="start" x="3729.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
-<text text-anchor="middle" x="3791.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/init.cpp</text>
+<polygon fill="white" stroke="black" points="3729.5,-6 3729.5,-36 3869.5,-36 3869.5,-6 3729.5,-6"/>
+<text text-anchor="start" x="3737.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/pifacedigital</text>
+<text text-anchor="middle" x="3799.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/init.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node25&#45;&gt;Node26 -->
 <g id="edge28" class="edge">
 <title>Node25&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M3788.22,-68.23C3788.98,-57.57 3789.84,-45.41 3790.49,-36.25"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3784.73,-68.01 3787.51,-78.23 3791.71,-68.51 3784.73,-68.01"/>
+<path fill="none" stroke="midnightblue" d="M3796.22,-68.23C3796.98,-57.57 3797.84,-45.41 3798.49,-36.25"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3792.73,-68.01 3795.51,-78.23 3799.71,-68.51 3792.73,-68.01"/>
 </g>
 <!-- Node28 -->
 <g id="node28" class="node">
 <title>Node28</title>
 <g id="a_node28"><a xlink:href="../../d3/de8/wiegand_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3879.5,-6 3879.5,-36 3999.5,-36 3999.5,-6 3879.5,-6"/>
-<text text-anchor="start" x="3887.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
-<text text-anchor="middle" x="3939.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/wiegand.cpp</text>
+<polygon fill="white" stroke="black" points="3887.5,-6 3887.5,-36 4007.5,-36 4007.5,-6 3887.5,-6"/>
+<text text-anchor="start" x="3895.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
+<text text-anchor="middle" x="3947.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/wiegand.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node27&#45;&gt;Node28 -->
 <g id="edge31" class="edge">
 <title>Node27&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M3942.78,-68.23C3942.02,-57.57 3941.16,-45.41 3940.51,-36.25"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3939.29,-68.51 3943.49,-78.23 3946.27,-68.01 3939.29,-68.51"/>
+<path fill="none" stroke="midnightblue" d="M3950.78,-68.23C3950.02,-57.57 3949.16,-45.41 3948.51,-36.25"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3947.29,-68.51 3951.49,-78.23 3954.27,-68.01 3947.29,-68.51"/>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node">
 <title>Node29</title>
 <g id="a_node29"><a xlink:href="../../d8/d9e/wiegand_2ws_2WSHelperThread_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4017.5,-6 4017.5,-36 4155.5,-36 4155.5,-6 4017.5,-6"/>
-<text text-anchor="start" x="4025.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
-<text text-anchor="middle" x="4086.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.cpp</text>
+<polygon fill="white" stroke="black" points="4025.5,-6 4025.5,-36 4163.5,-36 4163.5,-6 4025.5,-6"/>
+<text text-anchor="start" x="4033.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
+<text text-anchor="middle" x="4094.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WSHelperThread.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node27&#45;&gt;Node29 -->
 <g id="edge32" class="edge">
 <title>Node27&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M3982.02,-73.87C4005.89,-62.02 4036.3,-46.92 4058.15,-36.07"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3980.29,-70.82 3972.89,-78.4 3983.41,-77.09 3980.29,-70.82"/>
+<path fill="none" stroke="midnightblue" d="M3990.02,-73.87C4013.89,-62.02 4044.3,-46.92 4066.15,-36.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3988.29,-70.82 3980.89,-78.4 3991.41,-77.09 3988.29,-70.82"/>
 </g>
 <!-- Node33&#45;&gt;Node4 -->
 <g id="edge37" class="edge">
@@ -620,7 +620,7 @@ var sectionId = 'dynsection-1';
 <g id="node44" class="node">
 <title>Node44</title>
 <g id="a_node44"><a xlink:href="../../dd/d50/HardwareService_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2652,-84 2652,-103 2839,-103 2839,-84 2652,-84"/>
+<polygon fill="white" stroke="red" points="2652,-84 2652,-103 2839,-103 2839,-84 2652,-84"/>
 <text text-anchor="middle" x="2745.5" y="-91" font-family="Helvetica,sans-Serif" font-size="10.00">src/hardware/HardwareService.hpp</text>
 </a>
 </g>
@@ -794,16 +794,16 @@ var sectionId = 'dynsection-1';
 <polygon fill="midnightblue" stroke="midnightblue" points="2641.73,-94.93 2651.77,-91.54 2641.81,-87.93 2641.73,-94.93"/>
 </g>
 <!-- Node44&#45;&gt;Node15 -->
-<g id="edge56" class="edge">
+<g id="edge57" class="edge">
 <title>Node44&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M2811.88,-82.63C2825.31,-80.88 2839.34,-79.23 2852.5,-78 3163.12,-49.03 3244.95,-88.05 3553.5,-42 3563.27,-40.54 3573.59,-38.42 3583.44,-36.09"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2811.21,-79.19 2801.76,-83.98 2812.14,-86.13 2811.21,-79.19"/>
+<path fill="none" stroke="midnightblue" d="M2811.88,-82.62C2825.31,-80.87 2839.34,-79.22 2852.5,-78 3167.1,-48.76 3250.05,-89 3562.5,-42 3572.15,-40.55 3582.34,-38.43 3592.08,-36.1"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2811.21,-79.18 2801.76,-83.97 2812.14,-86.12 2811.21,-79.18"/>
 </g>
 <!-- Node44&#45;&gt;Node28 -->
-<g id="edge58" class="edge">
+<g id="edge59" class="edge">
 <title>Node44&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M2849.52,-90.98C3089.44,-86.97 3675.93,-74.1 3870.5,-42 3879.11,-40.58 3888.18,-38.44 3896.8,-36.08"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2849.33,-87.48 2839.39,-91.15 2849.45,-94.48 2849.33,-87.48"/>
+<path fill="none" stroke="midnightblue" d="M2849.37,-91.02C3090.44,-87.08 3682.31,-74.33 3878.5,-42 3887.11,-40.58 3896.18,-38.44 3904.8,-36.08"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2849.14,-87.53 2839.2,-91.19 2849.26,-94.52 2849.14,-87.53"/>
 </g>
 <!-- Node45 -->
 <g id="node45" class="node">
@@ -870,34 +870,33 @@ var sectionId = 'dynsection-1';
 <!-- Node49 -->
 <g id="node49" class="node">
 <title>Node49</title>
-<g id="a_node49"><a xlink:href="../../de/dc2/HardwareSearch_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3159.5,-6 3159.5,-36 3351.5,-36 3351.5,-6 3159.5,-6"/>
-<text text-anchor="start" x="3167.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/websock</text>
-<text text-anchor="middle" x="3255.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;api/api/search/HardwareSearch.cpp</text>
+<g id="a_node49"><a xlink:href="../../d6/d18/MqttModule_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3159.5,-11.5 3159.5,-30.5 3343.5,-30.5 3343.5,-11.5 3159.5,-11.5"/>
+<text text-anchor="middle" x="3251.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/mqtt/MqttModule.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node44&#45;&gt;Node49 -->
-<g id="edge57" class="edge">
+<g id="edge56" class="edge">
 <title>Node44&#45;&gt;Node49</title>
-<path fill="none" stroke="midnightblue" d="M2817.37,-82.62C2829.11,-81.05 2841.14,-79.46 2852.5,-78 2984.38,-61.07 3018.1,-62.34 3149.5,-42 3160.88,-40.24 3172.91,-38.17 3184.62,-36.04"/>
+<path fill="none" stroke="midnightblue" d="M2817.37,-82.62C2829.11,-81.05 2841.14,-79.46 2852.5,-78 2984.38,-61.07 3018.17,-62.81 3149.5,-42 3170,-38.75 3192.66,-34.39 3211.41,-30.56"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2816.6,-79.19 2807.15,-83.99 2817.53,-86.13 2816.6,-79.19"/>
 </g>
 <!-- Node50 -->
 <g id="node50" class="node">
 <title>Node50</title>
-<g id="a_node50"><a xlink:href="../../d6/d48/WiegandConfigSerializer_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3370,-6 3370,-36 3545,-36 3545,-6 3370,-6"/>
-<text text-anchor="start" x="3378" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/wiegand</text>
-<text text-anchor="middle" x="3457.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">/ws/WiegandConfigSerializer.cpp</text>
+<g id="a_node50"><a xlink:href="../../de/dc2/HardwareSearch_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3361.5,-6 3361.5,-36 3553.5,-36 3553.5,-6 3361.5,-6"/>
+<text text-anchor="start" x="3369.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/websock</text>
+<text text-anchor="middle" x="3457.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;api/api/search/HardwareSearch.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node44&#45;&gt;Node50 -->
-<g id="edge59" class="edge">
+<g id="edge58" class="edge">
 <title>Node44&#45;&gt;Node50</title>
-<path fill="none" stroke="midnightblue" d="M2813.43,-82.63C2826.38,-80.94 2839.85,-79.3 2852.5,-78 3077.65,-54.79 3136.28,-72.92 3360.5,-42 3371.91,-40.43 3384,-38.31 3395.62,-36.03"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2812.62,-79.21 2803.17,-84 2813.55,-86.14 2812.62,-79.21"/>
+<path fill="none" stroke="midnightblue" d="M2813.65,-82.61C2826.54,-80.93 2839.92,-79.3 2852.5,-78 3074.11,-55.03 3131.58,-70.89 3352.5,-42 3364.74,-40.4 3377.7,-38.28 3390.19,-36.02"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2812.9,-79.18 2803.45,-83.97 2813.83,-86.12 2812.9,-79.18"/>
 </g>
 </g>
 </svg>

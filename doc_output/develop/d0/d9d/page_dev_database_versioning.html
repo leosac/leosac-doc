@@ -94,15 +94,15 @@ $(document).ready(function(){initNavTree('d0/d9d/page_dev_database_versioning.ht
 <div class="title">Database Versioning </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h2><a class="anchor" id="autotoc_md13"></a>
+<div class="textblock"><h2><a class="anchor" id="autotoc_md15"></a>
 About this document</h2>
 <p>A quick explanation about database versioning in <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>.</p>
-<h2><a class="anchor" id="autotoc_md14"></a>
+<h2><a class="anchor" id="autotoc_md16"></a>
 Introduction</h2>
 <p>Database version is a complicated tasks. We rely on our Object Relational Mapper, <a href="http://www.codesynthesis.com/products/odb/doc/manual.xhtml">ODB</a>, to provide infrastructure to support database versioning.</p>
 <p><a href="http://www.codesynthesis.com/products/odb/doc/manual.xhtml">ODB</a> maintains a changelog of the database structure. This changelog is committed in the repository and is required to properly track change and support automatic database migration.</p>
 <p><a href="http://www.codesynthesis.com/products/odb/doc/manual.xhtml">ODB</a> comes with per-schema versioning, which allows use to make use of powerful versioning strategy.</p>
-<h2><a class="anchor" id="autotoc_md15"></a>
+<h2><a class="anchor" id="autotoc_md17"></a>
 Leosac Database Schemas</h2>
 <p><a href="http://www.codesynthesis.com/products/odb/doc/manual.xhtml">ODB</a> comes with per-schema versioning. This means the same database can have multiple versions at the same.</p>
 <p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> makes use of this, by defining multiple schemas:</p><ol type="1">
@@ -111,7 +111,7 @@ Leosac Database Schemas</h2>
 <li>Each module that is database-aware <b>must</b> define and use its own schema. A module should name its schema <code>module-MODULE_NAME</code>. <br  />
  The version of module's schema can change between module release. It is the responsibility of the module developer to properly version his module.</li>
 </ol>
-<h2><a class="anchor" id="autotoc_md16"></a>
+<h2><a class="anchor" id="autotoc_md18"></a>
 At the code level</h2>
 <p>The <code><a class="el" href="../../df/da2/database_8hpp.html">database.hpp</a></code> uses a <code>pragma db model version(x, y)</code> so that we can define <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>'s <code>core</code> schema version.</p>
 <p>It is important for module code to define <code>ODB_NO_BASE_VERSION</code> before including any file that could include <code><a class="el" href="../../df/da2/database_8hpp.html">database.hpp</a></code>. Defining <code>ODB_NO_BASE_VERSION</code> will prevent the use of <code>pragma db model version(x, y)</code> and will allows module code to pick it's own version. </p>
@@ -122,7 +122,7 @@ At the code level</h2>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d8b/page_dev_content.html">Developer&#39;s stuff</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:51:48 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

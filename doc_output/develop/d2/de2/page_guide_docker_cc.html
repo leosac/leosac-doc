@@ -96,7 +96,7 @@ $(document).ready(function(){initNavTree('d2/de2/page_guide_docker_cc.html','../
 <div class="contents">
 <div class="textblock"><p>Describes how to use the "cross_compile" helper container. For ready to run <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> docker images, see <a href="https://hub.docker.com/r/maxhy/leosac">https://hub.docker.com/r/maxhy/leosac</a></p>
 <p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> comes with a container tailored for cross compiling <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> to the Raspberry Pi. The process of cross-compilation builds, then bundles, all dependencies.</p>
-<h2><a class="anchor" id="autotoc_md17"></a>
+<h2><a class="anchor" id="autotoc_md19"></a>
 Background</h2>
 <p>This method trades simplicity for speed. If your idea of fun is not watching your Pi take hours to build <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>, then you should consider this method to build <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a>.</p>
 <p>The recommended way to interact with the cross-compile container is to use <code>leosaccli dev cc XXX</code>. This tool must be built first, however, and the steps below explain how to do that.</p>
@@ -109,10 +109,10 @@ Background</h2>
 </ul>
 <p>The build will take place in <code>/leosac_arm_build</code>.</p>
 <p>This will create a set of files in an aribtrary folder under /tmp. This folder will contain two files, <code>fakeroot.tar</code> and <code>LEOSAC-x.y.x.sh</code>, which should be copied to and then extracted on your RaspberryPi.</p>
-<h2><a class="anchor" id="autotoc_md18"></a>
+<h2><a class="anchor" id="autotoc_md20"></a>
 Prerequsites</h2>
 <p>Prior to following the steps below, <a href="https://docs.docker.com/get-started/">Docker</a> must be installed, and you must be able to run Docker as a non-root user. Verify Docker is working currently by running the "Hello World" container as shown in the <a href="https://docs.docker.com/get-started/">Get-Started</a> guide.</p>
-<h2><a class="anchor" id="autotoc_md19"></a>
+<h2><a class="anchor" id="autotoc_md21"></a>
 Full Example from Start to Finish</h2>
 <p>Clone the <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> repository:</p><ul>
 <li><code>git clone <a href="https://github.com/leosac/leosac">https://github.com/leosac/leosac</a></code></li>
@@ -147,7 +147,7 @@ Full Example from Start to Finish</h2>
 <li><code>tar -xf fakeroot.tar -C /</code></li>
 <li><code>sudo LEOSAC-x.y.x.sh --prefix=/usr/local</code> where x.y.x is the version of <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a></li>
 </ul>
-<h2><a class="anchor" id="autotoc_md20"></a>
+<h2><a class="anchor" id="autotoc_md22"></a>
 Follow-Up Tasks</h2>
 <p><a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> is now installed on your system, but there are couple of additional tasks you should perform.</p>
 <p>Get the <a class="el" href="../../d6/d58/namespaceLeosac.html" title="This is the header file for a generated source file, GitSHA1.cpp.">Leosac</a> service file:</p><ul>
@@ -165,7 +165,7 @@ Follow-Up Tasks</h2>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d30/page_guides.html">Guides</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:51:48 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

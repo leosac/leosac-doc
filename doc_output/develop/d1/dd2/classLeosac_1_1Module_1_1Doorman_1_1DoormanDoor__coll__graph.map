@@ -1,0 +1,6 @@
+<map id="Leosac::Module::Doorman::DoormanDoor" name="Leosac::Module::Doorman::DoormanDoor">
+<area shape="rect" id="node1" title="Implements a Doorman Door, that is, a component that will listen to door specific event unrelated to ..." alt="" coords="69,200,259,241"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="31,96,118,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="143,96,361,123"/>
+</map>

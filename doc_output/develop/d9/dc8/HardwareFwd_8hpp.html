@@ -112,7 +112,7 @@ $(document).ready(function(){initNavTree('d9/dc8/HardwareFwd_8hpp.html','../../'
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d7/dfc/HardwareFwd_8hpp__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d7/dfc/HardwareFwd_8hpp__dep__incl.svg" width="100%" height="540"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 </div>
 <p><a href="../../d9/dc8/HardwareFwd_8hpp_source.html">Go to the source code of this file.</a></p>
@@ -138,16 +138,22 @@ Typedefs</h2></td></tr>
 <tr class="separator:ad606fd48851c2548758c33b863c3e814"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab020f820d50518153adf3aad7373cc77"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#ab020f820d50518153adf3aad7373cc77">Leosac::Hardware::BuzzerPtr</a> = std::shared_ptr&lt; Buzzer &gt;</td></tr>
 <tr class="separator:ab020f820d50518153adf3aad7373cc77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad71403387a102cdc1184f22af42760ef"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#ad71403387a102cdc1184f22af42760ef">Leosac::Hardware::ExternalMessagePtr</a> = std::shared_ptr&lt; ExternalMessage &gt;</td></tr>
+<tr class="separator:ad71403387a102cdc1184f22af42760ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad1aed4d7d0b34825059690ce825d6ab"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#aad1aed4d7d0b34825059690ce825d6ab">Leosac::Hardware::ExternalServerPtr</a> = std::shared_ptr&lt; ExternalServer &gt;</td></tr>
+<tr class="separator:aad1aed4d7d0b34825059690ce825d6ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
 Enumerations</h2></td></tr>
 <tr class="memitem:a162105f429ab56ebc1c3f67233bc9e4c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> { <br />
 &#160;&#160;<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4ca696b031073e74bf2cb98e5ef201d4aa3">Leosac::Hardware::DeviceClass::UNKNOWN</a> = 0, 
 <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4caa4b03abff0e37da035d6fc0f9a4b1235">Leosac::Hardware::DeviceClass::GPIO</a> = 1, 
-<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4caf15a319337d2ee620e8ba995d9df22bf">Leosac::Hardware::DeviceClass::RFID_READERS</a> = 2, 
+<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4cae373d931e3a16f3668e45fa01f0bad53">Leosac::Hardware::DeviceClass::RFID_READER</a> = 2, 
 <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4ca53e0dbc06e48e3d381ac224fa8bae3df">Leosac::Hardware::DeviceClass::LED</a> = 3, 
 <br />
-&#160;&#160;<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4ca74add27c8c59e77bd107b27bf43ca955">Leosac::Hardware::DeviceClass::BUZZER</a> = 4
+&#160;&#160;<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4ca74add27c8c59e77bd107b27bf43ca955">Leosac::Hardware::DeviceClass::BUZZER</a> = 4, 
+<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4cab3e1ad1c13145fb115496ec0fcbecf96">Leosac::Hardware::DeviceClass::EXTERNAL_MESSAGE</a> = 5, 
+<a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4cac32a0300d9afe931b339b5db899d887d">Leosac::Hardware::DeviceClass::EXTERNAL_SERVER</a> = 6
 <br />
  }</td></tr>
 <tr class="memdesc:a162105f429ab56ebc1c3f67233bc9e4c"><td class="mdescLeft">&#160;</td><td class="mdescRight">An enumeration describing the class of the device.  <a href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">More...</a><br /></td></tr>
@@ -159,7 +165,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_59b1e980a670de987a696efba6dbbdbc.html">hardware</a></li><li class="navelem"><a class="el" href="../../d9/dc8/HardwareFwd_8hpp.html">HardwareFwd.hpp</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:33 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:49:52 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

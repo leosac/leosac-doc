@@ -1,8 +1,8 @@
 <map id="src/dynlib/dynamiclibrary.hpp" name="src/dynlib/dynamiclibrary.hpp">
-<area shape="rect" id="node1" title="DynamicLibrary class." alt="" coords="1087,5,1301,32"/>
-<area shape="rect" id="node2" href="$d6/d6c/module__manager_8hpp.html" title=" " alt="" coords="965,80,1183,107"/>
-<area shape="rect" id="node23" href="$df/df1/dynamiclibrary_8cpp.html" title="DynamicLibrary class." alt="" coords="1208,80,1420,107"/>
-<area shape="rect" id="node3" href="$df/db8/kernel_8hpp.html" title=" " alt="" coords="1848,155,1993,181"/>
+<area shape="rect" id="node1" title="DynamicLibrary class." alt="" coords="1201,5,1414,32"/>
+<area shape="rect" id="node2" href="$d6/d6c/module__manager_8hpp.html" title=" " alt="" coords="1078,80,1297,107"/>
+<area shape="rect" id="node25" href="$df/df1/dynamiclibrary_8cpp.html" title="DynamicLibrary class." alt="" coords="1321,80,1533,107"/>
+<area shape="rect" id="node3" href="$df/db8/kernel_8hpp.html" title=" " alt="" coords="2075,155,2220,181"/>
 <area shape="rect" id="node9" href="$d9/d4a/module__manager_8cpp.html" title=" " alt="" coords="5,237,223,263"/>
 <area shape="rect" id="node4" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title=" " alt="" coords="247,237,491,263"/>
 <area shape="rect" id="node5" href="$d3/d1e/CoreAPI_8cpp.html" title=" " alt="" coords="515,237,670,263"/>
@@ -19,7 +19,9 @@
 <area shape="rect" id="node17" href="$d8/d37/AuthFileModule_8cpp.html" title=" " alt="" coords="2717,229,2895,271"/>
 <area shape="rect" id="node18" href="$d0/d58/DoormanModule_8cpp.html" title=" " alt="" coords="2919,229,3082,271"/>
 <area shape="rect" id="node19" href="$d7/d36/LEDBuzzerModule_8cpp.html" title=" " alt="" coords="3106,229,3279,271"/>
-<area shape="rect" id="node20" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="3304,229,3473,271"/>
-<area shape="rect" id="node21" href="$d9/d8d/APISession_8cpp.html" title=" " alt="" coords="3498,229,3671,271"/>
-<area shape="rect" id="node22" href="$d3/de8/wiegand_8cpp.html" title=" " alt="" coords="3695,229,3855,271"/>
+<area shape="rect" id="node20" href="$db/de7/LibgpiodModule_8cpp.html" title=" " alt="" coords="3303,229,3461,271"/>
+<area shape="rect" id="node21" href="$d6/d18/MqttModule_8cpp.html" title=" " alt="" coords="3485,237,3730,263"/>
+<area shape="rect" id="node22" href="$da/d77/SysFsGpioModule_8cpp.html" title=" " alt="" coords="3755,229,3924,271"/>
+<area shape="rect" id="node23" href="$d9/d8d/APISession_8cpp.html" title=" " alt="" coords="3949,229,4122,271"/>
+<area shape="rect" id="node24" href="$d3/de8/wiegand_8cpp.html" title=" " alt="" coords="4146,229,4306,271"/>
 </map>

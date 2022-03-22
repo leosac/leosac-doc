@@ -160,13 +160,13 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a92f348197e7547019b31030627643cf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb8cf229a54c13cdea6d1dbd3ff62c6f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#aeb8cf229a54c13cdea6d1dbd3ff62c6f">process_config</a> (const boost::property_tree::ptree &amp;cfg)</td></tr>
 <tr class="separator:aeb8cf229a54c13cdea6d1dbd3ff62c6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a372958bacffc5878e6444214399665f0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#a372958bacffc5878e6444214399665f0">gather_remote_module_list</a> (zmqpp::socket &amp;s, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;remote_modules)</td></tr>
+<tr class="memitem:a372958bacffc5878e6444214399665f0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#a372958bacffc5878e6444214399665f0">gather_remote_module_list</a> (zmqpp::socket &amp;s, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;remote_modules)</td></tr>
 <tr class="memdesc:a372958bacffc5878e6444214399665f0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Build the list of modules (their name) running on the remote host.  <a href="../../d7/d42/classLeosac_1_1RemoteControl.html#a372958bacffc5878e6444214399665f0">More...</a><br /></td></tr>
 <tr class="separator:a372958bacffc5878e6444214399665f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a56fe1a691db46c8737c44259ef1b6aa5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#a56fe1a691db46c8737c44259ef1b6aa5">receive_remote_config</a> (zmqpp::socket &amp;s, std::map&lt; std::string, bool &gt; &amp;cfg)</td></tr>
 <tr class="memdesc:a56fe1a691db46c8737c44259ef1b6aa5"><td class="mdescLeft">&#160;</td><td class="mdescRight">After sending a bunch of MODULE_CONFIG command, wait for reply.  <a href="../../d7/d42/classLeosac_1_1RemoteControl.html#a56fe1a691db46c8737c44259ef1b6aa5">More...</a><br /></td></tr>
 <tr class="separator:a56fe1a691db46c8737c44259ef1b6aa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a36af678fbfdac480eec8db5d9e7290c2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#a36af678fbfdac480eec8db5d9e7290c2">gather_remote_config</a> (zmqpp::socket &amp;s, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;start_list, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;stop_list)</td></tr>
+<tr class="memitem:a36af678fbfdac480eec8db5d9e7290c2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html#a36af678fbfdac480eec8db5d9e7290c2">gather_remote_config</a> (zmqpp::socket &amp;s, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;start_list, <a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;stop_list)</td></tr>
 <tr class="memdesc:a36af678fbfdac480eec8db5d9e7290c2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Will retrieve the config for a remote leosac unit.  <a href="../../d7/d42/classLeosac_1_1RemoteControl.html#a36af678fbfdac480eec8db5d9e7290c2">More...</a><br /></td></tr>
 <tr class="separator:a36af678fbfdac480eec8db5d9e7290c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -287,13 +287,13 @@ Friends</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
           <td class="paramname"><em>start_list</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
           <td class="paramname"><em>stop_list</em>&#160;</td>
         </tr>
         <tr>
@@ -333,7 +333,7 @@ Friends</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a686e2d75992b69eec39621e79948398b">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbf/src_2CMakeLists_8txt.html#a60f0725531431a6a0ba299e63a016293">std::list</a>&lt; std::string &gt; &amp;&#160;</td>
           <td class="paramname"><em>remote_modules</em>&#160;</td>
         </tr>
         <tr>
@@ -1095,7 +1095,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d58/namespaceLeosac.html">Leosac</a></li><li class="navelem"><a class="el" href="../../d7/d42/classLeosac_1_1RemoteControl.html">RemoteControl</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:35 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:52:08 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

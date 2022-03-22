@@ -383,7 +383,7 @@
 <g id="node14" class="node">
 <title>Node25</title>
 <g id="a_node14"><a xlink:href="../../db/d33/ConfigChecker_8hpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1517.5,-129 1517.5,-148 1680.5,-148 1680.5,-129 1517.5,-129"/>
+<polygon fill="white" stroke="red" points="1517.5,-129 1517.5,-148 1680.5,-148 1680.5,-129 1517.5,-129"/>
 <text text-anchor="middle" x="1599" y="-136" font-family="Helvetica,sans-Serif" font-size="10.00">core/config/ConfigChecker.hpp</text>
 </a>
 </g>

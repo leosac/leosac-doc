@@ -22,6 +22,7 @@ var annotated_dup =
     [ "ModelException", "d0/d5e/classModelException.html", "d0/d5e/classModelException" ],
     [ "ModuleException", "df/d5f/classModuleException.html", "df/d5f/classModuleException" ],
     [ "ModuleManager", "d0/dc3/classModuleManager.html", "d0/dc3/classModuleManager" ],
+    [ "mqtt_callback", "d1/d47/classmqtt__callback.html", "d1/d47/classmqtt__callback" ],
     [ "PermissionDenied", "df/d65/classPermissionDenied.html", "df/d65/classPermissionDenied" ],
     [ "PFDigitalPin", "dc/d4b/structPFDigitalPin.html", "dc/d4b/structPFDigitalPin" ],
     [ "Random", "d5/d78/classRandom.html", null ],

@@ -12,10 +12,10 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="da/d98/structLeosac_1_1Module_1_1WebSockAPI_1_1RequestContext.html" target="_top" xlink:title="Holds valuable pointer to provide context to a request.">
+<g id="a_node1"><a xlink:href="d2/d15/structLeosac_1_1Module_1_1WebSockAPI_1_1ClientMessage.html" target="_top" xlink:title="A message sent by a client to Leosac.">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 158,-30.5 158,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">Leosac::Module::WebSockAPI</text>
-<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::RequestContext</text>
+<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::ClientMessage</text>
 </a>
 </g>
 </g>

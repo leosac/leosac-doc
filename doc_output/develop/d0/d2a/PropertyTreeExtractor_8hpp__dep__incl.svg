@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 689;
+var viewWidth = 826;
 var viewHeight = 95;
 var sectionId = 'dynsection-1';
 </script>
@@ -54,13 +54,13 @@ var sectionId = 'dynsection-1';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>src/tools/PropertyTreeExtractor.hpp</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-91 684.5,-91 684.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-91 821.5,-91 821.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="243,-67.5 243,-86.5 430,-86.5 430,-67.5 243,-67.5"/>
-<text text-anchor="middle" x="336.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/tools/PropertyTreeExtractor.hpp</text>
+<polygon fill="#bfbfbf" stroke="black" points="307,-67.5 307,-86.5 494,-86.5 494,-67.5 307,-67.5"/>
+<text text-anchor="middle" x="400.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/tools/PropertyTreeExtractor.hpp</text>
 </a>
 </g>
 </g>
@@ -76,55 +76,71 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M291.67,-65.11C244.12,-53.57 169.99,-35.56 126.54,-25.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="290.85,-68.52 301.4,-67.48 292.51,-61.71 290.85,-68.52"/>
+<path fill="none" stroke="midnightblue" d="M346.21,-65.55C286.34,-54.02 191.18,-35.69 135.69,-25.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="345.75,-69.02 356.23,-67.48 347.07,-62.15 345.75,-69.02"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../da/d18/src_2modules_2sysfsgpio_2SysFsGpioConfig_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="201,-0.5 201,-30.5 326,-30.5 326,-0.5 201,-0.5"/>
-<text text-anchor="start" x="209" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/sysfsgpio</text>
-<text text-anchor="middle" x="263.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">/SysFsGpioConfig.cpp</text>
+<g id="a_node3"><a xlink:href="../../d8/d42/LibgpiodConfig_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="201.5,-0.5 201.5,-30.5 319.5,-30.5 319.5,-0.5 201.5,-0.5"/>
+<text text-anchor="start" x="209.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/libgpiod</text>
+<text text-anchor="middle" x="260.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">/LibgpiodConfig.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M318,-60.92C306.54,-51.58 291.92,-39.66 280.7,-30.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="316.08,-63.87 326.04,-67.48 320.5,-58.44 316.08,-63.87"/>
+<path fill="none" stroke="midnightblue" d="M371,-63.46C348.32,-53.82 317,-40.51 293.5,-30.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="369.87,-66.78 380.44,-67.48 372.61,-60.34 369.87,-66.78"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d0/df4/TcpNotifier_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="344.5,-0.5 344.5,-30.5 476.5,-30.5 476.5,-0.5 344.5,-0.5"/>
-<text text-anchor="start" x="352.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/tcp&#45;notifier</text>
-<text text-anchor="middle" x="410.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">/TcpNotifier.cpp</text>
+<g id="a_node4"><a xlink:href="../../da/d18/src_2modules_2sysfsgpio_2SysFsGpioConfig_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="338,-0.5 338,-30.5 463,-30.5 463,-0.5 338,-0.5"/>
+<text text-anchor="start" x="346" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/sysfsgpio</text>
+<text text-anchor="middle" x="400.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">/SysFsGpioConfig.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M354.91,-61.2C366.58,-51.81 381.58,-39.75 393.06,-30.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="352.7,-58.48 347.1,-67.48 357.09,-63.94 352.7,-58.48"/>
+<path fill="none" stroke="midnightblue" d="M400.5,-57.23C400.5,-48.59 400.5,-38.5 400.5,-30.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="397,-57.48 400.5,-67.48 404,-57.48 397,-57.48"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../d7/de6/PropertyTreeExtractor_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="494.5,-6 494.5,-25 680.5,-25 680.5,-6 494.5,-6"/>
-<text text-anchor="middle" x="587.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">src/tools/PropertyTreeExtractor.cpp</text>
+<g id="a_node5"><a xlink:href="../../d0/df4/TcpNotifier_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="481.5,-0.5 481.5,-30.5 613.5,-30.5 613.5,-0.5 481.5,-0.5"/>
+<text text-anchor="start" x="489.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/modules/tcp&#45;notifier</text>
+<text text-anchor="middle" x="547.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">/TcpNotifier.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M382.42,-65.11C431.14,-53.57 507.09,-35.56 551.6,-25.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="381.39,-61.76 372.46,-67.48 383,-68.57 381.39,-61.76"/>
+<path fill="none" stroke="midnightblue" d="M430.84,-63.72C454.7,-54.06 487.95,-40.6 512.86,-30.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="429.52,-60.48 421.56,-67.48 432.14,-66.97 429.52,-60.48"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="../../d7/de6/PropertyTreeExtractor_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="631.5,-6 631.5,-25 817.5,-25 817.5,-6 631.5,-6"/>
+<text text-anchor="middle" x="724.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">src/tools/PropertyTreeExtractor.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge5" class="edge">
+<title>Node1&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M457.04,-65.62C519.79,-54.09 619.86,-35.72 678.16,-25.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="456.12,-62.23 446.92,-67.48 457.39,-69.11 456.12,-62.23"/>
 </g>
 </g>
 </svg>

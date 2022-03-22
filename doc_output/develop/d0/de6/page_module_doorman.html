@@ -159,6 +159,18 @@ Configuration Options</h1>
 <td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">off </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">Some schedules for when the door is in "always closed" mode </td><td class="markdownTableBodyNone">NO  </td></tr>
 <tr class="markdownTableRowOdd">
 <td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">schedules </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">See <a class="el" href="../../d4/dae/page_module_authfile.html#mod_auth_sched_declare">here</a> to learn how to declare schedules </td><td class="markdownTableBodyNone">YES  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">exitreq </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">Manage "request to exit" for the door (usually a push button) </td><td class="markdownTableBodyNone">NO  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">gpio </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">The request to exit GPIO </td><td class="markdownTableBodyNone">YES  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">duration </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">The normal state (open / close) </td><td class="markdownTableBodyNone">YES  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">contact </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">Duration to keep the door open </td><td class="markdownTableBodyNone">NO  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">gpio </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">The contact sensor GPIO. Interrupt mode needs to be set to Both. </td><td class="markdownTableBodyNone">YES  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">&mdash;&gt; </td><td class="markdownTableBodyNone">duration </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">Duration before triggering an alarm </td><td class="markdownTableBodyNone">YES  </td></tr>
 </table>
 <dl class="section note"><dt>Note</dt><dd>The <code>&lt;cmd&gt;</code> tag is quite simple. It looks like this: <div class="fragment"><div class="line">&lt;<span class="keywordtype">cmd</span>&gt;</div>
 <div class="line">    &lt;<span class="keywordtype">f1</span>&gt;<span class="keyword">GREEN_LED</span>&lt;/<span class="keywordtype">f1</span>&gt;</div>
@@ -170,7 +182,7 @@ Configuration Options</h1>
 <p>@hr</p>
 <dl class="section note"><dt>Note</dt><dd><code>instances.instance.actions.action.target</code> is the name of an object that has been defined in the system. It could be the name of a GPIO you defined before ("my_super_gpio") or some reader object ("my_wiegand1"), etc.</dd></dl>
 <p>@hr</p>
-<dl class="section note"><dt>Note</dt><dd>Declaring <code>doors</code> is optional, and is only ever useful if you make use of the "always open" or "always close" feature.</dd></dl>
+<dl class="section note"><dt>Note</dt><dd>Declaring <code>doors</code> is optional, and is only ever useful if you make use of the "always open", "always close", "exit request" or "contact" feature.</dd></dl>
 <h2><a class="anchor" id="mod_doorman_example_0"></a>
 Example 0</h2>
 <p>This is a very simple example that requires a component named "gpio_door" to open for 2.5 seconds when an successful authentication happens. If the authentication fails, it would ask the "led_failure" to turns on to 2.5s.</p>
@@ -299,7 +311,7 @@ Relay Wiring</div></div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../index.html">Leosac Manual</a></li><li class="navelem"><a class="el" href="../../d9/d1d/page_doc_content.html">Documentation</a></li><li class="navelem"><a class="el" href="../../da/dca/page_module.html">Modules</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:34 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:51:47 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

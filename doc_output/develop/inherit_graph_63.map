@@ -1,9 +1,13 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,81,196,108"/>
+<area shape="rect" id="node1" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices." alt="" coords="5,159,196,185"/>
 <area shape="rect" id="node2" href="$dc/d7a/classLeosac_1_1Hardware_1_1Buzzer.html" title="Abstraction of Buzzer device attributes." alt="" coords="260,5,451,32"/>
-<area shape="rect" id="node3" href="$de/d98/classLeosac_1_1Hardware_1_1GPIO.html" title="Abstraction of a GPIO device attributes." alt="" coords="266,56,445,83"/>
-<area shape="rect" id="node5" href="$d3/d64/classLeosac_1_1Hardware_1_1LED.html" title="Abstraction of LED device attributes." alt="" coords="270,107,441,133"/>
-<area shape="rect" id="node6" href="$d8/d82/classLeosac_1_1Hardware_1_1RFIDReader.html" title="Abstraction of a RFID Reader device." alt="" coords="244,157,467,184"/>
-<area shape="rect" id="node4" href="$dc/d7f/classLeosac_1_1Module_1_1Piface_1_1PFGPIO.html" title="Piface Module GPIO descriptor." alt="" coords="523,49,694,90"/>
-<area shape="rect" id="node7" href="$dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html" title="An instance of this class represents the configuration of one Wiegand reader." alt="" coords="515,150,703,191"/>
+<area shape="rect" id="node3" href="$d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html" title="Abstraction of an External Messaging device." alt="" coords="255,57,455,98"/>
+<area shape="rect" id="node5" href="$d2/dc7/classLeosac_1_1Hardware_1_1ExternalServer.html" title="Abstraction of an External Server device." alt="" coords="255,122,455,163"/>
+<area shape="rect" id="node7" href="$de/d98/classLeosac_1_1Hardware_1_1GPIO.html" title="Abstraction of a GPIO device attributes." alt="" coords="266,188,445,215"/>
+<area shape="rect" id="node9" href="$d3/d64/classLeosac_1_1Hardware_1_1LED.html" title="Abstraction of LED device attributes." alt="" coords="270,239,441,265"/>
+<area shape="rect" id="node10" href="$d8/d82/classLeosac_1_1Hardware_1_1RFIDReader.html" title="Abstraction of a RFID Reader device." alt="" coords="244,289,467,316"/>
+<area shape="rect" id="node4" href="$d8/dc7/structLeosac_1_1Module_1_1Mqtt_1_1MqttExternalMessage.html" title=" " alt="" coords="523,57,695,98"/>
+<area shape="rect" id="node6" href="$d8/d04/structLeosac_1_1Module_1_1Mqtt_1_1MqttServerConfig.html" title="An instance of this class represents the configuration of one Mqtt server." alt="" coords="528,122,689,163"/>
+<area shape="rect" id="node8" href="$dc/d7f/classLeosac_1_1Module_1_1Piface_1_1PFGPIO.html" title="Piface Module GPIO descriptor." alt="" coords="523,187,694,229"/>
+<area shape="rect" id="node11" href="$dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html" title="An instance of this class represents the configuration of one Wiegand reader." alt="" coords="515,282,703,323"/>
 </map>

@@ -12,10 +12,10 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="d5/dad/classLeosac_1_1Module_1_1WebSockAPI_1_1WSServer.html" target="_top" xlink:title="The implementation class that runs the websocket server.">
+<g id="a_node1"><a xlink:href="d9/deb/structLeosac_1_1Module_1_1WebSockAPI_1_1ModuleIncomingMessage.html" target="_top" xlink:title="This is an appropriate representation of a incoming WS message as seen by a module.">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 158,-30.5 158,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">Leosac::Module::WebSockAPI</text>
-<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::WSServer</text>
+<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::ModuleIncomingMessage</text>
 </a>
 </g>
 </g>

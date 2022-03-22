@@ -10,6 +10,14 @@ var dir_59b1e980a670de987a696efba6dbbdbc =
     [ "Device.hpp", "da/d14/Device_8hpp.html", [
       [ "Device", "d3/d7f/classLeosac_1_1Hardware_1_1Device.html", "d3/d7f/classLeosac_1_1Hardware_1_1Device" ]
     ] ],
+    [ "ExternalMessage.cpp", "de/dc1/ExternalMessage_8cpp.html", null ],
+    [ "ExternalMessage.hpp", "d0/d98/ExternalMessage_8hpp.html", [
+      [ "ExternalMessage", "d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage.html", "d4/d55/classLeosac_1_1Hardware_1_1ExternalMessage" ]
+    ] ],
+    [ "ExternalServer.cpp", "d5/d9d/ExternalServer_8cpp.html", null ],
+    [ "ExternalServer.hpp", "d0/d22/ExternalServer_8hpp.html", [
+      [ "ExternalServer", "d2/dc7/classLeosac_1_1Hardware_1_1ExternalServer.html", "d2/dc7/classLeosac_1_1Hardware_1_1ExternalServer" ]
+    ] ],
     [ "GPIO.cpp", "d8/dc2/GPIO_8cpp.html", null ],
     [ "GPIO.hpp", "d9/d02/GPIO_8hpp.html", [
       [ "GPIO", "de/d98/classLeosac_1_1Hardware_1_1GPIO.html", "de/d98/classLeosac_1_1Hardware_1_1GPIO" ]

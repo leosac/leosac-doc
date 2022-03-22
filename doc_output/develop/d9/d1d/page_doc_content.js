@@ -76,5 +76,12 @@ var page_doc_content =
         [ "CONFIG_VERSION", "d7/df1/page_remote_control.html#remote_control_config_version", null ]
       ] ]
     ] ],
-    [ "Installation Guide: Rpi + Piface + Wiegand Reader", "d5/d97/page_guide_rpi_piface_wiegand.html", "d5/d97/page_guide_rpi_piface_wiegand" ]
+    [ "Installation Guide (part 2): Raspberry Pi (1 B+ or 2 or 3 or 4) + Piface Digital (1 or 2) + Wiegand Reader", "d5/d97/page_guide_rpi_piface_wiegand.html", [
+      [ "Installation guide", "d5/d97/page_guide_rpi_piface_wiegand.html#install_guide_rpi", null ],
+      [ "Adding modules", "d5/d97/page_guide_rpi_piface_wiegand.html#install_guide_rpi_add_mod", [
+        [ "Configuring the Piface Digital module", "d5/d97/page_guide_rpi_piface_wiegand.html#install_guide_rpi_add_mod_piface", null ]
+      ] ],
+      [ "Wiring everything", "d5/d97/page_guide_rpi_piface_wiegand.html#install_guide_rpi_wiring", null ],
+      [ "Conclusion", "d5/d97/page_guide_rpi_piface_wiegand.html#install_guide_rpi_end", null ]
+    ] ]
 ];

@@ -193,16 +193,16 @@
 <g id="node18" class="node">
 <title>Node18</title>
 <g id="a_node18"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="423.5,-488.48 423.5,-518.48 545.5,-518.48 545.5,-488.48 423.5,-488.48"/>
-<text text-anchor="start" x="431.5" y="-506.48" font-family="Helvetica,sans-Serif" font-size="10.00">std::map&lt; std::string,</text>
-<text text-anchor="middle" x="484.5" y="-495.48" font-family="Helvetica,sans-Serif" font-size="10.00"> ObjectType &gt;</text>
+<polygon fill="white" stroke="#bfbfbf" points="392.5,-488.48 392.5,-518.48 576.5,-518.48 576.5,-488.48 392.5,-488.48"/>
+<text text-anchor="start" x="400.5" y="-506.48" font-family="Helvetica,sans-Serif" font-size="10.00">std::map&lt; std::string,</text>
+<text text-anchor="middle" x="484.5" y="-495.48" font-family="Helvetica,sans-Serif" font-size="10.00"> Leosac::Hardware::DeviceClass &gt;</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node18 -->
 <g id="edge26" class="edge">
 <title>Node4&#45;&gt;Node18</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M258.25,-396.27C270.34,-418.71 293.72,-455.58 325,-474.48 354.45,-492.28 392.19,-499.67 423.45,-502.55"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M258.25,-396.27C270.34,-418.71 293.72,-455.58 325,-474.48 345.11,-486.64 369.09,-493.94 392.23,-498.26"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="261.21,-394.37 253.5,-387.09 254.99,-397.58 261.21,-394.37"/>
 <text text-anchor="middle" x="349.5" y="-496.48" font-family="Helvetica,sans-Serif" font-size="10.00"> keys</text>
 </g>
@@ -547,8 +547,8 @@
 <!-- Node18&#45;&gt;Node17 -->
 <g id="edge25" class="edge">
 <title>Node18&#45;&gt;Node17</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M556.03,-497.69C610.67,-494.16 688.24,-491.24 756,-496.48 765.8,-497.24 776.19,-498.5 786.19,-499.93"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="555.5,-494.22 545.76,-498.38 555.97,-501.2 555.5,-494.22"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M586.72,-495.93C637.58,-493.39 700.12,-492.16 756,-496.48 765.8,-497.24 776.19,-498.5 786.19,-499.93"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="586.52,-492.44 576.71,-496.45 586.88,-499.43 586.52,-492.44"/>
 <text text-anchor="middle" x="675.5" y="-499.48" font-family="Helvetica,sans-Serif" font-size="10.00"> objects_</text>
 </g>
 <!-- Node19 -->

@@ -8,6 +8,14 @@ var dir_9dd41c5a5c2f882ac74527f0ec76fc36 =
     [ "DeviceSerializer.hpp", "da/d25/DeviceSerializer_8hpp.html", [
       [ "DeviceSerializer", "d9/d9b/structLeosac_1_1Hardware_1_1DeviceSerializer.html", null ]
     ] ],
+    [ "ExternalMessageSerializer.cpp", "d3/dd4/ExternalMessageSerializer_8cpp.html", null ],
+    [ "ExternalMessageSerializer.hpp", "d2/d12/ExternalMessageSerializer_8hpp.html", [
+      [ "ExternalMessageSerializer", "db/d0d/structLeosac_1_1Hardware_1_1ExternalMessageSerializer.html", null ]
+    ] ],
+    [ "ExternalServerSerializer.cpp", "d3/d33/ExternalServerSerializer_8cpp.html", null ],
+    [ "ExternalServerSerializer.hpp", "df/df7/ExternalServerSerializer_8hpp.html", [
+      [ "ExternalServerSerializer", "d7/d7d/structLeosac_1_1Hardware_1_1ExternalServerSerializer.html", null ]
+    ] ],
     [ "GPIOSerializer.cpp", "d3/dbb/GPIOSerializer_8cpp.html", null ],
     [ "GPIOSerializer.hpp", "dc/d8a/GPIOSerializer_8hpp.html", [
       [ "GPIOSerializer", "d3/d28/structLeosac_1_1Hardware_1_1GPIOSerializer.html", null ]

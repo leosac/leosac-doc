@@ -91,7 +91,6 @@ $(document).ready(function(){initNavTree('d4/d3f/classLeosac_1_1ConfigChecker.ht
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/d00/classLeosac_1_1ConfigChecker-members.html">List of all members</a>  </div>
@@ -109,37 +108,28 @@ $(document).ready(function(){initNavTree('d4/d3f/classLeosac_1_1ConfigChecker.ht
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/dc7/classLeosac_1_1ConfigChecker__coll__graph.svg" width="291" height="322"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/dc7/classLeosac_1_1ConfigChecker__coll__graph.svg" width="374" height="322"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ab308a8c4b9c4b94448fc2482521464ec"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> { <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ecaa4b03abff0e37da035d6fc0f9a4b1235">ObjectType::GPIO</a> = 0, 
-<a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464eca53e0dbc06e48e3d381ac224fa8bae3df">ObjectType::LED</a> = 1, 
-<a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ecafc7b1221c343d1c1c9339b2798ee61b0">ObjectType::READER</a> = 2, 
-<a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464eca74add27c8c59e77bd107b27bf43ca955">ObjectType::BUZZER</a> = 3
- }</td></tr>
-<tr class="separator:ab308a8c4b9c4b94448fc2482521464ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a579fcb072d9950d99cb8ac0483d7f161"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a579fcb072d9950d99cb8ac0483d7f161">register_object</a> (const std::string &amp;name, const <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> &amp;type)</td></tr>
-<tr class="memdesc:a579fcb072d9950d99cb8ac0483d7f161"><td class="mdescLeft">&#160;</td><td class="mdescRight">Declare an object on the registry.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a579fcb072d9950d99cb8ac0483d7f161">More...</a><br /></td></tr>
-<tr class="separator:a579fcb072d9950d99cb8ac0483d7f161"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae50c81f157ccaebdebb1959026977332"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ae50c81f157ccaebdebb1959026977332">register_object</a> (const std::string &amp;name, const <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> &amp;type)</td></tr>
+<tr class="memdesc:ae50c81f157ccaebdebb1959026977332"><td class="mdescLeft">&#160;</td><td class="mdescRight">Declare an object on the registry.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ae50c81f157ccaebdebb1959026977332">More...</a><br /></td></tr>
+<tr class="separator:ae50c81f157ccaebdebb1959026977332"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee33be6f3da8536213e6de7fba04a42d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#aee33be6f3da8536213e6de7fba04a42d">has_object</a> (const std::string &amp;name) const</td></tr>
 <tr class="memdesc:aee33be6f3da8536213e6de7fba04a42d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether or not an object with name <code>name</code> is declared in the registry, no matter its type.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#aee33be6f3da8536213e6de7fba04a42d">More...</a><br /></td></tr>
 <tr class="separator:aee33be6f3da8536213e6de7fba04a42d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad263246570e1c8cb6b1517250cefd63d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ad263246570e1c8cb6b1517250cefd63d">has_object</a> (const std::string &amp;name, const <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> &amp;type) const</td></tr>
-<tr class="memdesc:ad263246570e1c8cb6b1517250cefd63d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether or not an object with name <code>name</code> is declared in the registry and if check that its type is <code>type</code>.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ad263246570e1c8cb6b1517250cefd63d">More...</a><br /></td></tr>
-<tr class="separator:ad263246570e1c8cb6b1517250cefd63d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac27bca0e2a44e42a4199aba833828bf4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ac27bca0e2a44e42a4199aba833828bf4">has_object</a> (const std::string &amp;name, const <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> &amp;type) const</td></tr>
+<tr class="memdesc:ac27bca0e2a44e42a4199aba833828bf4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether or not an object with name <code>name</code> is declared in the registry and if check that its type is <code>type</code>.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ac27bca0e2a44e42a4199aba833828bf4">More...</a><br /></td></tr>
+<tr class="separator:ac27bca0e2a44e42a4199aba833828bf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09e4fb07079f97303f905db7f02e3ca2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a09e4fb07079f97303f905db7f02e3ca2">clear</a> ()</td></tr>
 <tr class="memdesc:a09e4fb07079f97303f905db7f02e3ca2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear all informations.  <a href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a09e4fb07079f97303f905db7f02e3ca2">More...</a><br /></td></tr>
 <tr class="separator:a09e4fb07079f97303f905db7f02e3ca2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a05cdf975b56d318104bd5ced9a18574f"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::string, <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a05cdf975b56d318104bd5ced9a18574f">objects_</a></td></tr>
-<tr class="separator:a05cdf975b56d318104bd5ced9a18574f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad72bf7bf5beab71aeeb3471a86808221"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::string, <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ad72bf7bf5beab71aeeb3471a86808221">objects_</a></td></tr>
+<tr class="separator:ad72bf7bf5beab71aeeb3471a86808221"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e0a132fafe967b94d1026cbe24853c7"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#a1e0a132fafe967b94d1026cbe24853c7">mutex_</a></td></tr>
 <tr class="separator:a1e0a132fafe967b94d1026cbe24853c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -151,39 +141,8 @@ Private Attributes</h2></td></tr>
 <p>As a result, this class shall be fully thread safe.</p>
 <dl class="section note"><dt>Note</dt><dd>The current behavior is to assert when registering an object twice. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00045">45</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
-</div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="ab308a8c4b9c4b94448fc2482521464ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab308a8c4b9c4b94448fc2482521464ec">&#9670;&nbsp;</a></span>ObjectType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">Leosac::ConfigChecker::ObjectType</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab308a8c4b9c4b94448fc2482521464ecaa4b03abff0e37da035d6fc0f9a4b1235"></a>GPIO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab308a8c4b9c4b94448fc2482521464eca53e0dbc06e48e3d381ac224fa8bae3df"></a>LED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab308a8c4b9c4b94448fc2482521464ecafc7b1221c343d1c1c9339b2798ee61b0"></a>READER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab308a8c4b9c4b94448fc2482521464eca74add27c8c59e77bd107b27bf43ca955"></a>BUZZER&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00048">48</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
+<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00046">46</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a09e4fb07079f97303f905db7f02e3ca2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a09e4fb07079f97303f905db7f02e3ca2">&#9670;&nbsp;</a></span>clear()</h2>
 
@@ -228,8 +187,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ad263246570e1c8cb6b1517250cefd63d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad263246570e1c8cb6b1517250cefd63d">&#9670;&nbsp;</a></span>has_object() <span class="overload">[2/2]</span></h2>
+<a id="ac27bca0e2a44e42a4199aba833828bf4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac27bca0e2a44e42a4199aba833828bf4">&#9670;&nbsp;</a></span>has_object() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -243,7 +202,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> &amp;&#160;</td>
           <td class="paramname"><em>type</em>&#160;</td>
         </tr>
         <tr>
@@ -260,8 +219,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a579fcb072d9950d99cb8ac0483d7f161"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a579fcb072d9950d99cb8ac0483d7f161">&#9670;&nbsp;</a></span>register_object()</h2>
+<a id="ae50c81f157ccaebdebb1959026977332"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae50c81f157ccaebdebb1959026977332">&#9670;&nbsp;</a></span>register_object()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -275,7 +234,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a> &amp;&#160;</td>
           <td class="paramname"><em>type</em>&#160;</td>
         </tr>
         <tr>
@@ -313,12 +272,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00081">81</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00074">74</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
 
 </div>
 </div>
-<a id="a05cdf975b56d318104bd5ced9a18574f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05cdf975b56d318104bd5ced9a18574f">&#9670;&nbsp;</a></span>objects_</h2>
+<a id="ad72bf7bf5beab71aeeb3471a86808221"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad72bf7bf5beab71aeeb3471a86808221">&#9670;&nbsp;</a></span>objects_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -327,7 +286,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;std::string, <a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html#ab308a8c4b9c4b94448fc2482521464ec">ObjectType</a>&gt; Leosac::ConfigChecker::objects_</td>
+          <td class="memname">std::map&lt;std::string, <a class="el" href="../../df/d19/namespaceLeosac_1_1Hardware.html#a162105f429ab56ebc1c3f67233bc9e4c">Leosac::Hardware::DeviceClass</a>&gt; Leosac::ConfigChecker::objects_</td>
         </tr>
       </table>
   </td>
@@ -337,7 +296,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00080">80</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html#l00073">73</a> of file <a class="el" href="../../db/d33/ConfigChecker_8hpp_source.html">ConfigChecker.hpp</a>.</p>
 
 </div>
 </div>
@@ -351,7 +310,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d58/namespaceLeosac.html">Leosac</a></li><li class="navelem"><a class="el" href="../../d4/d3f/classLeosac_1_1ConfigChecker.html">ConfigChecker</a></li>
-    <li class="footer">Generated on Sat Mar 5 2022 19:30:35 for Leosac by
+    <li class="footer">Generated on Tue Mar 22 2022 10:51:58 for Leosac by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

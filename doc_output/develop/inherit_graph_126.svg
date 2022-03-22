@@ -12,10 +12,10 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="d9/d70/structLeosac_1_1Module_1_1WebSockAPI_1_1use__alias__tag.html" target="_top" xlink:title="Use this tag to search for entities with an &quot;alias&quot; field.">
+<g id="a_node1"><a xlink:href="d0/d4c/classLeosac_1_1Module_1_1WebSockAPI_1_1ExceptionConverter.html" target="_top" xlink:title="This class is dedicated to converting exception thrown by various code into a ServerMessage that can ...">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 158,-30.5 158,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">Leosac::Module::WebSockAPI</text>
-<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::use_alias_tag</text>
+<text text-anchor="middle" x="79" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::ExceptionConverter</text>
 </a>
 </g>
 </g>

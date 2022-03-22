@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d8/d05/structLeosac_1_1Module_1_1Piface_1_1ModuleParameters.html" title="Some ~const parameter that are required to process websocket requests." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,60,105"/>
+<area shape="rect" id="node2" href="$db/da1/structLeosac_1_1Module_1_1LedBuzzer_1_1SM_1_1LedBuzzerSM___1_1Idle.html" title=" " alt="" coords="136,5,335,47"/>
+<area shape="rect" id="node3" href="$da/d06/structLeosac_1_1Module_1_1LedBuzzer_1_1SM_1_1LedBuzzerSM___1_1PlayingPattern.html" title=" " alt="" coords="108,71,363,112"/>
+<area shape="rect" id="node4" href="$d7/dd0/structLeosac_1_1Module_1_1LedBuzzer_1_1SM_1_1LedBuzzerSM___1_1StateBlinking.html" title=" " alt="" coords="112,136,359,177"/>
 </map>
